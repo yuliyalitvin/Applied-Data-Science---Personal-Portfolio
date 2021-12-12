@@ -7,6 +7,7 @@ Project: StartVaardig - Predicting the development of motoric skills in young ch
 <br>
 <h3>DataCamp</h3>
 In the folder named "DataCamp_ScreenshotsOfCompletedCourses" you will find screenshots of all completed DataCamp courses. I have completed all required courses successfully. 
+<img></img>
 <br>
 <h3>Research</h3>
 Following is a list of weblinks to literature that has been found during the research phase of this project's topic: 
