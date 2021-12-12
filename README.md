@@ -1,10 +1,10 @@
 # Applied-Data-Science---Personal-Portfolio
 
-Yuliya Litvin 
+<h2>Yuliya Litvin 
 <br>Student number: 20161417
 
 Project: StartVaardig - Predicting the development of motoric skills in young childrem 
-<br>Group: Team Motoric
+<br>Group: Team Motoric</h2>
 <br>
 <h3>DataCamp</h3>
 In the folder named "DataCamp_ScreenshotsOfCompletedCourses" you will find screenshots of all completed DataCamp courses. I have completed all required courses successfully. 
