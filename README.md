@@ -1,6 +1,5 @@
 # Applied-Data-Science---Personal-Portfolio
-
-<style fontsize=24><b>Yuliya Litvin 
+<b>Yuliya Litvin 
 <br>Student number: 20161417
 
 Project: StartVaardig - Predicting the development of motoric skills in young children
