@@ -3,7 +3,7 @@
 <b>Yuliya Litvin 
 <br>Student number: 20161417
 
-Project: StartVaardig - Predicting the development of motoric skills in young childrem 
+Project: StartVaardig - Predicting the development of motoric skills in young children
 <br>Group: Team Motoric</b>
 <br>
 <h3>DataCamp</h3>
