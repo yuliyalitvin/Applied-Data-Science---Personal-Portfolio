@@ -10,8 +10,9 @@ In the folder named "DataCamp_ScreenshotsOfCompletedCourses" you will find scree
 <br>
 <br>
 Following is a list of weblinks to literature that has been found during the research phase of this project's topic: 
-&bull https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf
-&bull https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/
-
+<ul>
+<li>https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf
+<li>https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/
+</ul>
 
 
