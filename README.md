@@ -33,6 +33,7 @@ Following is a list of weblinks to literature that has been found during the res
 </ul>
 <br>
 <h3>Data Exploration</h3>
+https://datascience.hhs.nl:8888/user/20161417/notebooks/motoric/Yuliya/Yuliya.ipynb
 
 
 
