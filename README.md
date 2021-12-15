@@ -1,4 +1,4 @@
-# Applied-Data-Science---Personal-Portfolio
+# Applied Data Science - Personal Portfolio
 <b>Yuliya Litvin 
 <br>Student number: 20161417
 
