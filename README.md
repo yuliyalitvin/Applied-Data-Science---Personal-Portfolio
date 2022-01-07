@@ -332,4 +332,5 @@
 <details>
   <summary>Any Other Assignment</summary>
     <p>I made UI wireframes in XD</p>
+    <a href="/User Interface Wireframes/UserInterface_Wireframes_Idea.pdf">User Interface Wireframes</a>
 </details> 
