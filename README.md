@@ -6,7 +6,7 @@
 Group: Team Motoric</b></p>
 <br>
 <details>
-  <summary>DataCamp Courses</summary>
+  <summary><h3>DataCamp Courses</h3></summary>
     <p>In the following you will find screenshots of all required DataCamp courses that were successfully completed:</p>
     <img src="/DataCamp_ScreenshotsOfCompletedCourses/1_DataCamp_IntroductionTo Python.png">
 </details> 
