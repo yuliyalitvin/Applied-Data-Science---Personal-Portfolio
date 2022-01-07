@@ -70,7 +70,15 @@ Group: Team Motoric</b></p>
 </details> 
 <details>
   <summary>Scrum Backlog Tickets</summary>
-    <p>Hier ist die Info</p>
+    <ul>
+      <li><p>Cleaning Data Part in Paper</p></li>
+      <li>
+        <details>
+          <summary>Visualize predicted MQ categories and original MQ categories</summary>
+          <p>Joost and me</p>
+        </details>
+      </li>
+    </ul>
 </details> 
 <details>
   <summary>Any Other Assignment</summary>
