@@ -122,25 +122,18 @@ Group: Team Motoric</b></p>
 <details>
   <summary>Scrum Backlog Tickets</summary>
     <ul>
-      <li>
       <details>
           <summary>Cleaning Data Part in Paper</summary>
           <p>Lisa, Mustafa and me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Visualize predicted MQ categories and original MQ categories</summary>
           <p>Joep and me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Prepare external presentation</summary>
           <p>Pascal, Lisa, Joost, Mustafa, Joep and me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Model Predictions</summary>
           <p>Mustafa and me</p>
@@ -149,15 +142,11 @@ Group: Team Motoric</b></p>
           <li><p>Predict them</p></li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>First Presentation</summary>
           <p>Me</p>
           <p>I held the presentation, we prepared the slides together.</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Research similar projects</summary>
           <p>Pascal, Lisa, Joost, Mustafa, Joep and me</p>
@@ -166,8 +155,6 @@ Group: Team Motoric</b></p>
             <li>The links</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Create a list of questions for the meeting with the product owner</summary>
           <p>Pascal and me</p>
@@ -176,27 +163,19 @@ Group: Team Motoric</b></p>
             <li>The questions</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Adding ZIP-codes to the cleaned data file</summary>
           <p>Me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Visualizations</summary>
           <p>Everyone</p>
           <p>Visualizing the data</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Set up the research question</summary>
           <p>Everyone</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Topics for the external presentation</summary>
           <p>Pascal and me</p>
@@ -204,39 +183,27 @@ Group: Team Motoric</b></p>
             <li>here are the topics</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Extra after main visualization: Visualize difference between predicted MQ categories and original MQ categories</summary>
           <p>Joep and me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Trying out different types of models</summary>
           <p>Everyone</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Create File Structure in Jupyter Notebooks</summary>
           <p>Me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Learning Lab Presenation</summary>
           <p>Pascal, Joost and Me</p>
           <p>I prepared the design of the slides.</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Research: How to compare T0 and T1 data</summary>
           <p>Joost and Me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Compare T0 and T1 data</summary>
           <p>Me</p>
@@ -246,8 +213,6 @@ Group: Team Motoric</b></p>
             <li>Improvement of children</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Data Handling</summary>
           <p>Me</p>
@@ -256,14 +221,10 @@ Group: Team Motoric</b></p>
             <li>Remove outliers</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Create Pipeline For Cleaning</summary>
           <p>Lisa and me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Data Preparation</summary>
           <p>Lisa and me</p>
@@ -273,28 +234,20 @@ Group: Team Motoric</b></p>
             <li>Imputation</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Research Hyperparameter tuning</summary>
           <p>Me</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Prototype</summary>
           <p>Everyone</p>
           <p>I created wireframes of a possible user interface for our prediction model tool</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>External Presenation 2</summary>
           <p>Lisa and me</p>
           <p>We created the slides.</p>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Evaluation</summary>
           <p>Lisa and me</p>
@@ -304,8 +257,6 @@ Group: Team Motoric</b></p>
             <li>Make a graph</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Splitting</summary>
           <p>Mustafa, Lisa and me</p>
@@ -317,8 +268,6 @@ Group: Team Motoric</b></p>
             <li>Balance train</li>
           </ul>
         </details>
-      </li>
-      <li>
         <details>
           <summary>Research Paper</summary>
           <p>Joep, Lisa and me</p>
@@ -331,7 +280,6 @@ Group: Team Motoric</b></p>
             <li>Appendix</li>
           </ul>
         </details>
-      </li>
     </ul>
 </details> 
 <details>
