@@ -3,7 +3,7 @@
 <br>Student number: 20161417
 <br>
 <p>Project: StartVaardig - Predicting the development of motoric skills in young children
-Group: Team Motoric</b></p>
+<br>Group: Team Motoric</b></p>
 <br>
 <!-- DATACAMP COURSES-->
 <details>
