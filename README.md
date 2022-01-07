@@ -5,6 +5,7 @@
 <p>Project: StartVaardig - Predicting the development of motoric skills in young children
 Group: Team Motoric</b></p>
 <br>
+<!-- DATACAMP COURSES-->
 <details>
   <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
     <p>In the following, screenshots of all required DataCamp courses that were successfully completed are displayed:
