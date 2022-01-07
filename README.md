@@ -151,7 +151,7 @@
       <details>
         <summary>Learning Lab</summary>
           <p>I prepared the slides (their design and layout) for the learning lab</p>
-          <a href="/Presenations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">External Presentation 3</a>
+          <a href="/Presenations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
       </details>
     </ul>
 </details> 
