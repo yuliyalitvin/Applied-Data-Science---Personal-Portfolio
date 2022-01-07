@@ -124,7 +124,7 @@
       <details>
         <summary>Internal Presentations</summary>
           <p>I presented the first internal presentation. And created the slides with the others for it.</p> <!-- 1 -->
-          <a href="/Presenations/Internal Presentations/InternalPresentation_1_TeamMotoric.pptx">Internal Presentation 1</a>
+          <a href="/Presenations/Internal Presentations/InternalPresentation_1_TeamMotoric.pdf">Internal Presentation 1</a>
           <p>Helped preparing the slides for the 6th</p> <!-- 6 -->
           <p>The seventh I presented.</p> <!-- 7 -->
           <p>perapred the slides for the 8th</p> <!-- 8 -->
