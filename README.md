@@ -8,7 +8,7 @@ Group: Team Motoric</b></p>
 <details>
   <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
     <p>In the following, screenshots of all required DataCamp courses that were successfully completed are displayed:
-    (All these screenshots can also be found in the folder <i>DataCamp_ScreenshotsOfCompletedCourses</i></p>
+    <br>(All these screenshots can also be found in the folder <i>DataCamp_ScreenshotsOfCompletedCourses</i>)</p>
     <img src="/DataCamp_ScreenshotsOfCompletedCourses/1_DataCamp_IntroductionTo Python.png">
     <img src="/DataCamp_ScreenshotsOfCompletedCourses/2_DataCamp_IntermediatePython.png">
     <img src="/DataCamp_ScreenshotsOfCompletedCourses/3_DataCamp_PythonDataScienceToolbox(Part1).png">
