@@ -5,6 +5,9 @@
 <p>Project: StartVaardig - Predicting the development of motoric skills in young children
 <br>Group: Team Motoric</b></p>
 <br>
+<!-- **************************************************** -->
+<!-- FIRST SECTION -->
+<!-- **************************************************** -->
 <!-- DATACAMP COURSES-->
 <details>
   <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
@@ -27,6 +30,7 @@
     <img src="/DataCamp_ScreenshotsOfCompletedCourses/15_TimeSeriesAnalysisInPython.png">
     <img src="/DataCamp_ScreenshotsOfCompletedCourses/16_JoiningDataWithPandas.png">
 </details> 
+<!-- DOMAIN KNOWLEDGE -->
 <details>
   <summary>Domain Knowledge</summary>
     <ul>
@@ -81,44 +85,52 @@
         </details>
       </li>
     </ul>
-</details> 
-<details>
-  <summary>Predictive Models</summary>
-    <p>Hier ist die Info</p>
-</details> 
-<details>
-  <summary>Data Preparation</summary>
-    <p>Hier ist die Info</p>
-</details> 
-<details>
-  <summary>Data Visualization</summary>
-    <p>Hier ist die Info</p>
-</details> 
+</details>
+<!-- DATA COLLECTION -->
 <details>
   <summary>Data Collection</summary>
     <p>Hier ist die Info</p>
-</details> 
+</details>
+<!-- DATA VISUALIZATION -->
+<details>
+  <summary>Data Visualization</summary>
+    <p>Hier ist die Info</p>
+</details>
+<!-- DATA PREPARATION -->
+<details>
+  <summary>Data Preparation</summary>
+    <p>Hier ist die Info</p>
+</details>  
+<!-- PREDICTIVE MODELS -->
 <details>
   <summary>Predictive Models</summary>
     <p>Hier ist die Info</p>
 </details> 
+<!-- EVALUATION -->
 <details>
   <summary>Evaluation</summary>
     <p>Hier ist die Info</p>
 </details> 
+<!-- DIAGNOSTICS OF THE LEARNING PROCESS -->
 <details>
   <summary>Diagnostics of the Learning Process</summary>
     <p>Hier ist die Info</p>
 </details> 
+<!-- COMMUNICATION -->
 <details>
   <summary>Communication</summary>
     <p>Hier ist die Info</p>
 </details> 
 <br>
+<!-- **************************************************** -->
+<!-- SECOND SECTION -->
+<!-- **************************************************** -->
+<!-- PYTHON NOTEBOOKS -->
 <details>
   <summary>Python Notebooks</summary>
     <p>Hier ist die Info</p>
 </details> 
+<!-- SCRUM BACKLOG TICKETS -->
 <details>
   <summary>Scrum Backlog Tickets</summary>
     <ul>
@@ -282,6 +294,7 @@
         </details>
     </ul>
 </details> 
+<!-- ANY OTHER ASSIGNMENT -->
 <details>
   <summary>Any Other Assignment</summary>
     <p>Hier ist die Info</p>
