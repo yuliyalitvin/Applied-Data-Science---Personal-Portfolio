@@ -119,7 +119,18 @@
 <!-- COMMUNICATION -->
 <details>
   <summary>Communication</summary>
-    <p>Hier ist die Info</p>
+    <h4>Internal Presentations</h4>
+      <p>I presented the first internal presentation. And created the slides with the others for it.</p> <!-- 1 -->
+      <p>Helped preparing the slides for the 6th</p> <!-- 6 -->
+      <p>The seventh I presented.</p> <!-- 7 -->
+      <p>perapred the slides for the 8th</p> <!-- 8 -->
+    <h4>External Presentations</h4>
+      <p>I held the second external presentation with Pascal</p> <!-- 2 -->
+      <p>And prepared the slides with Lisa for the 3rd</p> <!-- 3 -->
+    <h4>Learning Lab</h4>
+      <p>I prepared the slides (their design and layout) for the learning lab</p>
+    <br>
+    <p>I have been physically present at every single presentation</p>
 </details> 
 <br>
 <!-- **************************************************** -->
