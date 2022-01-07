@@ -30,7 +30,6 @@ Group: Team Motoric</b></p>
 <details>
   <summary>Domain Knowledge</summary>
     <ul>
-      <li>
         <details>
           <summary>Literature</summary>
           <p>Here are all links for literature or rather reports that I found during an online research:</p>
@@ -73,7 +72,6 @@ Group: Team Motoric</b></p>
             <li>https://www.allesoversport.nl/startvaardig/</li>
           </ul>
         </details>
-      </li>
         <details>
           <summary>Existing Data Sets</summary>
           <p>Here are all links for literature or rather reports that I found during an online research:</p>
