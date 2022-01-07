@@ -13,22 +13,22 @@
   <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
     <p>In the following, screenshots of all required DataCamp courses that were successfully completed are displayed:
     <br>(All these screenshots can also be found in the folder <i>DataCamp_ScreenshotsOfCompletedCourses</i>)</p>
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/1_DataCamp_IntroductionTo Python.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/2_DataCamp_IntermediatePython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/3_DataCamp_PythonDataScienceToolbox(Part1).png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/4_DataCamp_PythonDataScienceToolbox(Part2).png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/5_DataCamp_StatisticalThinkingInPython(Part1).png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/6_DataCamp_SupervisedLearningWithScikit-learn.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/7_DataCamp_IntroductionToDataVisualizationWithMatplotlib.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/8_DataCamp_LinearClassifiersinPython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/9_DataCamp_ModelValidationInPython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/10_DataCamp_DataManipulationWithPandas.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/11_DataCamp_CleaningDataInPython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/12_DataCamp_ExploratoryDataAnalysisInPython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/13_DataCamp_ManipulatingTimeSeriesDataInPython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/14_MachineLearningForTimeSeriesDataInPython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/15_TimeSeriesAnalysisInPython.png">
-    <img src="/DataCamp_ScreenshotsOfCompletedCourses/16_JoiningDataWithPandas.png">
+    <img src="/DataCamp Completed Courses Screenshots/1_DataCamp_IntroductionTo Python.png">
+    <img src="/DataCamp Completed Courses Screenshots/2_DataCamp_IntermediatePython.png">
+    <img src="/DataCamp Completed Courses Screenshots/3_DataCamp_PythonDataScienceToolbox(Part1).png">
+    <img src="/DataCamp Completed Courses Screenshots/4_DataCamp_PythonDataScienceToolbox(Part2).png">
+    <img src="/DataCamp Completed Courses Screenshots/5_DataCamp_StatisticalThinkingInPython(Part1).png">
+    <img src="/DataCamp Completed Courses Screenshots/6_DataCamp_SupervisedLearningWithScikit-learn.png">
+    <img src="/DataCamp Completed Courses Screenshots/7_DataCamp_IntroductionToDataVisualizationWithMatplotlib.png">
+    <img src="/DataCamp Completed Courses Screenshots/8_DataCamp_LinearClassifiersinPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/9_DataCamp_ModelValidationInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/10_DataCamp_DataManipulationWithPandas.png">
+    <img src="/DataCamp Completed Courses Screenshots/11_DataCamp_CleaningDataInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/12_DataCamp_ExploratoryDataAnalysisInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/13_DataCamp_ManipulatingTimeSeriesDataInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/14_MachineLearningForTimeSeriesDataInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/15_TimeSeriesAnalysisInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
 </details> 
 <!-- DOMAIN KNOWLEDGE -->
 <details>
@@ -142,6 +142,8 @@
       <details>
         <summary>External Presentations</summary>
           <p>I held the second external presentation with Pascal</p> <!-- 2 -->
+          <a href="/Presenations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
+          <br>
           <p>And prepared the slides with Lisa for the 3rd</p> <!-- 3 -->
       </details>
       <details>
