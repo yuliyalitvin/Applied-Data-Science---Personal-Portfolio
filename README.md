@@ -89,7 +89,10 @@
 <!-- DATA COLLECTION -->
 <details>
   <summary>Data Collection</summary>
-    <p>Hier ist die Info</p>
+    <p>Since the data was given to us by StartVaardig through our product owner Pim Koolwijk, we did not have to collect the data ourselves. However, we received the data in bits, time after time, which meant that we had to put together the different data files every time new data arrived.
+    <br>
+    We had received the following data files:</p>
+    <!-- data files -->
 </details>
 <!-- DATA VISUALIZATION -->
 <details>
