@@ -74,6 +74,7 @@ Group: Team Motoric</b></p>
           </ul>
         </details>
       </li>
+        <details>
           <summary>Existing Data Sets</summary>
           <p>Here are all links for literature or rather reports that I found during an online research:</p>
           <ul>
