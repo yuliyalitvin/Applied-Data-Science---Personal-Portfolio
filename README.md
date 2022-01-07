@@ -70,7 +70,7 @@ Group: Team Motoric</b></p>
 </details> 
 <details>
   <summary>Scrum Backlog Tickets</summary>
-    <ul style="list-style: none;">
+    <ul style="list-style-type: none;">
       <li><p>Cleaning Data Part in Paper</p></li>
       <li>
         <details>
