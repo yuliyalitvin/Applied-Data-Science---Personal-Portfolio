@@ -145,10 +145,13 @@
           <a href="/Presenations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
           <br>
           <p>And prepared the slides with Lisa for the 3rd</p> <!-- 3 -->
+          <a href="/Presenations/External Presentations/ExternalPresentation_3_TeamMotoric.pdf">External Presentation 3</a>
+          <br>
       </details>
       <details>
         <summary>Learning Lab</summary>
           <p>I prepared the slides (their design and layout) for the learning lab</p>
+          <a href="/Presenations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">External Presentation 3</a>
       </details>
     </ul>
 </details> 
@@ -328,5 +331,5 @@
 <!-- ANY OTHER ASSIGNMENT -->
 <details>
   <summary>Any Other Assignment</summary>
-    <p>Hier ist die Info</p>
+    <p>I made UI wireframes in XD</p>
 </details> 
