@@ -70,9 +70,9 @@ Group: Team Motoric</b></p>
 </details> 
 <details>
   <summary>Scrum Backlog Tickets</summary>
-    <ul style="list-style-type: none;">
+    <ul>
       <li><p>Cleaning Data Part in Paper</p></li>
-      <li>
+      <li style="list-style: none;">
         <details>
           <summary>Visualize predicted MQ categories and original MQ categories</summary>
           <p>Joost and me</p>
