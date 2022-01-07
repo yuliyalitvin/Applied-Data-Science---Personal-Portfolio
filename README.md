@@ -8,7 +8,7 @@ Group: Team Motoric</b></p>
 <details>
   <summary>DataCamp Courses</summary>
     <p>In the following you will find screenshots of all required DataCamp courses that were successfully completed:</p>
-    <!-- <img src="/github/main/Applied-Data-Science---Personal-Portfolio/DataCamp_ScreenshotsOfCompletedCourses/10_DataCamp_DataManipulationWithPandas.png"> -->
+    <img src="/DataCamp_ScreenshotsOfCompletedCourses/1_DataCamp_IntroductionTo Python.png">
 </details> 
 <details>
   <summary>Domain Knowledge</summary>
