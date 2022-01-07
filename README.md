@@ -94,7 +94,7 @@
     We had received the following data files:</p>
     <!-- data files -->
     Since the data given to us, had a rather small amount of participants that were in our targeted age group of four to six years old and contained complete information about them, we decided to search for fitting CBS data that might help us to gain a larger amount of data to be able to create rather accurate predictions later on. The CBS data we gathered contained information on core numbers, gender and age, income and the migration background. 
-    In the end however, we decided that the data would not be as useful to us in order to make good predictions, and since it did cause great problems while merging the datasets together, we decided to not use the CBS data afterall. 
+    <br>In the end however, we decided that the data would not be as useful to us in order to make good predictions, and since it did cause great problems while merging the datasets together, we decided to not use the CBS data afterall. 
 </details>
 <!-- DATA VISUALIZATION -->
 <details>
