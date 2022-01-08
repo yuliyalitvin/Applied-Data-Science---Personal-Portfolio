@@ -42,10 +42,15 @@
   First, it was interesting to know more about the organization <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> to explore their specification in order to create a connection to why this particular problem statement arised and this project was started. <br>
   Therefore, within <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a>, this project was created in order to try to recognize difficulties in the motor skills development in a young child at a very young stage, so that possible following misdevelopments in the child's motor capabilities can - with a high chance - be prevented or at least better helped with, before it is too late and the child will need a great amount of help to correct and enhance their motor skills or cannot be really helped anymore to improve, but at least can be helped to slow down or stop the process of worsening. <br> 
   To gather more information on the topic of motor skills development in young children, more research has been conducted, resulting in the following findings, that are described and listed under the following point 'Background Research'.      
-  </p><br>
+  </p>
     <ul>
     <details>
           <summary>Background Research</summary>
+          <ul>
+            <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
+          </ul>
+        </details>
+          <summary>Existing, Similar Projects</summary>
           <ul>
             <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
           </ul>
