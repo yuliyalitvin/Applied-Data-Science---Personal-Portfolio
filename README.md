@@ -89,7 +89,7 @@
                   <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
                   <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
                 </ul>
-            </details><br><br>
+            </details>
         </details>
       </li>
     </ul>
