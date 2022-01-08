@@ -128,6 +128,11 @@
         <p>some text</p>
         <a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans</a>
       </details>
+      <details>
+        <summary>Hyperparameter Tuning</summary>
+        <p>some text</p>
+        <a href="/Predictive Models/HyperparameterTuning_Test.ipynb">KMeans</a>
+      </details>
     </ul>
 </details> 
 <!-- EVALUATION -->
