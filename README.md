@@ -73,7 +73,6 @@
                   <li><a href="https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood">Motor Skills: Development in Infancy and Early Childhood</a></li>
                   <li><a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Web-Based Application to Measure Motoric Development of Early Childhood</a></li>
                 </ul>
-                <p>hallo</p>
             </details><br><br>
         </details>
         <details>
