@@ -60,7 +60,7 @@
             <details>
               <summary>Papers from existing projects</summary>
                 <ul>
-                  <li><a href="https://link.springer.com/article/10.1007/s40279-020-01336-2">Springer: The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis</a></li>
+                  <li><a href="https://link.springer.com/article/10.1007/s40279-020-01336-2">Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink. https://link.springer.com/article/10.1007/s40279-020-01336-2?error=cookies_not_supported&code=64676c4b-1447-411d-a829-b8a02bec15e7</a></li>
                   <li>https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3</li>
                   <li>https://journals.sagepub.com/doi/abs/10.2307/3345234</li>
                   <li>https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf</li>
