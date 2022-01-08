@@ -114,17 +114,19 @@
       <details>
         <summary>KNeighborsClassifier (KNN)</summary>
         <p>Ist im Yuliya.ipynb unter den Visualizations</p>
-        <a href="/Predictive Models/Code/KNN/KNN_withoutValidationSet.ipynb">KNN without validation set</a>
+        <a href="/Predictive Models/KNN/KNN_withoutValidationSet.ipynb">KNN without validation set</a>
         <br>
-        <a href="/Predictive Models/Code/KNN/KNN_withValidationSet.ipynb">KNN with validation set</a>
+        <a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN with validation set</a>
       </details>
       <details>
         <summary>RandomForest</summary>
         <p>some text</p>
+        <a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest</a>
       </details>
       <details>
         <summary>KMeans</summary>
         <p>some text</p>
+        <a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans</a>
       </details>
     </ul>
 </details> 
