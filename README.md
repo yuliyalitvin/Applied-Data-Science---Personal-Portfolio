@@ -114,6 +114,7 @@
       <details>
         <summary>KNeighborsClassifier (KNN)</summary>
         <p>Ist im Yuliya.ipynb unter den Visualizations</p>
+        <a href="/Predictive Models/Code/KNN_withoutValdiationSet.ipynb">Visualizations</a>
       </details>
       <details>
         <summary>RandomForest</summary>
