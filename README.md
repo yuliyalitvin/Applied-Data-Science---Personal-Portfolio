@@ -13,7 +13,7 @@
 <div><h2>Learning about the data science subject and gathering background knowledge<h2></div>
 <!-- DATACAMP COURSES-->
 <details>
-    <h3><summary>DataCamp Courses</summary></h3> <!-- figure out how to make the font-size bigger -->
+    <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
     <p>Throughout September until the middle of October, I have completed 16 DataCamp courses with success, while learning a lot through participating in those online courses. Especially the sessions, in which you could try coding something yourself after learning about a new topic were fun and helpful to understand the subject better.</p>
     <p>Therefore, in the following, screenshots of all required DataCamp courses that were successfully completed are displayed:</p>
     <img src="/DataCamp Completed Courses Screenshots/1_DataCamp_IntroductionTo Python.png">
