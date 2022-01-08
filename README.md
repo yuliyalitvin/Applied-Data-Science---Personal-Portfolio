@@ -50,7 +50,11 @@
             <details>
               <summary>Literature</summary>
                 <ul>
-                  <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
+                  <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
+                  <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
+                  <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
+                  <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
+                  <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
                 </ul>
             </details><br><br>
         </details>
@@ -74,48 +78,6 @@
                   <li><a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Web-Based Application to Measure Motoric Development of Early Childhood</a></li>
                 </ul>
             </details><br><br>
-        </details>
-        <details>
-          <summary>Literature</summary>
-          <p>Here are all links for literature or rather reports that I found during an online research:</p>
-          <ul>
-            <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
-            <li>https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3</li>
-            <li>https://journals.sagepub.com/doi/abs/10.2307/3345234</li>
-            <li>https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf</li>
-            <li>https://www.hindawi.com/journals/bmri/2020/6639341/#methodshttps://www.hindawi.com/journals/bmri/2020/6639341/#methods</li>
-            <li>https://www.researchgate.net/publication/328954650_Four_Ways_of_Fine_Motor_Skills_Development_in_Early_Childhood</li>
-            <li>https://taltech.ee/ai-based-analysis-human-motor-skills</li>
-            <li>https://www.jmir.org/2021/4/e24237</li>
-            <li>https://efsupit.ro/images/stories/3%20September2016/art%20175.pdf</li>
-            <li>https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf</li>
-            <li>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/</li>
-            <li>https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood</li>
-            <li>http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371</li>
-            <!-- Check which ones I actually found + if I have more -->
-          </ul>
-          <p>For background knowledge on this topic, I also found these links:</p>
-          <ul>
-            <li>https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf</li>
-            <li>https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/</li>
-            <li>https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3</li>
-            <li>https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html</li>
-            <li>https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/</li>
-            <li>https://journals.sagepub.com/doi/abs/10.2307/3345234</li>
-            <li>https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/</li>
-            <li>https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf</li>
-            <li>https://www.hindawi.com/journals/bmri/2020/6639341/#methodshttps://www.hindawi.com/journals/bmri/2020/6639341/#methods</li>
-            <li>https://www.researchgate.net/publication/328954650_Four_Ways_of_Fine_Motor_Skills_Development_in_Early_Childhood</li>
-            <li>https://taltech.ee/ai-based-analysis-human-motor-skills</li>
-            <li>https://www.jmir.org/2021/4/e24237</li>
-            <li>https://efsupit.ro/images/stories/3%20September2016/art%20175.pdf</li>
-            <li>https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf</li>
-            <li>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/</li>
-            <li>https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood</li>
-            <li>http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371</li>
-            <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
-            <li>https://www.allesoversport.nl/startvaardig/</li>
-          </ul>
         </details>
         <details>
           <summary>Existing Data Sets</summary>
