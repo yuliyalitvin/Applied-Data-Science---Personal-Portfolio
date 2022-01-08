@@ -62,7 +62,7 @@
           <summary>Existing, Similar Projects</summary>
           <p>After gathering more background information on the subject of motor skills development in young children, related works, such as projects, were of interest to find. These, even if not dealing with the exact same problem statement can help getting a broder viewpoint on our own project and give us ideas of where and how to start.<br>
           Therefore, a search for such similar already existing projects was undertaken through which several findings have been made. These findings are listed under the point 'List of papers from existing projects'.<br>
-          </p>
+          In most of the gathered studies, the children were between three and six years old, while some of the studies dealt with the gross and other with fine motor skills developed, and some with both of them.</p>
             <details>
               <summary>List of papers from existing projects</summary>
                 <ul>
