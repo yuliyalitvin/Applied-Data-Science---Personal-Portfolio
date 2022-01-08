@@ -40,9 +40,17 @@
   <p>The first information given about the project <i>Motoric</i> was the project description. Which stated as follows: <br> <br><i>Within the Start(V)aardig project several information is gathered among more than 1700 young children. Actual motor competence, perceived motor competence, enjoyment, BMI, age, gender and several factors related to the parenting style are gathered at two different moments (T0 and T1). The assignment is to detect which variables predict a (long term) low and concerning level of motor competence in young children. If we are able to detect a certain ‘risk profile’ at an early stage we (BSC, PE teachers) can provide them appropriate interventions.</i><br><br>
   From this description only basic knowledge about the project and it's subject could have been gathered. Therefore, research was done to gain a better understanding of the topic and the given problem that needed to be solved.<br>
   First, it was interesting to know more about the organization <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> to explore their specification in order to create a connection to why this particular problem statement arised and this project was started. <br>
-  Therefore, within <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a>, this project was created in order to try to recognize difficulties in the motor skills development in a young child at a very young stage, so that possible following misdevelopments in the child's motor capabilities can - with a high chance - be prevented or at least better helped with, before it is too late and the child will need a great amount of help to correct and enhance their motor skills or cannot be really helped anymore to improve, but at least can be helped to slow down or stop the process of worsening.       
-  </p>
+  Therefore, within <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a>, this project was created in order to try to recognize difficulties in the motor skills development in a young child at a very young stage, so that possible following misdevelopments in the child's motor capabilities can - with a high chance - be prevented or at least better helped with, before it is too late and the child will need a great amount of help to correct and enhance their motor skills or cannot be really helped anymore to improve, but at least can be helped to slow down or stop the process of worsening. <br> 
+  To gather more information on the topic of motor skills development in young children, more research has been conducted, resulting in the following findings:      
+  </p><br>
     <ul>
+    <details>
+          <summary>Literature</summary>
+          <ul>
+            <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
+          </ul>
+        </details>
+  <p>Hallo</p>
         <details>
           <summary>Literature</summary>
           <p>Here are all links for literature or rather reports that I found during an online research:</p>
