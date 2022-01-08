@@ -81,9 +81,9 @@
         </details>
         <details>
           <summary>Existing Datasets</summary>
-          <p>Here are all links for literature or rather reports that I found during an online research:</p>
+          <p>Finding an exisiting dataset was not a necessity for this project because a dataset already existed, since the data had been gathered by <a href="https://www.allesoversport.nl/startvaardig/">.</p>
           <ul>
-            <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
+            <li><a href="/Existing Datasets/Child Growth.pdf">Child Growth Excel</a></li>
             <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
           </ul>
         </details>
