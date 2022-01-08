@@ -15,7 +15,7 @@
 <details>
     <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
     <p>Throughout September until the middle of October, I have completed 16 DataCamp courses with success, while learning a lot through participating in those online courses. Especially the sessions, in which you could try coding something yourself after learning about a new topic were fun and helpful to understand the subject better.</p>
-    <p>Therefore, in the following, screenshots of all required DataCamp courses that were successfully completed are displayed:</p>
+    <p>Therefore, in the following, screenshots of all required and successfully completed DataCamp courses are displayed:</p>
     <img src="/DataCamp Completed Courses Screenshots/1_DataCamp_IntroductionTo Python.png">
     <img src="/DataCamp Completed Courses Screenshots/2_DataCamp_IntermediatePython.png">
     <img src="/DataCamp Completed Courses Screenshots/3_DataCamp_PythonDataScienceToolbox(Part1).png">
