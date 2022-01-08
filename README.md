@@ -73,7 +73,7 @@
                   <li>https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood</li>
                   <li>http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371</li>
                 </ul>
-            </details>
+            </details><br><br>
         </details>
         <details>
           <summary>Literature</summary>
