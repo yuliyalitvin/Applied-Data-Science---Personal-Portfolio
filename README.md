@@ -128,44 +128,44 @@
       <details>
         <summary>Internal Presentations</summary>
           <p>I presented the first internal presentation. And created the slides with the others for it.</p> <!-- 1 -->
-          <a href="/Presenations/Internal Presentations/InternalPresentation_1_TeamMotoric.pdf">Internal Presentation 1</a>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_1_TeamMotoric.pdf">Internal Presentation 1</a>
           <br>
           <p>Helped preparing the slides for the 4th</p> <!-- 4 -->
-          <a href="/Presenations/Internal Presentations/InternalPresentation_4_TeamMotoric.pdf">Internal Presentation 4</a>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_4_TeamMotoric.pdf">Internal Presentation 4</a>
           <br>
           <p>Helped preparing the slides for the 6th</p> <!-- 6 -->
-          <a href="/Presenations/Internal Presentations/InternalPresentation_6_TeamMotoric.pdf">Internal Presentation 6</a>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_6_TeamMotoric.pdf">Internal Presentation 6</a>
           <br>
           <p>The seventh I presented.</p> <!-- 7 -->
-          <a href="/Presenations/Internal Presentations/InternalPresentation_7_TeamMotoric.pdf">Internal Presentation 7</a>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_7_TeamMotoric.pdf">Internal Presentation 7</a>
           <br>
           <p>perapred the slides for the 8th</p> <!-- 8 -->
-          <a href="/Presenations/Internal Presentations/InternalPresentation_8_TeamMotoric.pdf">Internal Presentation 8</a>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_8_TeamMotoric.pdf">Internal Presentation 8</a>
           <br>
       </details>
       <details>
         <summary>External Presentations</summary>
           <p>I held the second external presentation with Pascal</p> <!-- 2 -->
-          <a href="/Presenations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
+          <a href="/Presentations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
           <br>
           <p>And prepared the slides with Lisa for the 3rd</p> <!-- 3 -->
-          <a href="/Presenations/External Presentations/ExternalPresentation_3_TeamMotoric.pdf">External Presentation 3</a>
+          <a href="/Presentations/External Presentations/ExternalPresentation_3_TeamMotoric.pdf">External Presentation 3</a>
           <br>
       </details>
       <details>
         <summary>Learning Lab</summary>
           <p>I prepared the slides (their design and layout) for the learning lab</p>
-          <a href="/Presenations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
+          <a href="/Presentations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
           <br>
           <p>Also, Lisa and I prepared the Kahoot Quiz for the learning lab, so that the audience would be directly involved in our presentation. Following are screenshots of the Kahoot Quiz:</p>
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/1_question.png">
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/2_question.png">
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/3_question.png">
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/4_question.png">
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/5_question.png">
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/6_question.png">
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/7_question.png">
-          <img src="/Presenations/Learning Lab/Kahoot Quiz/8_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/1_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/2_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/3_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/4_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/5_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/6_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/7_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/8_question.png">
       </details>
     </ul>
 </details> 
