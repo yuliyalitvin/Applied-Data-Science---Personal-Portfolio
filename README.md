@@ -10,7 +10,7 @@
 <!-- **************************************************** -->
 <!-- FIRST SECTION -->
 <!-- **************************************************** -->
-<div><h3>Learning about the data science subject and gathering background knowledge<h3></div>
+<div><h3>Gathering background knowledge on the data science subject<h3></div>
 <!-- DATACAMP COURSES-->
 <details>
     <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
@@ -33,7 +33,7 @@
     <img src="/DataCamp Completed Courses Screenshots/15_TimeSeriesAnalysisInPython.png">
     <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
 </details> 
-<div><h3>Project related<h3></div>
+<div><h3>The Project<h3></div>
 <!-- DOMAIN KNOWLEDGE -->
 <details>
   <summary>Domain Knowledge</summary>
