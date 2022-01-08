@@ -60,18 +60,18 @@
             <details>
               <summary>Papers from existing projects</summary>
                 <ul>
-                  <li><a href="https://link.springer.com/article/10.1007/s40279-020-01336-2">Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink. https://link.springer.com/article/10.1007/s40279-020-01336-2?error=cookies_not_supported&code=64676c4b-1447-411d-a829-b8a02bec15e7</a></li>
-                  <li>https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3</li>
-                  <li>https://journals.sagepub.com/doi/abs/10.2307/3345234</li>
-                  <li>https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf</li>
-                  <li>https://www.hindawi.com/journals/bmri/2020/6639341/#methodshttps://www.hindawi.com/journals/bmri/2020/6639341/#methods</li>
-                  <li>https://www.researchgate.net/publication/328954650_Four_Ways_of_Fine_Motor_Skills_Development_in_Early_Childhood</li>
-                  <li>https://www.jmir.org/2021/4/e24237</li>
-                  <li>https://efsupit.ro/images/stories/3%20September2016/art%20175.pdf</li>
-                  <li>https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf</li>
-                  <li>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/</li>
-                  <li>https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood</li>
-                  <li>http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371</li>
+                  <li><a href="https://link.springer.com/article/10.1007/s40279-020-01336-2">The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis</a></li>
+                  <li><a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3">Influence of motor skills training on children’s development evaluated in the Motor skills in PreSchool (MiPS) study-DK: study protocol for a randomized controlled trial, nested in a cohort study</a></li>
+                  <li><a href="https://journals.sagepub.com/doi/abs/10.2307/3345234">An Assessment of Motor Music Skill Development in Young Children</a></li>
+                  <li><a href="https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf">Detecting delays in motor skill development of children through data analysis of a smart play device</a></li>
+                  <li><a href="https://www.hindawi.com/journals/bmri/2020/6639341/#methodshttps://www.hindawi.com/journals/bmri/2020/6639341/#methods">A Follow-Up Study of Motor Skill Development and Its Determinants in Preschool Children from Middle-Income Family</a></li>
+                  <li><a href="https://www.researchgate.net/publication/328954650_Four_Ways_of_Fine_Motor_Skills_Development_in_Early_Childhood">Four Ways of Fine Motor Skills Development in Early Childhood</a></li>
+                  <li><a href="https://www.jmir.org/2021/4/e24237">Assessing Children’s Fine Motor Skills With Sensor-Augmented Toys: Machine Learning Approach</a></li>
+                  <li><a href="https://efsupit.ro/images/stories/3%20September2016/art%20175.pdf">Level of motor skill development of preschool students</a></li>
+                  <li><a href="https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf">Foundations of a Smart Toy Development for the Early Detection of Motoric Impairments at Childhood</a></li>
+                  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/">The validity of parental reports on motor skills performance level in preschool children: a comparison with a standardized motor test</a></li>
+                  <li><a href="https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood">Motor Skills: Development in Infancy and Early Childhood</li>
+                  <li><a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Web-Based Application to Measure Motoric Development of Early Childhood</li>
                 </ul>
             </details><br><br>
         </details>
