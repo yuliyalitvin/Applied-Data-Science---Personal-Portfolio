@@ -33,6 +33,7 @@
     <img src="/DataCamp Completed Courses Screenshots/15_TimeSeriesAnalysisInPython.png">
     <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
 </details> 
+<div><h3>Project related<h3></div>
 <!-- DOMAIN KNOWLEDGE -->
 <details>
   <summary>Domain Knowledge</summary>
