@@ -113,7 +113,7 @@
     <ul>
       <details>
         <summary>KNeighborsClassifier</summary>
-        <p>some text</p>
+        <p>Ist im Yuliya.ipynb unter den Visualizations</p>
       </details>
       <details>
         <summary>RandomForest</summary>
