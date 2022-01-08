@@ -60,7 +60,9 @@
         </details>
         <details>
           <summary>Existing, Similar Projects</summary>
-          <p>Hallo</p>
+          <p>After gathering more background information on the subject of motor skills development in young children, related works, such as projects, were of interest to find. These, even if not dealing with the exact same problem statement can help getting a broder viewpoint on our own project and give us ideas of where and how to start.<br>
+          Therefore, a search for such similar already existing projects was undertaken through which several findings have been made. These findings are listed under the point 'List of papers from existing projects'.<br>
+          </p>
             <details>
               <summary>List of papers from existing projects</summary>
                 <ul>
