@@ -131,7 +131,7 @@
       <details>
         <summary>Hyperparameter Tuning</summary>
         <p>some text</p>
-        <a href="/Predictive Models/HyperparameterTuning_Test.ipynb">KMeans</a>
+        <a href="/Predictive Models/HyperparameterTuning_Test.ipynb">Hyperparamter Tuning on RandomForest model</a>
       </details>
     </ul>
 </details> 
