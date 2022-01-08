@@ -99,7 +99,7 @@
 <details>
   <summary>Data Visualization</summary>
     <p>Hier ist die Info</p>
-    <a href="/Visualizations/Code/Visualizations.ipynb">Visualizations</a>
+    <a href="/Visualizations/Visualizations.ipynb">Visualizations</a>
 </details>
 <!-- DATA PREPARATION -->
 <details>
