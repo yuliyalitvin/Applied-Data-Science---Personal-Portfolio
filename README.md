@@ -35,7 +35,7 @@
 </details> 
 <div><h3>The Project<h3></div>
 <!-- DOMAIN KNOWLEDGE -->
-<details>
+<div><details>
   <summary>Domain Knowledge</summary>
   <p>The first information given about the project <i>Motoric</i> was the project description. Which stated as follows: <br> <br><i>Within the Start(V)aardig project several information is gathered among more than 1700 young children. Actual motor competence, perceived motor competence, enjoyment, BMI, age, gender and several factors related to the parenting style are gathered at two different moments (T0 and T1). The assignment is to detect which variables predict a (long term) low and concerning level of motor competence in young children. If we are able to detect a certain ‘risk profile’ at an early stage we (BSC, PE teachers) can provide them appropriate interventions.</i><br><br>
   From this description only basic knowledge about the project and it's subject could have been gathered. Therefore, research was done to gain a better understanding of the topic and the given problem that needed to be solved.<br>
@@ -49,7 +49,7 @@
           <ul>
             <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
           </ul>
-        </details>
+        </details></div>
   <p>Hallo</p>
         <details>
           <summary>Literature</summary>
