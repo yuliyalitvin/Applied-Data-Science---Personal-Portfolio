@@ -109,7 +109,21 @@
 <!-- PREDICTIVE MODELS -->
 <details>
   <summary>Predictive Models</summary>
-    <p>Hier ist die Info</p>
+    <p></p>
+    <ul>
+      <details>
+        <summary>KNeighborsClassifier</summary>
+        <p>some text</p>
+      </details>
+      <details>
+        <summary>RandomForest</summary>
+        <p>some text</p>
+      </details>
+      <details>
+        <summary>KMeans</summary>
+        <p>some text</p>
+      </details>
+    </ul>
 </details> 
 <!-- EVALUATION -->
 <details>
