@@ -112,7 +112,7 @@
     <p></p>
     <ul>
       <details>
-        <summary>KNeighborsClassifier</summary>
+        <summary>KNeighborsClassifier (KNN)</summary>
         <p>Ist im Yuliya.ipynb unter den Visualizations</p>
       </details>
       <details>
