@@ -50,7 +50,6 @@
             <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
           </ul>
         </details>
-  <div><p>Hallo</p></div>
         <details>
           <summary>Literature</summary>
           <p>Here are all links for literature or rather reports that I found during an online research:</p>
