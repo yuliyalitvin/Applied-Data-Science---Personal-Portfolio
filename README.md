@@ -115,6 +115,7 @@
         <summary>KNeighborsClassifier (KNN)</summary>
         <p>Ist im Yuliya.ipynb unter den Visualizations</p>
         <a href="/Predictive Models/Code/KNN/KNN_withoutValidationSet.ipynb">KNN without validation set</a>
+        <br>
         <a href="/Predictive Models/Code/KNN/KNN_withValidationSet.ipynb">KNN with validation set</a>
       </details>
       <details>
