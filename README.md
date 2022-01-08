@@ -58,7 +58,7 @@
           <summary>Existing, Similar Projects</summary>
           <p>Hallo</p>
             <details>
-              <summary>Papers from existing projects</summary>
+              <summary>List of papers from existing projects</summary>
                 <ul>
                   <li><a href="https://link.springer.com/article/10.1007/s40279-020-01336-2">The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis</a></li>
                   <li><a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3">Influence of motor skills training on children’s development evaluated in the Motor skills in PreSchool (MiPS) study-DK: study protocol for a randomized controlled trial, nested in a cohort study</a></li>
