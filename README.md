@@ -47,32 +47,32 @@
     <details>
           <summary>Background Research</summary>
           <p>Hallo</p>
-          <details>
-            <summary>Literature</summary>
-              <ul>
-                <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
-              </ul>
-          <details>
+            <details>
+              <summary>Literature</summary>
+                <ul>
+                  <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
+                </ul>
+            </details>
         </details>
         <details>
           <summary>Existing, Similar Projects</summary>
-          <details>
-            <summary>Papers from existing projects</summary>
-              <ul>
-                <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
-                <li>https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3</li>
-                <li>https://journals.sagepub.com/doi/abs/10.2307/3345234</li>
-                <li>https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf</li>
-                <li>https://www.hindawi.com/journals/bmri/2020/6639341/#methodshttps://www.hindawi.com/journals/bmri/2020/6639341/#methods</li>
-                <li>https://www.researchgate.net/publication/328954650_Four_Ways_of_Fine_Motor_Skills_Development_in_Early_Childhood</li>
-                <li>https://www.jmir.org/2021/4/e24237</li>
-                <li>https://efsupit.ro/images/stories/3%20September2016/art%20175.pdf</li>
-                <li>https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf</li>
-                <li>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/</li>
-                <li>https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood</li>
-                <li>http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371</li>
-              </ul>
-          </details>
+            <details>
+              <summary>Papers from existing projects</summary>
+                <ul>
+                  <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
+                  <li>https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3</li>
+                  <li>https://journals.sagepub.com/doi/abs/10.2307/3345234</li>
+                  <li>https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf</li>
+                  <li>https://www.hindawi.com/journals/bmri/2020/6639341/#methodshttps://www.hindawi.com/journals/bmri/2020/6639341/#methods</li>
+                  <li>https://www.researchgate.net/publication/328954650_Four_Ways_of_Fine_Motor_Skills_Development_in_Early_Childhood</li>
+                  <li>https://www.jmir.org/2021/4/e24237</li>
+                  <li>https://efsupit.ro/images/stories/3%20September2016/art%20175.pdf</li>
+                  <li>https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf</li>
+                  <li>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/</li>
+                  <li>https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood</li>
+                  <li>http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371</li>
+                </ul>
+            </details>
         </details>
         <details>
           <summary>Literature</summary>
