@@ -192,6 +192,10 @@
           <img src="/Presentations/Learning Lab/Kahoot Quiz/7_question.png">
           <img src="/Presentations/Learning Lab/Kahoot Quiz/8_question.png">
       </details>
+      <details>
+        <summary>Research Paper</summary>
+          <p>I wrote part of the cleaning and the whole research section. Also I included a lot of references and read through the entire paper to give feedback to my teammates' parts in the paper.</p>
+      </details>
     </ul>
 </details> 
 <br>
