@@ -50,6 +50,7 @@
             <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
           </ul>
         </details>
+        <details>
           <summary>Existing, Similar Projects</summary>
           <ul>
             <li>https://link.springer.com/article/10.1007/s40279-020-01336-2</li>
