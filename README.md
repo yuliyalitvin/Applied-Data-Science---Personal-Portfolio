@@ -10,7 +10,7 @@
 <!-- **************************************************** -->
 <!-- FIRST SECTION -->
 <!-- **************************************************** -->
-<div><h2>Learning about the data science subject and gathering background knowledge<h2></div>
+<!-- <div><h2>Learning about the data science subject and gathering background knowledge<h2></div> -->
 <!-- DATACAMP COURSES-->
 <details>
     <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
