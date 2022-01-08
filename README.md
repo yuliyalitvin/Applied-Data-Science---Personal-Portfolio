@@ -56,6 +56,7 @@
         </details>
         <details>
           <summary>Existing, Similar Projects</summary>
+          <p>Hallo</p>
             <details>
               <summary>Papers from existing projects</summary>
                 <ul>
