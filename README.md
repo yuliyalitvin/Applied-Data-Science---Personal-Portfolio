@@ -8,7 +8,7 @@
 <!-- **************************************************** -->
 <!-- FIRST SECTION -->
 <!-- **************************************************** -->
-<h3>Learning about the data science subject and gathering background knowledge<h3>
+<div><h3>Learning about the data science subject and gathering background knowledge<h3></div>
 <!-- DATACAMP COURSES-->
 <details>
   <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
