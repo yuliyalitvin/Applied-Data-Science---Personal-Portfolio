@@ -158,14 +158,14 @@
           <a href="/Presenations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
           <br>
           <p>Also, Lisa and I prepared the Kahoot Quiz for the learning lab, so that the audience would be directly involved in our presentation. Following are screenshots of the Kahoot Quiz:</p>
-          <img src="/Learning Lab/Kahoot Quiz/1_question.PNG">
-          <img src="/Learning Lab/Kahoot Quiz/2_question.PNG">
-          <img src="/Learning Lab/Kahoot Quiz/3_question.PNG">
-          <img src="/Learning Lab/Kahoot Quiz/4_question.PNG">
-          <img src="/Learning Lab/Kahoot Quiz/5_question.PNG">
-          <img src="/Learning Lab/Kahoot Quiz/6_question.PNG">
-          <img src="/Learning Lab/Kahoot Quiz/7_question.PNG">
-          <img src="/Learning Lab/Kahoot Quiz/8_question.PNG">
+          <img src="/Learning Lab/Kahoot Quiz/1_question.png">
+          <img src="/Learning Lab/Kahoot Quiz/2_question.png">
+          <img src="/Learning Lab/Kahoot Quiz/3_question.png">
+          <img src="/Learning Lab/Kahoot Quiz/4_question.png">
+          <img src="/Learning Lab/Kahoot Quiz/5_question.png">
+          <img src="/Learning Lab/Kahoot Quiz/6_question.png">
+          <img src="/Learning Lab/Kahoot Quiz/7_question.png">
+          <img src="/Learning Lab/Kahoot Quiz/8_question.png">
       </details>
     </ul>
 </details> 
