@@ -80,10 +80,11 @@
             </details><br><br>
         </details>
         <details>
-          <summary>Existing Data Sets</summary>
+          <summary>Existing Datasets</summary>
           <p>Here are all links for literature or rather reports that I found during an online research:</p>
           <ul>
-            <li>Link to the dataset if I find something</li> <!-- Check if there are any useful datasets on the internet -->
+            <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
+            <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
           </ul>
         </details>
       </li>
