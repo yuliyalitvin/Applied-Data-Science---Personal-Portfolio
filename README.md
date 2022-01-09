@@ -171,6 +171,14 @@
 <details>
   <summary>Data Exploration</summary> 
     <p>Hallo</p>
+      <li><a href="/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST</a></li>
+      <li><a href="/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2</a></li>
+      <li><a href="/Comparing Datasets/Compare_T0_and_T1_BMI.ipynb">Compare_T0_and_T1_BMI</a></li>
+      <li><a href="/Comparing Datasets/Compare_T0_and_T1_Height.ipynb">Compare_T0_and_T1_Height</a></li>
+      <li><a href="/Comparing Datasets/Compare_T0_and_T1_MQ.ipynb">Compare_T0_and_T1_MQ</a></li>
+      <li><a href="/Comparing Datasets/Compare_T0_and_T1_SportsEnjoyment.ipynb">Compare_T0_and_T1_SportsEnjoyment</a></li>
+      <li><a href="/Comparing Datasets/Compare_T0_and_T1_Weight.ipynb">Compare_T0_and_T1_Weight</a></li>
+      <li><a href="/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
 </details> 
 <details>
   <summary>Data Cleansing</summary> 
