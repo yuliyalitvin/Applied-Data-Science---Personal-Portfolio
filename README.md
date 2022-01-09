@@ -178,7 +178,7 @@
           <p>I also helped preparing the sixth internal presentation, in which I again focused especially focused on the content, but also checked for errors in the design and layout. And as it has been done in the previous presentations, some of my teammates and I talked about every of these topics together and decided on the results together.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_7_TeamMotoric.pdf">Internal Presentation 7</a>
-          <p>The seventh I presented.</p>
+          <p>The seventh internal presentation I was unfortunately not able to help to prepare the slides, but instead I presented it on my own.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_8_TeamMotoric.pdf">Internal Presentation 8</a>
           <p>perapred the slides for the 8th</p> <!-- 8 -->
