@@ -202,7 +202,7 @@
     <p>These are physical skills that involve the entire body to be able to do tasks such as sit upright, walk, run, jump, as well as catching and throwing, just as kicking a ball, but also swim and ride a bike and others. Therefore these skills require the large muscles of the body that stabilise the core to work correctly, but at the same time need correct coordination between eyes and hand.</p>
     <details>
       <summary>Reference</summary>
-      <ul><a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a></ul>
+      <a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a>
     </details>
     <br>
     <div><h4>Perceived Motor Competence<h4></div>
