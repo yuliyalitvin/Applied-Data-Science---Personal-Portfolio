@@ -88,13 +88,13 @@
         <li><p>Which characteristics have the children with a lack in motor skills in common?</p></li>
       </ul>
     </p>
-    <p>As the main research question states, the main goal of this project is to find a solution to how a chance of lacking motor skills in a child can be predicted in a timely future of a year later from the child’s starting observation age. Moreover, the prediction has to be made with the use of data science, for what it has to be explored how data science can be used in such manner.
+    <p>As the <b>main research question</b> states, the main goal of this project is to find a solution to how a chance of lacking motor skills in a child can be predicted in a timely future of a year later from the child’s starting observation age. Moreover, the prediction has to be made with the use of data science, for what it has to be explored how data science can be used in such manner.
     <br><br>
-    Since every child has its own biological composition and grows up in different surroundings than another child, these factors might have an effect on the child’s motor competence development. For his reason, the first subquestion was established.
+    Since every child has its own biological composition and grows up in different surroundings than another child, these factors might have an effect on the child’s motor competence development. For his reason, the <b>first subquestion</b> was established.
     <br><br>
-    The second subquestion refers to the prediction models that are used in data science to predict on data. Thereby, the false negative rate refers to the number of children who are predicted as having a healthy and normal motor competence development, although these children are in fact having problems in that area. This prediction error needs to be very low or in the best-case scenario not present because it is always better to provide a child help even if he does not need it, other than not giving the actually needed help to the child who really is having problems with his development of his motor skills. Because of that, a prediction model has to be found that has the lowest false negative rate.
+    The <b>second subquestion</b> refers to the prediction models that are used in data science to predict on data. Thereby, the false negative rate refers to the number of children who are predicted as having a healthy and normal motor competence development, although these children are in fact having problems in that area. This prediction error needs to be very low or in the best-case scenario not present because it is always better to provide a child help even if he does not need it, other than not giving the actually needed help to the child who really is having problems with his development of his motor skills. Because of that, a prediction model has to be found that has the lowest false negative rate.
     <br><br>
-    Finally, the third subquestion refers to characteristics that might be common in children that have problems in developing their motor skills. If these specific characteristics can be found, the detection of children in need of help might become faster and more efficient.</p>
+    Finally, the <b>third subquestion</b> refers to characteristics that might be common in children that have problems in developing their motor skills. If these specific characteristics can be found, the detection of children in need of help might become faster and more efficient.</p>
 </details>
 <details>
   <summary>Evaluation</summary> 
