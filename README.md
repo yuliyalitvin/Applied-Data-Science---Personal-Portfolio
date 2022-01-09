@@ -75,7 +75,7 @@
   <summary>Training a Model</summary>
     <p>Hallo</p>
       <ul>
-        <li><a href="/Predictive Models/HyperparameterTuning_Test.ipynb">Compare_T0_and_T1_AST</a></li>
+        <li><a href="/Predictive Models/HyperparameterTuning_Test.ipynb">HyperparameterTuning_Test</a></li>
       </ul>
 </details>
 <details>
