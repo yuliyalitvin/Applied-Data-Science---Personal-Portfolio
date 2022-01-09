@@ -123,7 +123,58 @@
 <div><h3>Communication<h3></div>
 <details>
     <summary>Presentations</summary> 
-    <p>Hallo</p>
+    <p>In the communication part of this project, I have held two internal and one external presentation, prepared and/or helped prepare the slides for the presentations, created the design and layout of the slides and Kahoot quiz for the learning lab. I also worked on the research paper and wrote parts of it, as well as proofread and gave feedback to the parts my teammates composed. Also, I was always physically present during all presentations to support my teammate(s), who was or were giving the presentation and to react towards questions or feedback from the audience, even if I was not the one giving the presentation.<br>
+    Folliwing, my contributions to this part wil be described more precisely:</p>
+    <ul>
+      <details>
+        <summary>Internal Presentations</summary>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_1_TeamMotoric.pdf">Internal Presentation 1</a>
+          <p>While my teammates and I created the slides together, I held the first internal presenation on my own.<br>
+          When creating the slides, we sat together as a group and discussed the design, layout and content for each of the created slides.</p>
+          <br>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_4_TeamMotoric.pdf">Internal Presentation 4</a>
+          <p>For the fourth internal presentation I helped with preparing the slides, while especially focussing on the content, but also design and layout. This has been done together with some of my teammates, who I discussed these matters with.</p>
+          <br>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_6_TeamMotoric.pdf">Internal Presentation 6</a>
+          <p>I also helped preparing the sixth internal presentation, in which I again focused especially focused on the content, but also checked for errors in the design and layout. And as it has been done in the previous presentations, some of my teammates and I talked about every of these topics together and decided on the results together.</p>
+          <br>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_7_TeamMotoric.pdf">Internal Presentation 7</a>
+          <p>The seventh internal presentation I was unfortunately not able to help to prepare the slides, but instead I presented it on my own.</p>
+          <br>
+          <a href="/Presentations/Internal Presentations/InternalPresentation_8_TeamMotoric.pdf">Internal Presentation 8</a>
+          <p>For the eighth and final internal presentation, I prepared the slides on my own, however slight changes might have been undertaken by the teammate that held this presentation.</p>
+          <br>
+      </details>
+      <details>
+        <summary>External Presentations</summary>
+          <a href="/Presentations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
+          <p>The sencond external presentation was prepared by my teammates, however Pascal and I presented it. I held the presentation from the beginning until the slide number six.</p>
+          <br>
+          <a href="/Presentations/External Presentations/ExternalPresentation_3_TeamMotoric.pdf">External Presentation 3</a>
+          <p>Using the design and layout from the slides I designed for the learning lab, Lisa and I created the slides for the third external presentation together. For that, we went through every slide together and discuss it's contents as well as design and layout. This presentation also included the <a href="/User Interface Wireframes/UserInterface_Wireframes_Idea.pdf">prototype of wireframes for a possible user interface</a> for our prediction model tool, which I created.</p>
+          <br>
+      </details>
+      <details>
+        <summary>Learning Lab</summary>
+          <a href="/Presentations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
+          <p>Although I did not present the learning lab, I contributed to it by preparing the slides for it, which means I created the complete design and layout, as well as gave some input on possible content ideas and placements.</p>
+          <br>
+          <div><h4>Kahoot Quiz<h4></div>
+          <p>Additionally, Lisa and I prepared the Kahoot Quiz for the learning lab in order to involve the audience directly in our presentation. Further we intended the quiz to be simple, though slightly tricky, but at the same time fun. <br> Following are screenshots of the Kahoot Quiz:</p>
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/1_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/2_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/3_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/4_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/5_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/6_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/7_question.png">
+          <img src="/Presentations/Learning Lab/Kahoot Quiz/8_question.png">
+      </details>
+      <details>
+        <summary>Research Paper</summary>
+          <p>I wrote part of the cleaning and the whole research section. Also I included a lot of references and read through the entire paper to give feedback to my teammates' parts in the paper.</p>
+      </details>
+    </ul>
 </details> 
 <details>
     <summary>Writing Paper</summary> 
