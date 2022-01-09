@@ -187,10 +187,10 @@
       <details>
         <summary>External Presentations</summary>
           <a href="/Presentations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
-          <p>I held the second external presentation with Pascal</p> <!-- 2 -->
+          <p>The sencond external presentation was prepared by my teammates, however Pascal and I presented it. I held the presentation from the beginning until the slide number six.</p>
           <br>
           <a href="/Presentations/External Presentations/ExternalPresentation_3_TeamMotoric.pdf">External Presentation 3</a>
-          <p>And prepared the slides with Lisa for the 3rd</p> <!-- 3 -->
+          <p>Using the design and layout from the slides I designed for the learning lab, Lisa and I created the slides for the third external presentation together. For that, we went through every slide together and discuss it's contents as well as design and layout. This presentation also included the <a href="/User Interface Wireframes/UserInterface_Wireframes_Idea.pdf">prototype of wireframes for a possible user interface</a> for our prediction model tool, which I created.</p>
           <br>
       </details>
       <details>
