@@ -344,8 +344,8 @@
 <details>
     <summary>Writing Paper</summary> 
     <p>Together with Lisa and Joep, I participated in writing the research paper. I especially focused on writing the part of “Related work”, composed the introduction and “Materials” as a team effort together with Lisa.
-    The main research question was formulated as a group, where every member of our group participated in that discussion and we established it together. The three subquestions were then discussed, composed and added by Lisa, Joep and me, whereas Pascal, Mustafa and Joost gave us feedback about them. 
-    I also, next to Lisa and Joep, added a lot of the sources that are listed in “References”.  
+    <br>The main research question was formulated as a group, where every member of our group participated in that discussion and we established it together. The three subquestions were then discussed, composed and added by Lisa, Joep and me, whereas Pascal, Mustafa and Joost gave us feedback about them. 
+    <br>I also, next to Lisa and Joep, added a lot of the sources that are listed in “References”.  
     </p>
     <!-- Link to the paper -->
 </details>
