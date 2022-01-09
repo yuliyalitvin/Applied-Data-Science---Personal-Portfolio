@@ -74,6 +74,9 @@
 <details>
   <summary>Training a Model</summary>
     <p>Hallo</p>
+      <ul>
+        <li><a href="/Predictive Models/HyperparameterTuning_Test.ipynb">Compare_T0_and_T1_AST</a></li>
+      </ul>
 </details>
 <details>
   <summary>Evaluating a Model</summary> 
@@ -197,6 +200,14 @@
 <details>
   <summary>Data Preparation</summary>
     <p>Hallo</p>
+      <ul>
+        <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">cleaning_data_1st_round</a></li>
+        <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">cleaning_data_2nd_round</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_BMI.ipynb">cleaning_data_3rd_round.ipynb</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_Height.ipynb">cleaning_data_4th_round.ipynb</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_MQ.ipynb">cleaning_data_5th_round.ipynb</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_SportsEnjoyment.ipynb">cleaning_pipeline_Lisa_and_Yuliya.ipynb</a></li>
+      </ul>
 </details>
 <details>
   <summary>Data Explanation</summary>
