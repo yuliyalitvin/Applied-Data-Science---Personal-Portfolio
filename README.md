@@ -180,7 +180,8 @@
 </details>
 <details>
   <summary>Data Visualization</summary>
-    <p>Hallo</p>
+    <p>Hier ist die Info</p>
+    <a href="/Visualizations/Visualizations.ipynb">Visualizations</a>
 </details>
 <!-- COMMUNICATION -->
 <div><h3>Communication<h3></div>
