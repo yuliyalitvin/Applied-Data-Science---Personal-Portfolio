@@ -80,7 +80,7 @@
     Therefore, this project was motivated by the will to interfere in a child’s development process at the right moment, in order to be able to help children before the damage cannot be undone anymore. For that, it is important to detect negative changes in a child’s motor skills development at a very early stage, and in the best-case scenario, before the negative changes had the chance to appear, so that they can be prevented beforehand. However, children that already have decreased motor competence have to be detected just as well, so that they can, too, receive the appropriate treatment they need to try to enhance their motor skills again, or, in the wort-case scenario, if there is no chance of improvement, at least will be supported so that their motor skills won’t decrease further, but stay at the same level. 
     This leads to the problem definition of this project, which is predicting children’s motor competence level to understand which child might or will need help with developing or rather enhancing his motor skills. From that the following research question and the subquestions arose:
     </p>
-    <div><h5><i>“How can data science be used to predict whether a child has a chance of developing a lack in motor skills a year later?”</i></h5></div>
+    <div><h3><i>“How can data science be used to predict whether a child has a chance of developing a lack in motor skills a year later?”</i></h3></div>
     <p>
       <ul>
         <li><p>Which biological and socio-demographic variables have an influence on the motoric skills development of children</p></li>
