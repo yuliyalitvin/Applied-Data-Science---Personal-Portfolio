@@ -110,6 +110,8 @@
 <details>
   <summary>Planning</summary> 
     <p>Hallo</p>
+    <a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Scrum - Team Motoric</a>
+    
 </details>
 <!-- PREDICTIVE ANALYTICS -->
 <div><h3>Predictive Analytics<h3></div>
