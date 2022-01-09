@@ -62,7 +62,7 @@
     </ul>
 </details> 
 <details>
-  <summary>Evaluation</summary> 
+  <summary>Evaluation on the group project as a whole</summary> 
     <p>Hallo</p>
 </details> 
 <!-- RESEARCH PROJECT -->
