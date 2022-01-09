@@ -63,7 +63,14 @@
 </details> 
 <details>
   <summary>Evaluation on the group project as a whole</summary> 
-    <p>Hallo</p>
+    <p>The group project as a whole had its ups and downs. As I perceived it, it started very enthusiastically, while research has been done and I, like my teammates, got familiar with the project. Unfortunately, I experienced quite a long wait for the first dataset, which meant that our group project could not move further, but the focus was instead shifted on getting familiar with the new programming language and the subject data science in general. After receiving the first part of the dataset, I could finally try some of my newly acquired knowledge on the data, while also get an understanding of the data and prepare it, so that it could have been used in the predictive models.
+    However, the main problem in our group project was that we did not receive all the data at once, but rather were sent it in bits, which we had to merge together several times and go through the data preparation process again and again. This was slowing down the continuation of our group project.
+    I tried to contribute at each of those reoccurring moments in the best way I could, so that we would acquire new intermediate results with which we could work further. 
+    At other times, it was not exactly clear to me and my teammates which next steps we needed to take in order to get closer to the result we wanted to achieve. However, we discussed these problems together and always found a way out of the situation that we were having.
+    Besides, sometimes I did not have the impression that I had the complete understanding about who of my teammates was working on which task, for which reason I intervened and called in everybody from my group to a team meeting, where everyone told what they were currently working on, from where we could also recognize problems or the need to exchange the tasks or their priority. 
+    All in all, although the group project sometimes did not run smoothly, we most of the times, managed to figure out solutions for are problems and move on further with our group project. Some things did not work out exactly as we planned in the beginning as well. For example, that we had the idea to implement a user interface for our prediction model tool, but unfortunately had to cross it out of our planning, since the given time frame did not allow the fulfillment of that task. 
+    Nevertheless, we worked as a team at all times and had a great working atmosphere, which made it fun to work together on the group project.
+    </p>
 </details> 
 <!-- RESEARCH PROJECT -->
 <div><h3>Research Project<h3></div>
