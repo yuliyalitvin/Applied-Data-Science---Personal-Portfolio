@@ -47,7 +47,8 @@
 <div><h3>Research Project<h3></div>
 <details>
   <summary>Task Definition</summary> 
-    <p>Hallo</p>
+    <p>Researh Question: “How can data science be used to predict whether a child has a chance of developing a lack in motor skills a year later?” <br>
+    Research subquestions: Which biological and socio-demographic variables have an influence on the motoric skills development by children? Which model has the lowest false negative rate? Which characteristics have the children with a lack motoric skills in common? </p>
 </details>
 <details>
   <summary>Evaluation</summary> 
@@ -273,7 +274,8 @@
 </details> 
 <details>
     <summary>Writing Paper</summary> 
-    <p>I wrote part of the cleaning and the whole research section. Also I included a lot of references and read through the entire paper to give feedback to my teammates' parts in the paper.</p>
+    <p>I wrote part of the cleaning and the whole research section. Also I included a lot of references and read through the entire paper to give feedback to my teammates' parts in the paper.
+    The research paper was mainly written by the Team of Lisa, Joep and me. I especially focused on the research section and the cleaning part of the paper.</p>
 </details> 
 <br>
 <br>
