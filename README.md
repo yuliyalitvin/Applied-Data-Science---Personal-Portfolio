@@ -344,8 +344,10 @@
 <br>
 <br>
 <br>
+<!-- Bibliography -->
+<div><h3>Bibliography<h3></div>
 <details>
-    <summary>Bibliography</summary> 
+    <summary>All References included in this portfolio</summary> 
     <p>...</p>
 </details> 
 <br>
