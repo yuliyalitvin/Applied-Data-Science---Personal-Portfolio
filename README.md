@@ -97,33 +97,29 @@
           <summary>Background Research</summary>
           <p>During the background research about the topic of the motor skills development in young children, a basic idea the process of that development could be concluded, where the development of the gross motor skills was the main focus.<br>
           Therefore, at the age of two, a child for example be able to pick up objects from a standing position and not lose his balance, kick a ball, walk and run. At the age of three, shortly balancing and hopping on one foot, pedalling a tricycle and walking upstairs with switching feet, should not be a problem. When the child is four years old, it is expected that he can throw a ball overhand while coordinating that movement and in general show an enhanced balance contorl. At the age of five, coordinating the entire body, therefore hopping, jumping and skipping without losing balance, and keeping the balance while standing on one foot with both eyes closed, should not be a difficulty (<a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a>). As similarly when the child becomes six years old, he should be able to walk on a balance beam, hopping a good distance, run on toes, skip with the use of a skipping rope, throw and catch in a mature way and jump with mature control and skills (<a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a>).</p>
-            <ul>
-              <details>
-                <summary>Literature</summary>
-                  <ul>
-                    <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
-                    <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
-                    <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
-                    <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
-                    <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
-                  </ul>
-              </details><br><br>
-            </ul>
+            <details>
+              <summary>Literature</summary>
+                <ul>
+                  <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
+                  <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
+                  <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
+                  <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
+                  <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
+                </ul>
+            </details><br><br>
         </details>
         <details>
           <summary>Existing Datasets</summary>
           <p>Finding an exisiting dataset was not a necessity for this project because two datasets already existed, since the data had been gathered by <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> and was given us to work with.<br> However, we did not receive those datasets immediately, for which reason I researched for existing similar datasets on <a href="https://www.kaggle.com/"><i>Kaggle</i></a>. During that research, I found one dataset that seemed to examine a similar topic. That particular dataset looks at the growth development from child- to adulthood, while several growth related measurements were taken, as well as information was gathered from the individual child's parents. I found that two of the taken measurements were about motor skills. Therefore, one of the measurements were the gross and the other the fine motor skills. <br>
           However, I decided against indulding deeper into this dataset because we soon received the first part of the first dataset from our project owner.</p>
-            <ul>  
-              <details>
-                <summary>Links to the Excel- and CSV-file of the Child Growth dataset:</summary>
-                  <ul>
-                    <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
-                    <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
-                    <!-- https://www.kaggle.com/salmanahmad1980/child-growth-measurements -->
-                  </ul>
-              </details><br><br>
-            </ul>
+            <details>
+              <summary>Links to the Excel- and CSV-file of the Child Growth dataset:</summary>
+                <ul>
+                  <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
+                  <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
+                  <!-- https://www.kaggle.com/salmanahmad1980/child-growth-measurements -->
+                </ul>
+            </details><br><br>
         </details>
     </ul>
 </details> 
