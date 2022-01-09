@@ -195,8 +195,8 @@
       </details>
       <details>
         <summary>Learning Lab</summary>
-          <p>I prepared the slides (their design and layout) for the learning lab</p>
           <a href="/Presentations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
+          <p>I prepared the slides (their design and layout) for the learning lab</p>
           <br>
           <p>Also, Lisa and I prepared the Kahoot Quiz for the learning lab, so that the audience would be directly involved in our presentation. Following are screenshots of the Kahoot Quiz:</p>
           <img src="/Presentations/Learning Lab/Kahoot Quiz/1_question.png">
