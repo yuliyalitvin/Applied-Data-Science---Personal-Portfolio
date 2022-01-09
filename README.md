@@ -343,8 +343,11 @@
 </details> 
 <details>
     <summary>Writing Paper</summary> 
-    <p>I wrote part of the cleaning and the whole research section. Also I included a lot of references and read through the entire paper to give feedback to my teammates' parts in the paper.
-    The research paper was mainly written by the Team of Lisa, Joep and me. I especially focused on the research section and the cleaning part of the paper.</p>
+    <p>Together with Lisa and Joep, I participated in writing the research paper. I especially focused on writing the part of “Related work”, composed the introduction and “Materials” as a team effort together with Lisa.
+    The main research question was formulated as a group, where every member of our group participated in that discussion and we established it together. The three subquestions were then discussed, composed and added by Lisa, Joep and me, whereas Pascal, Mustafa and Joost gave us feedback about them. 
+    I also, next to Lisa and Joep, added a lot of the sources that are listed in “References”.  
+    </p>
+    <!-- Link to the paper -->
 </details>
 <br>
 <br>
