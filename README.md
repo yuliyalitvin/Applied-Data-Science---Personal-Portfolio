@@ -339,6 +339,14 @@
     <summary>Writing Paper</summary> 
     <p>I wrote part of the cleaning and the whole research section. Also I included a lot of references and read through the entire paper to give feedback to my teammates' parts in the paper.
     The research paper was mainly written by the Team of Lisa, Joep and me. I especially focused on the research section and the cleaning part of the paper.</p>
+</details>
+<br>
+<br>
+<br>
+<br>
+<details>
+    <summary>Bibliography</summary> 
+    <p>...</p>
 </details> 
 <br>
 <br>
