@@ -76,8 +76,18 @@
 <div><h3>Research Project<h3></div>
 <details>
   <summary>Task Definition</summary> 
-    <p>Researh Question: “How can data science be used to predict whether a child has a chance of developing a lack in motor skills a year later?” <br>
-    Research subquestions: Which biological and socio-demographic variables have an influence on the motoric skills development by children? Which model has the lowest false negative rate? Which characteristics have the children with a lack motoric skills in common? </p>
+    <p>This project was started by the project Start(V)aardig as a reaction towards the general observation that young children at this day and age suffer more often from poor motor competence development due to the modern way of life in nowadays society. Children starting from a very young age are used to modern technologies which are incorporated in their play devices such as games and other, which leads to the consequences that children that grow up in these modern surroundings are less likely to go outside and play outdoors, as well as indulge into activities such as various sports, but rather stay at home most of the time and mostly sit while using a game device to spend their time. This leads to lack of movement, which increases the chance of that child to develop insufficient motor competence. As a consequence, the child might continue suffering from this underdevelopment up into his adulthood and may never recover, if he did not get proper help to work against the decreasing motor competence to improve his situation.
+    Therefore, this project was motivated by the will to interfere in a child’s development process at the right moment, in order to be able to help children before the damage cannot be undone anymore. For that, it is important to detect negative changes in a child’s motor skills development at a very early stage, and in the best-case scenario, before the negative changes had the chance to appear, so that they can be prevented beforehand. However, children that already have decreased motor competence have to be detected just as well, so that they can, too, receive the appropriate treatment they need to try to enhance their motor skills again, or, in the wort-case scenario, if there is no chance of improvement, at least will be supported so that their motor skills won’t decrease further, but stay at the same level. 
+    This leads to the problem definition of this project, which is predicting children’s motor competence level to understand which child might or will need help with developing or rather enhancing his motor skills. From that the following research question and the subquestions arose:
+    </p>
+    <div><h5><i>“How can data science be used to predict whether a child has a chance of developing a lack in motor skills a year later?”</i></h5></div>
+    <p>
+      <ul>
+        <li><p>Which biological and socio-demographic variables have an influence on the motoric skills development of children</p></li>
+        <li><p>Which model has the lowest false negative rate?</p></li>
+        <li><p>Which characteristics have the children with a lack in motor skills in common?</p></li>
+      </ul>
+    </p>
 </details>
 <details>
   <summary>Evaluation</summary> 
