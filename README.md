@@ -179,9 +179,9 @@
             <details>
               <summary>Links to Sourcepage, Excel- and CSV-file of the Child Growth dataset:</summary>
                 <ul>
-                  <a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a>
-                  <a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a>
-                  <a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a>
+                  <li><div><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
+                  <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
+                  <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a></li>
                 </ul>
             </details><br><br>
         </details>
