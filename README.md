@@ -169,10 +169,10 @@
         <summary>Internal Presentations</summary>
           <a href="/Presentations/Internal Presentations/InternalPresentation_1_TeamMotoric.pdf">Internal Presentation 1</a>
           <p>While my teammates and I created the slides together, I held the first internal presenation on my own.<br>
-          When creating the slides, we sat together as a group and discussed the design, layout and content for each of the created slides.</p> <!-- 1 -->
+          When creating the slides, we sat together as a group and discussed the design, layout and content for each of the created slides.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_4_TeamMotoric.pdf">Internal Presentation 4</a>
-          <p>Helped preparing the slides for the 4th</p> <!-- 4 -->
+          <p>For the forth internal presentation I helped with preparing the slides, while especially focussing on the content, but also design and layout. This has been done together with some of my teammates, who I discussed these matters with.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_6_TeamMotoric.pdf">Internal Presentation 6</a>
           <p>Helped preparing the slides for the 6th</p> <!-- 6 -->
