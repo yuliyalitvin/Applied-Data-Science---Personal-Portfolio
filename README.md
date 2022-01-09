@@ -171,18 +171,28 @@
 <details>
   <summary>Data Exploration</summary> 
     <p>Hallo</p>
-      <li><a href="/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST</a></li>
-      <li><a href="/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2</a></li>
-      <li><a href="/Comparing Datasets/Compare_T0_and_T1_BMI.ipynb">Compare_T0_and_T1_BMI</a></li>
-      <li><a href="/Comparing Datasets/Compare_T0_and_T1_Height.ipynb">Compare_T0_and_T1_Height</a></li>
-      <li><a href="/Comparing Datasets/Compare_T0_and_T1_MQ.ipynb">Compare_T0_and_T1_MQ</a></li>
-      <li><a href="/Comparing Datasets/Compare_T0_and_T1_SportsEnjoyment.ipynb">Compare_T0_and_T1_SportsEnjoyment</a></li>
-      <li><a href="/Comparing Datasets/Compare_T0_and_T1_Weight.ipynb">Compare_T0_and_T1_Weight</a></li>
-      <li><a href="/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
+      <ul>
+        <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST</a></li>
+        <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2</a></li>
+        <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_BMI.ipynb">Compare_T0_and_T1_BMI</a></li>
+        <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Height.ipynb">Compare_T0_and_T1_Height</a></li>
+        <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_MQ.ipynb">Compare_T0_and_T1_MQ</a></li>
+        <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_SportsEnjoyment.ipynb">Compare_T0_and_T1_SportsEnjoyment</a></li>
+        <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Weight.ipynb">Compare_T0_and_T1_Weight</a></li>
+        <li><a href="/Data Preparation/Exploration/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
+      </ul>
 </details> 
 <details>
   <summary>Data Cleansing</summary> 
     <p>Hallo</p>
+      <ul>
+        <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">cleaning_data_1st_round</a></li>
+        <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">cleaning_data_2nd_round</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_BMI.ipynb">cleaning_data_3rd_round.ipynb</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_Height.ipynb">cleaning_data_4th_round.ipynb</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_MQ.ipynb">cleaning_data_5th_round.ipynb</a></li>
+        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_SportsEnjoyment.ipynb">cleaning_pipeline_Lisa_and_Yuliya.ipynb</a></li>
+      </ul>
 </details> 
 <details>
   <summary>Data Preparation</summary>
