@@ -343,7 +343,6 @@
 <br>
 <br>
 <br>
-<br>
 <!-- Bibliography -->
 <div><h3>Bibliography<h3></div>
 <details>
