@@ -197,7 +197,6 @@
         <summary>Learning Lab</summary>
           <a href="/Presentations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
           <p>Although I did not present the learning lab, I contributed to it by preparing the slides for it, which means I created the complete design and layout, as well as gave some input on possible content ideas and placements.</p>
-          <br>
           <div><h4>Kahoot Quiz<h4></div>
           <p>Additionally, Lisa and I prepared the Kahoot Quiz for the learning lab in order to involve the audience directly in our presentation. Further we intended the quiz to be simple, though slightly tricky, but at the same time fun. <br> Following are screenshots of the Kahoot Quiz:</p>
           <img src="/Presentations/Learning Lab/Kahoot Quiz/1_question.png">
