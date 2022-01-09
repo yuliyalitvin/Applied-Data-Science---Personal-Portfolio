@@ -109,8 +109,14 @@
 </details>
 <details>
   <summary>Planning</summary> 
-    <p>Hallo</p>
-    <a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Scrum - Team Motoric</a>
+    <p>The project planning was done with Scrum while using the Planner app that is provided by the university. Inside the planner we created a new board for this project that includes the buckets ‘Backlog’, ‘Todo’, ‘Doing’, ‘Check’ and ‘Done’. 
+    All tasks were at first defined in the ‘Backlog’, after which they were assigned to individual or several team members and moved to ‘Todo’. As soon as one of the tasks that were in the ‘Todo’ bucket was tackled, it was removed from ‘Todo’ and placed in ‘Doing’ until the task was done. If the task was finished, but the persons, who worked on it, wanted to go through it again to check if everything was completed according to the task’s requirements, the task was moved to the bucket ‘Check’. Finally, when the task is completely finished and can be marked as done, it is moved to the ‘Done’-bucket. 
+    All tasks that I have worked on either on my own or together with some of my teammates are listed in the Planner. 
+    Moreover, we decided on incorporating weekly sprints that started at the beginning of each week. This way we could start with the new sprint refreshed and focused after the weekend and could define new tasks, discuss issues that might have occurred and planned further proceedings in the project.
+    Additionally, we have used GitHub to have automated version control and daily pushes to save everything, that has been worked on. 
+    </p>
+    <a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Link to Planner - Team Motoric</a>
+    <!-- <a href="https://github.com/joostvanviegen/team-motoric">GitHub Repository - Team Motoric</a> -->
 </details>
 <!-- PREDICTIVE ANALYTICS -->
 <div><h3>Predictive Analytics<h3></div>
