@@ -162,7 +162,8 @@
 <!-- COMMUNICATION -->
 <details>
   <summary>Communication</summary>
-    <p>In the communication part of this project, I have held two internal and one external presentation, prepared and/or helped prepare the slides for the presentations, created the design and layout of the slides and Kahoot quiz for the learning lab. I also worked on the research paper and wrote parts of it, as well as proofread and gave feedback to the parts my teammates composed. Also, I was always physically present during all presentations to support my teammate(s), who was or were giving the presentation and to react towards questions or feedback from the audience, even if I was not the one giving the presentation.</p>
+    <p>In the communication part of this project, I have held two internal and one external presentation, prepared and/or helped prepare the slides for the presentations, created the design and layout of the slides and Kahoot quiz for the learning lab. I also worked on the research paper and wrote parts of it, as well as proofread and gave feedback to the parts my teammates composed. Also, I was always physically present during all presentations to support my teammate(s), who was or were giving the presentation and to react towards questions or feedback from the audience, even if I was not the one giving the presentation.<br>
+    Folliwing, my contributions to this part wil be described more precisely:</p>
     <ul>
       <details>
         <summary>Internal Presentations</summary>
