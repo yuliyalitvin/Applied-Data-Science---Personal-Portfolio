@@ -172,13 +172,13 @@
           When creating the slides, we sat together as a group and discussed the design, layout and content for each of the created slides.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_4_TeamMotoric.pdf">Internal Presentation 4</a>
-          <p>For the forth internal presentation I helped with preparing the slides, while especially focussing on the content, but also design and layout. This has been done together with some of my teammates, who I discussed these matters with.</p>
+          <p>For the fourth internal presentation I helped with preparing the slides, while especially focussing on the content, but also design and layout. This has been done together with some of my teammates, who I discussed these matters with.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_6_TeamMotoric.pdf">Internal Presentation 6</a>
-          <p>Helped preparing the slides for the 6th</p> <!-- 6 -->
+          <p>I also helped preparing the sixth internal presentation, in which I again focused especially focused on the content, but also checked for errors in the design and layout. And as it has been done in the previous presentations, some of my teammates and I talked about every of these topics together and decided on the results together.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_7_TeamMotoric.pdf">Internal Presentation 7</a>
-          <p>The seventh I presented.</p> <!-- 7 -->
+          <p>The seventh I presented.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_8_TeamMotoric.pdf">Internal Presentation 8</a>
           <p>perapred the slides for the 8th</p> <!-- 8 -->
