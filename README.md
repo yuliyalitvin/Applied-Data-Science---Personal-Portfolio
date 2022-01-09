@@ -186,11 +186,11 @@
       </details>
       <details>
         <summary>External Presentations</summary>
-          <p>I held the second external presentation with Pascal</p> <!-- 2 -->
           <a href="/Presentations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
+          <p>I held the second external presentation with Pascal</p> <!-- 2 -->
           <br>
-          <p>And prepared the slides with Lisa for the 3rd</p> <!-- 3 -->
           <a href="/Presentations/External Presentations/ExternalPresentation_3_TeamMotoric.pdf">External Presentation 3</a>
+          <p>And prepared the slides with Lisa for the 3rd</p> <!-- 3 -->
           <br>
       </details>
       <details>
