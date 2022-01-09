@@ -114,14 +114,16 @@
           <summary>Existing Datasets</summary>
           <p>Finding an exisiting dataset was not a necessity for this project because two datasets already existed, since the data had been gathered by <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> and was given us to work with.<br> However, we did not receive those datasets immediately, for which reason I researched for existing similar datasets on <a href="https://www.kaggle.com/"><i>Kaggle</i></a>. During that research, I found one dataset that seemed to examine a similar topic. That particular dataset looks at the growth development from child- to adulthood, while several growth related measurements were taken, as well as information was gathered from the individual child's parents. I found that two of the taken measurements were about motor skills. Therefore, one of the measurements were the gross and the other the fine motor skills. <br>
           However, I decided against indulding deeper into this dataset because we soon received the first part of the first dataset from our project owner.</p>
-            <details>
-              <summary>Links to the Excel- and CSV-file of the Child Growth dataset:</summary>
-                <ul>
-                  <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
-                  <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
-                  <!-- https://www.kaggle.com/salmanahmad1980/child-growth-measurements -->
-                </ul>
-            </details>
+            <ul>  
+              <details>
+                <summary>Links to the Excel- and CSV-file of the Child Growth dataset:</summary>
+                  <ul>
+                    <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
+                    <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
+                    <!-- https://www.kaggle.com/salmanahmad1980/child-growth-measurements -->
+                  </ul>
+              </details>
+            </ul>
         </details>
     </ul>
 </details> 
