@@ -171,17 +171,17 @@
           <p>While my teammates and I created the slides together, I held the first internal presenation on my own.<br>
           When creating the slides, we sat together as a group and discussed the design, layout and content for each of the created slides.</p> <!-- 1 -->
           <br>
-          <p>Helped preparing the slides for the 4th</p> <!-- 4 -->
           <a href="/Presentations/Internal Presentations/InternalPresentation_4_TeamMotoric.pdf">Internal Presentation 4</a>
+          <p>Helped preparing the slides for the 4th</p> <!-- 4 -->
           <br>
-          <p>Helped preparing the slides for the 6th</p> <!-- 6 -->
           <a href="/Presentations/Internal Presentations/InternalPresentation_6_TeamMotoric.pdf">Internal Presentation 6</a>
+          <p>Helped preparing the slides for the 6th</p> <!-- 6 -->
           <br>
-          <p>The seventh I presented.</p> <!-- 7 -->
           <a href="/Presentations/Internal Presentations/InternalPresentation_7_TeamMotoric.pdf">Internal Presentation 7</a>
+          <p>The seventh I presented.</p> <!-- 7 -->
           <br>
-          <p>perapred the slides for the 8th</p> <!-- 8 -->
           <a href="/Presentations/Internal Presentations/InternalPresentation_8_TeamMotoric.pdf">Internal Presentation 8</a>
+          <p>perapred the slides for the 8th</p> <!-- 8 -->
           <br>
       </details>
       <details>
