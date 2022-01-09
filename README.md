@@ -109,12 +109,25 @@
             </details><br><br>
         </details>
         </details>
+        <details>
+          <summary>Existing Datasets</summary>
+          <p>Finding an exisiting dataset was not a necessity for this project because two datasets already existed, since the data had been gathered by <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> and was given us to work with.<br> However, we did not receive those datasets immediately, for which reason I researched for existing similar datasets on <a href="https://www.kaggle.com/"><i>Kaggle</i></a>. During that research, I found one dataset that seemed to examine a similar topic. That particular dataset looks at the growth development from child- to adulthood, while several growth related measurements were taken, as well as information was gathered from the individual child's parents. I found that two of the taken measurements were about motor skills. Therefore, one of the measurements were the gross and the other the fine motor skills. <br>
+          However, I decided against indulding deeper into this dataset because we soon received the first part of the first dataset from our project owner.</p>
+            <details>
+              <summary>Links to the Excel- and CSV-file of the Child Growth dataset:</summary>
+                <ul>
+                  <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
+                  <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
+                  <!-- https://www.kaggle.com/salmanahmad1980/child-growth-measurements -->
+                </ul>
+            </details>
+        </details>
       </li>
     </ul>
 </details> 
 <details>
     <summary>Literature Research</summary> 
-        <details>
+    <details>
           <summary>Existing, Similar Projects</summary>
           <p>After gathering more background information on the subject of motor skills development in young children, related works, such as projects, were of interest to find. These, even if not dealing with the exact same problem statement can help getting a broder viewpoint on our own project and give us ideas of where and how to start.<br>
           Therefore, a search for such similar already existing projects was undertaken through which several findings have been made. These findings are listed under the point 'List of papers from existing projects'.<br><br>
@@ -138,20 +151,7 @@
                   <li><a href="https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood">Motor Skills: Development in Infancy and Early Childhood</a></li>
                   <li><a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Chairilsyah, D. (2019). Web-Based Application to Measure Motoric Development of Early Childhood. JPUD - Jurnal Pendidikan Usia Dini, 13(1), 1–14.</a></li>
                 </ul>
-              </details>
-            <details>
-              <summary>Existing Datasets</summary>
-              <p>Finding an exisiting dataset was not a necessity for this project because two datasets already existed, since the data had been gathered by <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> and was given us to work with.<br> However, we did not receive those datasets immediately, for which reason I researched for existing similar datasets on <a href="https://www.kaggle.com/"><i>Kaggle</i></a>. During that research, I found one dataset that seemed to examine a similar topic. That particular dataset looks at the growth development from child- to adulthood, while several growth related measurements were taken, as well as information was gathered from the individual child's parents. I found that two of the taken measurements were about motor skills. Therefore, one of the measurements were the gross and the other the fine motor skills. <br>
-              However, I decided against indulding deeper into this dataset because we soon received the first part of the first dataset from our project owner.</p>
-                <details>
-                  <summary>Links to the Excel- and CSV-file of the Child Growth dataset:</summary>
-                    <ul>
-                      <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
-                      <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
-                      <!-- https://www.kaggle.com/salmanahmad1980/child-growth-measurements -->
-                    </ul>
-                </details>
-          </details>
+            </details>
 </details> 
 <details>
     <summary>Explanation of Terminology, Jargon and Definitions</summary>
