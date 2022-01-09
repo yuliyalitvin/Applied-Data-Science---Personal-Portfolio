@@ -323,7 +323,7 @@
           <p>Although I did not present the learning lab, I contributed to it by preparing the slides for it, which means I created the complete design and layout, as well as gave some input on possible content ideas and placements.</p>
           <br>
           <div><h4>Kahoot Quiz<h4></div>
-          <p>Additionally, Lisa and I prepared the Kahoot Quiz for the learning lab in order to involve the audience directly in our presentation. Further we intended the quiz to be simple, though slightly tricky, but at the same time fun. <br> Following are screenshots of the Kahoot Quiz:</p>
+          <p>Additionally, Lisa and I prepared the <a href="https://kahoot.com/">Kahoot</a> Quiz for the learning lab in order to involve the audience directly in our presentation. Further we intended the quiz to be simple, though slightly tricky, but at the same time fun. <br> Following are screenshots of the Kahoot Quiz:</p>
           <img src="/Presentations/Learning Lab/Kahoot Quiz/1_question.png">
           <img src="/Presentations/Learning Lab/Kahoot Quiz/2_question.png">
           <img src="/Presentations/Learning Lab/Kahoot Quiz/3_question.png">
@@ -346,7 +346,30 @@
 <div><h3>Bibliography<h3></div>
 <details>
     <summary>All References included in this portfolio</summary> 
-    <p>...</p>
+    <ul>
+      <li><a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Scrum - Team Motoric</a></li>
+      <li><a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a></li>
+      <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
+      <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
+      <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
+      <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
+      <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
+      <li><a href="https://link.springer.com/article/10.1007/s40279-020-01336-2">Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink.</a></li>
+      <li><a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3">Influence of motor skills training on children’s development evaluated in the Motor skills in PreSchool (MiPS) study-DK: study protocol for a randomized controlled trial, nested in a cohort study</a></li>
+      <li><a href="https://journals.sagepub.com/doi/abs/10.2307/3345234">Gilbert, J. (1980). An Assessment of Motor Music Skill Development in Young Children. Journal of Research in Music Education, 28(3), 167–175.</a></li>
+      <li><a href="https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf">Jörg Sander, Antoine de Schipper, Annette Brons, Svetlana Mironcika, Huub Toussaint, Ben Schouten, Ben Kröse (unknown). Detecting delays in motor skill development of children through data analysis of a smart play device. Unknown.</a></li>
+      <li><a href="https://www.hindawi.com/journals/bmri/2020/6639341/#methodshttps://www.hindawi.com/journals/bmri/2020/6639341/#methods">Wang, H., Chen, Y., Liu, J., Sun, H., & Gao, W. (2020). A Follow-Up Study of Motor Skill Development and Its Determinants in Preschool Children from Middle-Income Family. BioMed Research International, 2020, 1–13. </a></li>
+      <li><a href="https://www.researchgate.net/publication/328954650_Four_Ways_of_Fine_Motor_Skills_Development_in_Early_Childhood">Four Ways of Fine Motor Skills Development in Early Childhood</a></li>
+      <li><a href="https://www.jmir.org/2021/4/e24237">Annette Brons, Antoine de Schipper, Svetlana Mironcika, Huub Toussaint, Ben Schouten, Sander Bakkes, Ben Kröse (2021, April). Assessing Children’s Fine Motor Skills With Sensor-Augmnted Toys: Machine Learning Approach. JMIR Publications.</a></li>
+      <li><a href="https://efsupit.ro/images/stories/3%20September2016/art%20175.pdf">Borhannudin Abdullah, Wan Azira Abd Aziz, Aminuddin Yusof (2016, October). Level of motor skill development of preschool students. Journal of Physical Education and Sport (JPES).</a></li>
+      <li><a href="https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf">Martin-Ruiz, M. L. (2015). Foundations of a Smart Toy Development for the Early Detection of Motoric Impairments at Childhood. International Journal of Pediatric Research, 1(2).</a></li>
+      <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/">Annina E. Zysset, Tanja H. Kakebeeke, Nadine Messerli-Bürgy, Andrea H. Meyer, Kerstin Stülb, Claudia S. Leeger-Aschmann, Einat A. Schmutz, Amar Arhab, Valentina Ferrazzini, Susi Kriemler, Simone Munsch, Jardena J. Puder, Oskar G. Jenni (2018, February. The validity of parental reports on motor skills performance level in preschool children: a comparison with a standardized motor test. NCBI.</a></li>
+      <li><a href="https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood">Motor Skills: Development in Infancy and Early Childhood</a></li>
+      <li><a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Chairilsyah, D. (2019). Web-Based Application to Measure Motoric Development of Early Childhood. JPUD - Jurnal Pendidikan Usia Dini, 13(1), 1–14.</a></li>
+      <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a></li>
+      <li><a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a></li>
+      <li><a href="https://kahoot.com/">Kahoot</a></li>
+    </ul>
 </details> 
 <br>
 <br>
