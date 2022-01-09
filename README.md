@@ -181,7 +181,7 @@
           <p>The seventh internal presentation I was unfortunately not able to help to prepare the slides, but instead I presented it on my own.</p>
           <br>
           <a href="/Presentations/Internal Presentations/InternalPresentation_8_TeamMotoric.pdf">Internal Presentation 8</a>
-          <p>perapred the slides for the 8th</p> <!-- 8 -->
+          <p>For the eighth and final internal presentation, I prepared the slides on my own, however slight changes might have been undertaken by the teammate that held this presentation.</p>
           <br>
       </details>
       <details>
