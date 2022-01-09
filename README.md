@@ -8,12 +8,141 @@
 <br>
 </div>
 <!-- **************************************************** -->
-<!-- FIRST SECTION -->
+<!-- CORRECT STRUCTURE -->
 <!-- **************************************************** -->
 <div><h3>Gathering background knowledge on the data science subject<h3></div>
 <!-- DATACAMP COURSES-->
 <details>
     <summary>DataCamp Courses</summary> <!-- figure out how to make the font-size bigger -->
+    <p>Throughout September until the middle of October, I have completed 16 DataCamp courses with success, while learning a lot through participating in those online courses. Especially the sessions, in which you could try coding something yourself after learning about a new topic were fun and helpful to understand the subject better.</p>
+    <p>Therefore, in the following, screenshots of all required and successfully completed DataCamp courses are displayed:</p>
+    <img src="/DataCamp Completed Courses Screenshots/1_DataCamp_IntroductionTo Python.png">
+    <img src="/DataCamp Completed Courses Screenshots/2_DataCamp_IntermediatePython.png">
+    <img src="/DataCamp Completed Courses Screenshots/3_DataCamp_PythonDataScienceToolbox(Part1).png">
+    <img src="/DataCamp Completed Courses Screenshots/4_DataCamp_PythonDataScienceToolbox(Part2).png">
+    <img src="/DataCamp Completed Courses Screenshots/5_DataCamp_StatisticalThinkingInPython(Part1).png">
+    <img src="/DataCamp Completed Courses Screenshots/6_DataCamp_SupervisedLearningWithScikit-learn.png">
+    <img src="/DataCamp Completed Courses Screenshots/7_DataCamp_IntroductionToDataVisualizationWithMatplotlib.png">
+    <img src="/DataCamp Completed Courses Screenshots/8_DataCamp_LinearClassifiersinPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/9_DataCamp_ModelValidationInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/10_DataCamp_DataManipulationWithPandas.png">
+    <img src="/DataCamp Completed Courses Screenshots/11_DataCamp_CleaningDataInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/12_DataCamp_ExploratoryDataAnalysisInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/13_DataCamp_ManipulatingTimeSeriesDataInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/14_MachineLearningForTimeSeriesDataInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/15_TimeSeriesAnalysisInPython.png">
+    <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
+</details> 
+<!-- REFLECTION AND EVALUATION -->
+<div><h3>Reflection and Evaluation<h3></div>
+<details>
+    <summary>Reflection</summary>
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Evaluation</summary> 
+    <p>Hallo</p>
+</details> 
+<!-- RESEARCH PROJECT -->
+<div><h3>Research Project<h3></div>
+<details>
+    <summary>Task Definition</summary> 
+    <p>Hallo</p>
+</details>
+<details>
+    <summary>Evaluation</summary> 
+    <p>Hallo</p>
+</details>
+<details>
+    <summary>Conclusions</summary> 
+    <p>Hallo</p>
+</details>
+<details>
+    <summary>Planning</summary> 
+    <p>Hallo</p>
+</details>
+<!-- PREDICTIVE ANALYTICS -->
+<div><h3>Predictive Analytics<h3></div>
+<details>
+    <summary>Selecting a Model</summary> 
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Configuring a Model</summary> 
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Training a Model</summary>
+    <p>Hallo</p>
+</details>
+<details>
+    <summary>Evaluating a Model</summary> 
+    <p>Hallo</p>
+</details>
+<details>
+    <summary>Visualizing the Outcome of a Model</summary> 
+    <p>Hallo</p>
+</details>
+<!-- DOMAIN KNOWLEDGE -->
+<div><h3>Domain Knowledge<h3></div>
+<details>
+    <summary>Introduction of the Subject Field</summary> 
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Literature Research</summary> 
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Explanation of Terminology, Jargon and Definitions</summary>
+    <p>Hallo</p>
+</details>
+<!-- DATA PREPROCESSING -->
+<div><h3>Data Preprocessing<h3></div>
+<details>
+    <summary>Data Exploration</summary> 
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Data Cleansing</summary> 
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Data Preparation</summary>
+    <p>Hallo</p>
+</details>
+<details>
+    <summary>Data Explanation</summary>
+    <p>Hallo</p>
+</details>
+<details>
+    <summary>Data Visualization</summary>
+    <p>Hallo</p>
+</details>
+<!-- COMMUNICATION -->
+<div><h3>Communication<h3></div>
+<details>
+    <summary>Presentations</summary> 
+    <p>Hallo</p>
+</details> 
+<details>
+    <summary>Writing Paper</summary> 
+    <p>Hallo</p>
+</details> 
+<br>
+<br>
+<br>
+<br>
+<!-- **************************************************** -->
+<!-- **************************************************** -->
+<!-- **************************************************** -->
+<!-- **************************************************** -->
+<!-- FIRST SECTION -->
+<!-- **************************************************** -->
+<div><h3>Gathering background knowledge on the data science subject<h3></div>
+<!-- DATACAMP COURSES-->
+<details>
+    <summary>DataCamp Courses</summary> 
     <p>Throughout September until the middle of October, I have completed 16 DataCamp courses with success, while learning a lot through participating in those online courses. Especially the sessions, in which you could try coding something yourself after learning about a new topic were fun and helpful to understand the subject better.</p>
     <p>Therefore, in the following, screenshots of all required and successfully completed DataCamp courses are displayed:</p>
     <img src="/DataCamp Completed Courses Screenshots/1_DataCamp_IntroductionTo Python.png">
@@ -94,6 +223,7 @@
                 <ul>
                   <li><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
                   <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
+                  <!-- https://www.kaggle.com/salmanahmad1980/child-growth-measurements -->
                 </ul>
             </details>
         </details>
