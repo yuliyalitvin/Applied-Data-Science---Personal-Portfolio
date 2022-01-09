@@ -162,7 +162,7 @@
 <!-- COMMUNICATION -->
 <details>
   <summary>Communication</summary>
-    <p>I have been physically present at every single presentation</p>
+    <p>In the communication part of this project, I have held two internal and one external presentation, prepared and/or helped prepare the slides for the presentations, created the design and layout of the slides and Kahoot quiz for the learning lab. I also worked on the research paper and wrote parts of it, as well as proofread and gave feedback to the parts my teammates composed.</p>
     <ul>
       <details>
         <summary>Internal Presentations</summary>
