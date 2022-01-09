@@ -197,13 +197,13 @@
 </details> 
 <details>
   <summary>Explanation of Terminology, Jargon and Definitions</summary>
-    <h4>Gross Motor Skills<h4>
+    <div><h4>Gross Motor Skills<h4></div>
     <p>These are physical skills that involve the entire body to be able to do tasks such as sit upright, walk, run, jump, as well as catching and throwing, just as kicking a ball, but also swim and ride a bike and others. Therefore these skills require the large muscles of the body that stabilise the core to work correctly, but at the same time need correct coordination between eyes and hand. (https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/)</p>
     <br>
-    <h4>Perceived Motor Competence<h4>
+    <div><h4>Perceived Motor Competence<h4></div>
     <p>Perceived motor competence is as the term already mentioned, the motor competence one thinks one has from one's own observation of one's body.</p>
     <br>
-    <h4>Actual Motor Competence</h4>
+    <div><h4>Actual Motor Competence</h4></div>
     <p>Actual motor competence, in contrary to the perceived motor competence, is the motor competence that one actually has, which for example can be measure with the help of test that for instance are physical exercises.</p>
 </details>
 <!-- DATA PREPROCESSING -->
