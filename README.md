@@ -204,7 +204,7 @@
     <p>The code can be viewed in the file <a href="/Predictive Models/KMeans/KMeans.ipynb">‘KMeans.ipynb'</a>.</p>
     <ul>
       <details>
-        <summary>Refrence</summary>
+        <summary>Refrences</summary>
         <li><a href="https://ieeexplore.ieee.org/document/7898482">Zhang, S., Li, X., Zong, M., Zhu, X., Wang, R. (2018). Efficient kNN Classification With Different Numbers of Nearest Neighbors. (2018, May 1). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/7898482</a></li>
         <li><a href="https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501">Hubáček, O. (2018, May 3). Learning to predict soccer results from relational data with gradient boosted trees. SpringerLink. https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501</a></li>
         <li><a href="https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html">Burduk, R., & Wozniak, M. (2012, April 1). Different decision tree induction strategies for a medical decision problem. De Gruyter. https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html</a></li>
@@ -216,9 +216,11 @@
       </details>
       <details>
         <summary>Notebooks</summary>
-        <a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a>
-        <a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a>
-        <a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a>
+        <ul>
+          <li><a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a></li>
+          <li><a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a></li>
+          <li><a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a></li>
+        </ul>
       </details>
     </ul><br><br>
 </details>
