@@ -158,6 +158,10 @@
         <summary>Refrence</summary>
         <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">sklearn.ensemble.RandomForestClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</a>
       </details>
+      <details>
+        <summary>Notebook</summary>
+        <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>
+      </details>
     </ul><br><br>
 </details> 
 <details>
