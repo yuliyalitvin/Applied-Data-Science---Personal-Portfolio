@@ -186,9 +186,9 @@
                   <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
                   <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
                 </ul>
-            </details><br><br>
+            </details>
         </details>
-    </ul>
+    </ul><br><br>
 </details> 
 <details>
   <summary>Literature Research</summary> 
