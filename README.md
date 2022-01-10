@@ -166,7 +166,14 @@
 </details> 
 <details>
   <summary>Training a Model</summary>
-    <p>Hallo</p>
+    <p>When training a model, it is necessary to validate whether the model functions and learned correctly. Therefore, the model has to be checked for under- or overfitting and measures such as hyperparameter tuning have to be taken, which can enhance the accuracy of the model.<br>
+    Hyperparameter tuning is used to optimize hyperparameters that are set for the model before the model starts the training. This is different form the parameters that the model learns while training. In most cases, determining the hyperparameters of the model is a trial-and-error process.<br>
+    To determine hyperparameters many various combinations of hyperparameters have to be tried, so that the performance of the model can be evaluated. However, as soon as the model learns the training set too well, it usually results in overfitting. That means the model will perform well on the training set, but worse on the test set because it is not used to that new problem situation.<br>
+    To prevent overfitting cross validation can be used. Before the cross validation comes into action, the data needs to be split into a training and testing set. Then, in cross validation, for instance the K-Fold cross validation, the already split training and testing set are split into K number of subsets, which are called folds, again. After that the model is fitted a K amount of times, while evaluating the Kth fold always on the K-1 fold, until all folds were evaluated. The next time the evaluation will happen on the K-2, the time after that on K-3 and so on. Finally, when the training is finished, the performance of each of all the folds is averaged, which creates the validation metrics of the model.<br>
+    Hence, the K-Fold cross validation can be performed for the hyperparameter tuning. (https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)<br>
+    Accordingly, I used hyperparameter tuning with cross validation on the Random Forest model. More specifically, I chose the method GridSearchCV for hyperparameter tuning, which includes cross validation. Grid Search is a method that evaluates all combinations in a structured and grid-like way, and does not, unlike Random search, sample randomly.<br>
+    In the following code snippet screenshot, the implementation for the GridSearchCV with cross validation is portrayed:</p>
+    <img src="/Predictive Models/RandomForest/Code Screenshots/randomForest_hyperparameterTuning.PNG">
 </details>
 <details>
   <summary>Evaluating a Model</summary> 
