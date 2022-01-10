@@ -151,7 +151,7 @@
     The max_depth-parameter is also an integer and stands for the depth that the tree is supposed to take at the maximums. The default value is None, and when that is the case, the nodes expand either until all leaves become pure or until all leaves consist of less than the min_samples_split samples. Thereby, the min_samples_split is the number of samples that is required to split an internal node. (<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">Sklearn.Ensemble.RandomForestClassifier, n.d.</a>)<br>
     The parameter min_samples_leaf represents the minimum number of samples that have to be at a leaf node. Only if at least min_samples_leaf training samples in each of the branches, left and right, are left, a split point at any depth will be considered. As a result, this can have a smoothening effect on the model. Also, the min_samples_leaf can be an integer or a float, while when it is an integer, it stands for the minimum number. (<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">Sklearn.Ensemble.RandomForestClassifier, n.d.</a>)<br>
     As the following screenshot demonstrates, I decided to give the parameters the inputs n_estimators = 200, max_depth = 20, min_samples_leaf = 1:</p>
-    <img src="/Predictive Models/RandomForest/Code Screenshots/randomForest_configuration.PNG"><br>
+    <img src="/Predictive Models/RandomForest/Code Screenshots/randomForest_configuration.PNG">
     <p>The code can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p>
     <ul>
       <details>
