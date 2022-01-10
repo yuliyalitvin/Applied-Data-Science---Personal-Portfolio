@@ -222,7 +222,7 @@
           <li><a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a></li>
           <li><a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a></li>
           <li><a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a></li>
-          <li><a href="/Predictive Models/model_evaluation.py">'model_evaluation.py'</a></li>
+          <li><a href="/Predictive Models/model_evaluation.py">model_evaluation.py</a></li>
         </ul>
       </details>
     </ul><br><br>
