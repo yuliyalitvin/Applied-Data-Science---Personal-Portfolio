@@ -356,6 +356,8 @@
         <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_SportsEnjoyment.ipynb">Compare_T0_and_T1_SportsEnjoyment</a></li>
         <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Weight.ipynb">Compare_T0_and_T1_Weight</a></li>
         <li><a href="/Data Preparation/Exploration/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
+        <li><a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">KNN_with_data_comparison.ipynb</a></li>
+        <li><a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">RandomForest_with_data_comparison.ipynb</a></li>
       </ul>
 </details> 
 <details>
