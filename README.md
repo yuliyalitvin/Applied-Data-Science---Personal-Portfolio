@@ -153,10 +153,12 @@
     As the following screenshot demonstrates, I decided to give the parameters the inputs n_estimators = 200, max_depth = 20, min_samples_leaf = 1:</p>
     <img src="/Predictive Models/RandomForest/Code Screenshots/randomForest_configuration.PNG">
     <p>The code can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p>
-    <details>
-      <summary>Refrence</summary>
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">sklearn.ensemble.RandomForestClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</a>
-    </details>
+    <ul>
+      <details>
+        <summary>Refrence</summary>
+        <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">sklearn.ensemble.RandomForestClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</a>
+      </details>
+    </ul><br><br>
 </details> 
 <details>
   <summary>Training a Model</summary>
