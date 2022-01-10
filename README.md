@@ -160,7 +160,7 @@
       </details>
       <details>
         <summary>Notebook</summary>
-        <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>
+        <a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a>
       </details>
     </ul><br><br>
 </details> 
