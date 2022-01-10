@@ -202,6 +202,8 @@
     <img src="/Predictive Models/KMeans/Code Screenshots/kmeans_evaluation.PNG">
     <p>In the code snippet above can be seen the evaluation methods that have been implemented for the KMeans model.</p>
     <p>The code can be viewed in the file <a href="/Predictive Models/KMeans/KMeans.ipynb">‘KMeans.ipynb'</a>.</p>
+    <br>
+    <p>Lisa and I have also worked on a file, <a href="/Predictive Models/model_evaluation.py">'model_evaluation.py'</a>, that includes a general model evaluation and cross validation method.</p>
     <ul>
       <details>
         <summary>Refrences</summary>
@@ -220,6 +222,7 @@
           <li><a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a></li>
           <li><a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a></li>
           <li><a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a></li>
+          <li><a href="/Predictive Models/model_evaluation.py">'model_evaluation.py'</a></li>
         </ul>
       </details>
     </ul><br><br>
