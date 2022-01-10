@@ -189,6 +189,18 @@
 <details>
   <summary>Evaluating a Model</summary> 
     <p>Hallo</p>
+    <ul>
+      <details>
+        <summary>Refrence</summary>
+        <a href="https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74">Koehrsen, W. (2019, December 10). Hyperparameter Tuning the Random Forest in Python - Towards Data Science. Medium. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74</a>
+      </details>
+      <details>
+        <summary>Notebooks</summary>
+        <a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a>
+        <a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a>
+        <a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a>
+      </details>
+    </ul><br><br>
 </details>
 <details>
   <summary>Visualizing the Outcome of a Model</summary> 
