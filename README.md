@@ -203,7 +203,7 @@
     <p>In the code snippet above can be seen the evaluation methods that have been implemented for the KMeans model.</p>
     <p>The code can be viewed in the file <a href="/Predictive Models/KMeans/KMeans.ipynb">‘KMeans.ipynb'</a>.</p>
     <br>
-    <p>Lisa and I have also worked on a file, <a href="/Predictive Models/model_evaluation.py">'model_evaluation.py'</a>, that includes a general model evaluation and cross validation method.</p>
+    <p>Lisa and I have also worked on a file, <a href="/Predictive Models/Model_evaluation.py">'Model_evaluation.py'</a>, that includes a general model evaluation and cross validation method.</p>
     <ul>
       <details>
         <summary>Refrences</summary>
