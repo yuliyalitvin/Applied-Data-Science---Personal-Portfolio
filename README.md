@@ -105,7 +105,7 @@
 </details>
 <details>
   <summary>Conclusions</summary> 
-    <p>Hallo</p>
+    <p>...</p>
 </details>
 <details>
   <summary>Planning</summary> 
@@ -328,7 +328,7 @@
 <div><h3>Data Preprocessing<h3></div>
 <details>
   <summary>Data Exploration</summary> 
-    <p>Hallo</p>
+    <p>...</p>
       <ul>
         <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST</a></li>
         <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2</a></li>
@@ -342,7 +342,7 @@
 </details> 
 <details>
   <summary>Data Cleansing</summary> 
-    <p>Hallo</p>
+    <p>...</p>
       <ul>
         <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">cleaning_data_1st_round</a></li>
         <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">cleaning_data_2nd_round</a></li>
@@ -354,7 +354,7 @@
 </details> 
 <details>
   <summary>Data Preparation</summary>
-    <p>Hallo</p>
+    <p>...</p>
       <ul>
         <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">cleaning_data_1st_round</a></li>
         <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">cleaning_data_2nd_round</a></li>
@@ -366,11 +366,11 @@
 </details>
 <details>
   <summary>Data Explanation</summary>
-    <p>Hallo</p>
+    <p>...</p>
 </details>
 <details>
   <summary>Data Visualization</summary>
-    <p>Hier ist die Info</p>
+    <p>...</p>
     <a href="/Visualizations/Visualizations.ipynb">Visualizations</a>
 </details>
 <!-- COMMUNICATION -->
@@ -465,6 +465,12 @@
       <li><a href="https://kahoot.com/">Kahoot</a></li>
     </ul>
 </details> 
+<!-- ALL NOTEBOOKS vielleicht? -->
+<div><h3>All Notebooks<h3></div>
+<details>
+  <summary>All My Notebooks</summary>
+  <p>...<p>
+</details>
 <br>
 <br>
 <br>
