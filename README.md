@@ -238,11 +238,13 @@
     After that, the cross validation scores are displayed. These are rounded 92%, 87%, 89%, 87%, 91%, 84%, 89%, 89%, 93% and 89%, which result in a cross validation mean of (rounded) 89% and a standard deviation of (rounded) 2%.<br>
     Lastly, the classification report of the Random Forest model is displayed. It shows all results for all five MQ categories in terms of precision, recall, f1-score and support, as well as shows the overall accuracy, macro average and weighted average.<br>
     Additionally, the previously described outcomes are presented in the following screenshots:</p>
-    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.1.PNG">
-    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.2.PNG">
-    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.3.PNG">
-    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.4.PNG">
-    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.5.PNG">
+    <ul>
+      <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.1.PNG">
+      <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.2.PNG">
+      <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.3.PNG">
+      <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.4.PNG">
+      <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.5.PNG">
+    </ul>
 </details>
 <!-- DOMAIN KNOWLEDGE -->
 <div><h3>Domain Knowledge</h3></div>
