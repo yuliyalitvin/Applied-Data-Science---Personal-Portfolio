@@ -167,9 +167,6 @@
 <details>
   <summary>Training a Model</summary>
     <p>Hallo</p>
-      <ul>
-        <li><a href="/Predictive Models/HyperparameterTuning_Test.ipynb">HyperparameterTuning_Test</a></li>
-      </ul>
 </details>
 <details>
   <summary>Evaluating a Model</summary> 
