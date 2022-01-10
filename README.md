@@ -10,7 +10,7 @@
 <!-- **************************************************** -->
 <!-- CORRECT STRUCTURE -->
 <!-- **************************************************** -->
-<div><h3>DataCamp Courses<h3></div>
+<div><h3>DataCamp Courses</h3></div>
 <!-- DATACAMP COURSES-->
 <details>
   <summary>DataCamp Courses</summary> 
@@ -34,7 +34,7 @@
     <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
 </details> 
 <!-- REFLECTION AND EVALUATION -->
-<div><h3>Reflection and Evaluation<h3></div>
+<div><h3>Reflection and Evaluation</h3></div>
 <details>
   <summary>Reflection</summary>
     <ul>
@@ -73,7 +73,7 @@
     </p>
 </details> 
 <!-- RESEARCH PROJECT -->
-<div><h3>Research Project<h3></div>
+<div><h3>Research Project</h3></div>
 <details>
   <summary>Task Definition</summary> 
     <p>This project was started by the project Start(V)aardig as a reaction towards the general observation that young children at this day and age suffer more often from poor motor competence development due to the modern way of life in nowadays society. Children starting from a very young age are used to modern technologies which are incorporated in their play devices such as games and other, which leads to the consequences that children that grow up in these modern surroundings are less likely to go outside and play outdoors, as well as indulge into activities such as various sports, but rather stay at home most of the time and mostly sit while using a game device to spend their time. This leads to lack of movement, which increases the chance of that child to develop insufficient motor competence. As a consequence, the child might continue suffering from this underdevelopment up into his adulthood and may never recover, if he did not get proper help to work against the decreasing motor competence to improve his situation.
@@ -119,7 +119,7 @@
     <!-- <a href="https://github.com/joostvanviegen/team-motoric">GitHub Repository - Team Motoric</a> -->
 </details>
 <!-- PREDICTIVE ANALYTICS -->
-<div><h3>Predictive Analytics<h3></div>
+<div><h3>Predictive Analytics</h3></div>
 <details>
   <summary>Selecting a Model</summary> 
     <p>The choice of selecting the predictive model for this study was made by researching what type of predictive models exist and then the understanding of which type of result this project has to deliver. Therefore, the wanted result was recognized as such, that the model, in general, is supposed to predict whether a child is has insufficient motor skills or whether he does not and is considered having motor skills in a considered healthy and normal state. Hence, the result is mainly differentiated between motor competent and motor incompetent. 
@@ -232,7 +232,7 @@
     <p>Hallo</p>
 </details>
 <!-- DOMAIN KNOWLEDGE -->
-<div><h3>Domain Knowledge<h3></div>
+<div><h3>Domain Knowledge</h3></div>
 <details>
   <summary>Introduction of the Subject Field</summary> 
     <p>The first information given about the project <i>Motoric</i> was the project description. Which stated as follows: <br> <br><i>Within the Start(V)aardig project several information is gathered among more than 1700 young children. Actual motor competence, perceived motor competence, enjoyment, BMI, age, gender and several factors related to the parenting style are gathered at two different moments (T0 and T1). The assignment is to detect which variables predict a (long term) low and concerning level of motor competence in young children. If we are able to detect a certain ‘risk profile’ at an early stage we (BSC, PE teachers) can provide them appropriate interventions.</i><br><br>
@@ -240,7 +240,20 @@
     First, it was interesting to know more about the organization <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> to explore their specification in order to create a connection to why this particular problem statement arised and this project was started. <br>
     Therefore, within <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a>, this project was created in order to try to recognize difficulties in the motor skills development in a young child at a very young stage, so that possible following misdevelopments in the child's motor capabilities can - with a high chance - be prevented or at least better helped with, before it is too late and the child will need a great amount of help to correct and enhance their motor skills or cannot be really helped anymore to improve, but at least can be helped to slow down or stop the process of worsening. <br> 
     To gather more information on the topic of motor skills development in young children, more research has been conducted, resulting in the following findings, that are described and listed under the following point 'Background Research'.</p>
-      <ul>
+    <h4>Background Research</h4>  
+    <p>During the background research about the topic of the motor skills development in young children, a basic idea the process of that development could be concluded, where the development of the gross motor skills was the main focus.<br>
+          Therefore, at the age of two, a child for example be able to pick up objects from a standing position and not lose his balance, kick a ball, walk and run. At the age of three, shortly balancing and hopping on one foot, pedalling a tricycle and walking upstairs with switching feet, should not be a problem. When the child is four years old, it is expected that he can throw a ball overhand while coordinating that movement and in general show an enhanced balance contorl. At the age of five, coordinating the entire body, therefore hopping, jumping and skipping without losing balance, and keeping the balance while standing on one foot with both eyes closed, should not be a difficulty (<a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a>). As similarly when the child becomes six years old, he should be able to walk on a balance beam, hopping a good distance, run on toes, skip with the use of a skipping rope, throw and catch in a mature way and jump with mature control and skills (<a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a>).</p>
+            <details>
+              <summary>Literature</summary>
+                <ul>
+                  <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
+                  <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
+                  <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
+                  <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
+                  <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
+                </ul>
+            </details>
+      <!-- <ul>
         <details>
           <summary>Background Research</summary>
           <p>During the background research about the topic of the motor skills development in young children, a basic idea the process of that development could be concluded, where the development of the gross motor skills was the main focus.<br>
@@ -256,7 +269,7 @@
                 </ul>
             </details>
         </details>
-    </ul><br><br>
+    </ul><br><br> -->
 </details> 
 <details>
   <summary>Literature Research</summary> 
@@ -328,7 +341,7 @@
   </ul>
 </details>
 <!-- DATA PREPROCESSING -->
-<div><h3>Data Preprocessing<h3></div>
+<div><h3>Data Preprocessing</h3></div>
 <details>
   <summary>Data Exploration</summary> 
     <p>...</p>
@@ -377,7 +390,7 @@
     <a href="/Visualizations/Visualizations.ipynb">Visualizations</a>
 </details>
 <!-- COMMUNICATION -->
-<div><h3>Communication<h3></div>
+<div><h3>Communication</h3></div>
 <details>
   <summary>Presentations</summary> 
     <p>In the communication part of this project, I have held two internal and one external presentation, prepared and/or helped prepare the slides for the presentations, created the design and layout of the slides and Kahoot quiz for the learning lab. I also worked on the research paper and wrote parts of it, as well as proofread and gave feedback to the parts my teammates composed. Also, I was always physically present during all presentations to support my teammate(s), who was or were giving the presentation and to react towards questions or feedback from the audience, even if I was not the one giving the presentation.<br>
@@ -440,7 +453,7 @@
 <br>
 <br>
 <!-- Bibliography -->
-<div><h3>Bibliography<h3></div>
+<div><h3>Bibliography</h3></div>
 <details>
     <summary>All References included in this portfolio</summary> 
     <ul>
@@ -469,7 +482,7 @@
     </ul>
 </details> 
 <!-- ALL NOTEBOOKS vielleicht? -->
-<div><h3>All Notebooks<h3></div>
+<div><h3>All Notebooks</h3></div>
 <details>
   <summary>All My Notebooks</summary>
   <p>...<p>
@@ -488,7 +501,7 @@
 <!-- **************************************************** -->
 <!-- FIRST SECTION -->
 <!-- **************************************************** -->
-<div><h3>Gathering background knowledge on the data science subject<h3></div>
+<div><h3>Gathering background knowledge on the data science subject</h3></div>
 <!-- DATACAMP COURSES-->
 <details>
     <summary>DataCamp Courses</summary> 
@@ -511,7 +524,7 @@
     <img src="/DataCamp Completed Courses Screenshots/15_TimeSeriesAnalysisInPython.png">
     <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
 </details> 
-<div><h3>The Project<h3></div>
+<div><h3>The Project</h3></div>
 <!-- DOMAIN KNOWLEDGE -->
 <details>
   <summary>Domain Knowledge</summary>
