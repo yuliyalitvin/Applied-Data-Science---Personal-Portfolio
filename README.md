@@ -229,7 +229,20 @@
 </details>
 <details>
   <summary>Visualizing the Outcome of a Model</summary> 
-    <p>Hallo</p>
+    <p>The Random Forest model provides the following outcomes:<br>
+    The first outcome that is displayed in the output is the cross validation having successfully fitted three folds, or rather subsets, for each one of the folds, which totaled in three fits.<br>
+    After that the performance of the model is described: The average error is 0.9463 degrees and the accuracy are 59.93%, or more precisely the number is 59.93112947658402.<br>
+    Then follows the score that shows the accuracy of the Random Forest model, which is (rounded) at 42%. The precise number is 0.41735537190082644. That means that the Random Forest model learned during the training to an extent that it provides results that are about 42% accurate.<br>
+    Further, the confusion matrix follows that shows the true positive, true negative, false positive and false negative values.<br>
+    Following are the scores of the training and testing. The training has a score of (rounded) 99%, and precisely 0.9917460317460317. The testing scored 40%, and precisely 0.40082644628099173. Since the training scores that much higher than the testing score, it might mean that the hyperparameters need further adjustments or some overfitting is still happening.<br>
+    After that, the cross validation scores are displayed. These are rounded 92%, 87%, 89%, 87%, 91%, 84%, 89%, 89%, 93% and 89%, which result in a cross validation mean of (rounded) 89% and a standard deviation of (rounded) 2%.<br>
+    Lastly, the classification report of the Random Forest model is displayed. It shows all results for all five MQ categories in terms of precision, recall, f1-score and support, as well as shows the overall accuracy, macro average and weighted average.<br>
+    Additionally, the previously described outcomes are presented in the following screenshots:</p>
+    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.1.PNG">
+    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.2.PNG">
+    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.3.PNG">
+    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.4.PNG">
+    <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.5.PNG">
 </details>
 <!-- DOMAIN KNOWLEDGE -->
 <div><h3>Domain Knowledge</h3></div>
