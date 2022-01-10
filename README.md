@@ -188,7 +188,20 @@
 </details>
 <details>
   <summary>Evaluating a Model</summary> 
-    <p>Hallo</p>
+    <p>As was mentioned in the ‘Selecting a Model’ section, it has to be assured that the Random Forest model was the best model for this problem. Because of that, it was compared to the models the K-Nearest Neighbors’ (Zhang et al., 2018) (https://ieeexplore.ieee.org/document/7898482), Gradient Boosting (Hubáček et al., 2018) (https://link.springer.com/article/10.1007%2Fs10994-018-5704-6), Decision Tree (Burduk & Wozniak, 2018) (https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html) and the Bagging classifier (Plaia et al., 2021) (https://link.springer.com/article/10.1007%2Fs00357-021-09397-2), but also K-Means (https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml).<br>
+    While the Random Forest model comes from combinations of decision trees, which are not related and it can be used either as a classification or regression model and work on a large amount of data, the K-Nearest Neighbors’ model believes similar things or rather data exists nearby in each other’s surroundings (https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761). In comparison to that, the Gradient Boosting model is more similar to the Random Forest model because it also uses combined decision trees, but with the difference that these decision trees are related with each other. Therefore, it creates one tree, and then another based on the first while correcting the first one’s flaws. The Decision Tree shows a similarity with the previous one, in the way that it also uses a tree, however the process starts at the root of the tree and moves up a branch to the next node based on the comparison to a given attribute (https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html). A Bagging classifier combines several classifiers together, while fitting each of those on random subsets of the original data and joins all the individual predictions from those classifiers together to one final prediction (https://www.geeksforgeeks.org/ml-bagging-classifier/). Meanwhile, the K-Means model consists of a fast algorithm that creates groups of similar data, for which reason it is often made use of in clustering models.<br>
+    From all these models next to the Random Forest model, I have worked on the K-Nearest Neighbor’s and K-Means model.<br>
+    In comparison to the K-Nearest Neighbor’s and K-Means model, the Random Forest model has scored the best. This can be seen through evaluating the individual models by looking for example at the confusion matrix, classification report and the scores that are shown as an outcome.<br>
+    In the following code snippet screenshots is illustrated how the evaluation of each of the three models was conducted:</p>
+    <img src="/Predictive Models/RandomForest/Code Screenshots/randomForest_evaluation.PNG">
+    <p>In the code snippet above can be seen the evaluation methods that have been implemented for the RandomForest model.</p>
+    <p>The code can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p>
+    <img src="/Predictive Models/KNN/Code Screenshots/knn_evaluation.PNG">
+    <p>In the code snippet above can be seen the evaluation methods that have been implemented for the KNN model.</p>
+    <p>The code can be viewed in the file <a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">‘KNN_withValidationSet.ipynb'</a>.</p>
+    <img src="/Predictive Models/KMeans/Code Screenshots/kmeans_evaluation.PNG">
+    <p>In the code snippet above can be seen the evaluation methods that have been implemented for the KMeans model.</p>
+    <p>The code can be viewed in the file <a href="/Predictive Models/KMeans/KMeans.ipynb">‘KMeans.ipynb'</a>.</p>
     <ul>
       <details>
         <summary>Refrence</summary>
