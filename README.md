@@ -347,7 +347,38 @@
 <div><h3>Data Preprocessing</h3></div>
 <details>
   <summary>Data Exploration</summary> 
-    <p>...</p>
+    <p>The data we received for this project was mainly split into two parts: T0 and T1, which demonstrate two different moments in time that are about a year apart from each other. Both datasets mostly refer to the same children that took part in both, the tests conducted at the T0, and the ones at the T1 moment. Additionally, a questionnaire filled out by the children’s parents that was taken at the first, so T0-moment, was handed to us.<br>
+    The first step to exploring the data was just looking through the data in Excel and getting a rough overview over its contents and size.<br>
+    After that, the next step was to visualize the data in general or just visualize parts of it, to get an even better overview over the general composition of the data, which also had the advantage of spotting outliers and their rough amount. Therefore, Joost and I created visualizations together to illustrate parts of the T0-data. We mainly selected certain features that were included in the data and visualized them in pairs to spot correlations or recognize that some have no correlation at all. For the visualizations we used plot types such as Scatter, Histogram, Pairplot, Bar and Heatmap.<br>
+    All these visualizations can be found in the notebook <a href="/Data Preparation/Exploration/Visualizations.ipynb">‘Visualizations.ipynb’</a>.</p>
+    <details>
+      <summary>Visualizations from <a href="/Data Preparation/Exploration/Visualizations.ipynb">‘Visualizations.ipynb’</a> notebook</summary>
+      <ul>
+        <img src="/Data Preparation/Exploration/Visualizations/age_bmi_barplot.png">
+        <img src="/Data Preparation/Exploration/Visualizations/age_bmi.png">
+        <img src="/Data Preparation/Exploration/Visualizations/age_time.png">
+        <img src="/Data Preparation/Exploration/Visualizations/bmi_age.png">
+        <img src="/Data Preparation/Exploration/Visualizations/bmi_mq.png">
+        <img src="/Data Preparation/Exploration/Visualizations/bmi_time.png">
+        <img src="/Data Preparation/Exploration/Visualizations/bmi.png">
+        <img src="/Data Preparation/Exploration/Visualizations/gender_bmi.png">
+        <img src="/Data Preparation/Exploration/Visualizations/gender_mq.png">
+        <img src="/Data Preparation/Exploration/Visualizations/gender_sportsYN.png">
+        <img src="/Data Preparation/Exploration/Visualizations/gender.png">
+        <img src="/Data Preparation/Exploration/Visualizations/mq_tv.png">
+        <img src="/Data Preparation/Exploration/Visualizations/mq.png">
+        <img src="/Data Preparation/Exploration/Visualizations/p.e_mq.png">
+        <img src="/Data Preparation/Exploration/Visualizations/sportsYN_barplot.png">
+        <img src="/Data Preparation/Exploration/Visualizations/sportsYN_gender.png">
+        <img src="/Data Preparation/Exploration/Visualizations/sportsYN_mq.png">
+        <img src="/Data Preparation/Exploration/Visualizations/sportsYN.png">
+        <img src="/Data Preparation/Exploration/Visualizations/time_age.png">
+        <img src="/Data Preparation/Exploration/Visualizations/time_mq.png">
+      </ul>
+    </details>
+    <p>After we also received the T1-data, I compared certain features between the T0- and T1-data, in order to get a first impression whether a development or change took place in those particular features after a time frame of a year. Thus, I compared the times that the children needed to complete the physical tests while the T1-data contained even two tests and therefore to recorded times, their BMI values, height, weight and MQ scores.<br>
+    Moreover, I looked at the difference between original MQ categories, as they were given in the dataset, and the predicted MQ categories, which were predicted with two different predictive models, namely the K-nearest Neighbor’s and Random Forest model. After that, I also examined the original and predicted MQ categories in comparison. Both of these explorations were visualized in two graphs. The visualizations that are based on the Random Forest model was a team effort of Joep and me.</p>
+    <img>
     <ul>
     <details>
       <summary>Notebooks</summary>
