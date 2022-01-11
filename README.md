@@ -492,7 +492,6 @@
 <details>
   <summary>Data Visualization</summary>
     <p>...</p>
-    <a href="/Visualizations/Visualizations.ipynb">Visualizations</a>
 </details>
 <!-- COMMUNICATION -->
 <div><h3>Communication</h3></div>
