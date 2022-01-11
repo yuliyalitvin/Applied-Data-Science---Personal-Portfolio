@@ -450,18 +450,20 @@
           </ul>
       </details>
     </ul>
-    <details>
-      <summary>Notebooks</summary>
-      <ul>
-        <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_BMI.ipynb">Cleaning_data_3rd_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_Height.ipynb">Cleaning_data_4th_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_MQ.ipynb">Cleaning_data_5th_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
-      </ul>
-    </details>
+    <ul>
+      <details>
+        <summary>Notebooks</summary>
+        <ul>
+          <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_BMI.ipynb">Cleaning_data_3rd_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_Height.ipynb">Cleaning_data_4th_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_MQ.ipynb">Cleaning_data_5th_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
+        </ul>
+      </details>
+    </ul>
 </details> 
 <details>
   <summary>Data Preparation</summary>
