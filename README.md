@@ -491,7 +491,10 @@
 </details>
 <details>
   <summary>Data Visualization</summary>
-    <p>...</p>
+    <p>During the process of cleaning and preparing the data, the decisions that were made on the alterations were all conducted in regards of the predictive model that we aspired to train on the data.<br>
+    Therefore, it was important to clear out NaN values, not cohesive formats, outliers, unnecessary columns and more. Encoding columns that had the type ‘string’, but were still important to use for the prediction model, was an important step as well because the prediction model cannot work with ‘string’-values, but with numbers such as ‘integers’ and ‘floats’.<br>
+    In addition, imputing missing values played a great role for future predictions made by the prediction model because the model has to predict on a rather small amount of data, it can reduce the accuracy of the model and result in useless predictions.<br>
+    Besides, some of the columns were renamed to make the dataset more readable and comprehensive when preparing it for a prediction model.</p>
 </details>
 <!-- COMMUNICATION -->
 <div><h3>Communication</h3></div>
