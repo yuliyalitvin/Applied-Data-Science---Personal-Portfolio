@@ -379,7 +379,8 @@
       </details>
     </ul>
     <p>After we also received the T1-data, I compared certain features between the T0- and T1-data, in order to get a first impression whether a development or change took place in those particular features after a time frame of a year. Thus, I compared the times that the children needed to complete the physical tests while the T1-data contained even two tests and therefore to recorded times, their BMI values, height, weight and MQ scores.<br>
-    Moreover, I looked at the difference between original MQ categories, as they were given in the dataset, and the predicted MQ categories, which were predicted with two different predictive models, namely the K-nearest Neighbor’s and Random Forest model. After that, I also examined the original and predicted MQ categories in comparison. Both of these explorations were visualized in two graphs. The visualizations that are based on the Random Forest model was a team effort of Joep and me.</p>
+    Moreover, I looked at the difference between original MQ categories, as they were given in the dataset, and the predicted MQ categories, which were predicted with two different predictive models, namely the K-nearest Neighbor’s and Random Forest model. After that, I also examined the original and predicted MQ categories in comparison. Both of these explorations were visualized in two graphs.<br>
+    The visualizations that are based on the Random Forest model was a team effort of Joep and me.</p>
     All visualizations can be found in the notebooks <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'KNN_with_data_comparison.ipynb'</a> and <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'RandomForest_with_data_comparison.ipynb'</a></p>
     <ul>
       <details>
