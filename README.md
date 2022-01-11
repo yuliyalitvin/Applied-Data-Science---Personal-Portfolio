@@ -397,7 +397,7 @@
         </ul>
       </details>
     </ul>
-    <ul>
+    <ul><br>
     <details>
       <summary>Notebooks</summary>
           <ul>
