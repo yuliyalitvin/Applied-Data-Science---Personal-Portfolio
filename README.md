@@ -401,13 +401,13 @@
       <details>
         <summary>Notebooks</summary>
             <ul>
+              <li><a href="/Data Preparation/Exploration/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_BMI.ipynb">Compare_T0_and_T1_BMI</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Height.ipynb">Compare_T0_and_T1_Height</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_MQ.ipynb">Compare_T0_and_T1_MQ</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Weight.ipynb">Compare_T0_and_T1_Weight</a></li>
-              <li><a href="/Data Preparation/Exploration/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
               <li><a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">KNN_with_data_comparison.ipynb</a></li>
               <li><a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">RandomForest_with_data_comparison.ipynb</a></li>
             </ul>
