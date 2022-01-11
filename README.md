@@ -449,7 +449,7 @@
             <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
           </ul>
       </details>
-    </ul><br><br>
+    </ul><br>
     <ul>
       <details>
         <summary>Notebooks</summary>
