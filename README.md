@@ -467,15 +467,17 @@
 </details> 
 <details>
   <summary>Data Preparation</summary>
-    <p>...</p>
-      <ul>
-        <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">cleaning_data_1st_round</a></li>
-        <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">cleaning_data_2nd_round</a></li>
-        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_BMI.ipynb">cleaning_data_3rd_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_Height.ipynb">cleaning_data_4th_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_MQ.ipynb">cleaning_data_5th_round.ipynb</a></li>
-        <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_SportsEnjoyment.ipynb">cleaning_pipeline_Lisa_and_Yuliya.ipynb</a></li>
-      </ul>
+    <p>Since data preparation does include steps such as transforming data, removing outliers, filling in missing values and more, and in Lisa’s and my opinion some of these steps also in a way were part of the data cleaning, we already included the transformation of data and removing outliers and just some bits of filling in missing values already in our two cleaning pipelines that were mentioned in the previous section “Data Cleansing”. However, we did not include proper data imputation because another group member was working on that part.<br>
+    Therefore, the steps of data preparation can be seen in the notebooks <a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">‘Cleaning_pipeline_with_T1Features.ipynb’</a> and <a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">‘Cleaning_pipeline_without_T1Features.ipynb’</a>.</p>
+    <ul>
+      <details>
+        <summary>Notebooks</summary>
+        <ul>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
+        </ul>
+      </details>
+    </ul>
 </details>
 <details>
   <summary>Data Explanation</summary>
