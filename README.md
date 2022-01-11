@@ -423,7 +423,7 @@
     This process can be viewed in the notebooks ‘Cleaning_data_1st_round.ipynb’, ‘Cleaning_data_2nd_round.ipynb’, ‘Cleaning_data_3rd_round.ipynb’, ‘Cleaning_data_4th_round.ipynb’ and ‘Cleaning_data_5th_round.ipynb’.</p>
     <ul>
       <details>
-        <summary>Cleaning Rounds notebooks<summary>
+        <summary>Cleaning Rounds notebooks</summary>
           <ul>
             <li><a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
             <li><a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
@@ -443,7 +443,7 @@
     All these steps can be seen in the notebooks ‘Cleaning_pipeline_with_T1Features.ipynb’ and ‘Cleaning_pipeline_without_T1Features.ipynb’.</p>
     <ul>
       <details>
-        <summary>Cleaning Pipelines notebooks<summary>
+        <summary>Cleaning Pipelines notebooks</summary>
           <ul>
             <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
             <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
