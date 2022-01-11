@@ -386,14 +386,14 @@
         <summary>All visualizations from the notebook <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'KNN_with_data_comparison.ipynb'</a></summary>
         <ul>
           <img src="/Data Preparation/Exploration/Visualizations/KNN_withoutValidationSet_output_6.PNG">
-          <img src="/Data Preparation/Exploration/KNN_withoutValidationSet_output_7.2.PNG">
+          <img src="/Data Preparation/Exploration/Visualizations/KNN_withoutValidationSet_output_7.2.PNG">
         </ul>
       </details>
       <details>
         <summary>All visualizations from the notebook <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'RandomForest_with_data_comparison.ipynb'</a></summary>
         <ul>
           <img src="/Data Preparation/Exploration/Visualizations/randomForest_visualization_1.png">
-          <img src="/Data Preparation/Exploration/randomForest_visualization_2.png">
+          <img src="/Data Preparation/Exploration/Visualizations/randomForest_visualization_2.png">
         </ul>
       </details>
     </ul>
