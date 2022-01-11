@@ -420,7 +420,7 @@
     <p>Cleaning the dataset is a very important step that spares difficulties at a later step of the project such as using predictive models on the data and receiving a large amount of errors in return.<br>
     Hence, the start to cleaning the data was made at the basics of it. That means removing columns with mostly missing values, which would have been able to be of any use anymore and removing columns that are not of interest, for instance such that contain strings, since we needed to work with numbers and not text. Occurring duplicates needed to be removed, various date formats changed into one cohesive format and exemplarily also some types that are used in some columns changed into another type such as for example from a float to an integer. Also, some of the missing values were filled in.<br>
     All these cleaning steps needed to be done in several rounds because we had received only bits of the data at one time. Therefore, new data was added often and needed to be merged with the previous dataset and cleaned.<br>
-    This process can be viewed in the notebooks ‘Cleaning_data_1st_round.ipynb’, ‘Cleaning_data_2nd_round.ipynb’, ‘Cleaning_data_3rd_round.ipynb’, ‘Cleaning_data_4th_round.ipynb’ and ‘Cleaning_data_5th_round.ipynb’.</p>
+    This process can be viewed in the notebooks <a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">‘Cleaning_data_1st_round.ipynb’</a>, <a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">‘Cleaning_data_2nd_round.ipynb’</a>, <a href="/Data Preparation/Cleaning/Cleaning_data_3rd_round.ipynb">‘Cleaning_data_3rd_round.ipynb’</a>, <a href="/Data Preparation/Cleaning/Cleaning_data_4th_round.ipynb">‘Cleaning_data_4th_round.ipynb’</a> and <a href="/Data Preparation/Cleaning/Cleaning_data_5th_round.ipynb">‘Cleaning_data_5th_round.ipynb’</a>.</p>
     <ul>
       <details>
         <summary>Cleaning Rounds notebooks</summary>
@@ -440,7 +440,7 @@
     After, to create a cohesive date format, date formats are changed to one and a type used in a column is changed to another.<br>
     Further NaN values are dropped from some columns, after which outlier detection was conducted and functions for setting the syntax of calculating the MQ for boys and girls separately.<br>
     Finally, some more not useful columns were deleted, and the new dataset saved and exported.<br>
-    All these steps can be seen in the notebooks ‘Cleaning_pipeline_with_T1Features.ipynb’ and ‘Cleaning_pipeline_without_T1Features.ipynb’.</p>
+    All these steps can be seen in the notebooks <a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">‘Cleaning_pipeline_with_T1Features.ipynb’</a> and <a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">‘Cleaning_pipeline_without_T1Features.ipynb’</a>.</p>
     <ul>
       <details>
         <summary>Cleaning Pipelines notebooks</summary>
