@@ -421,7 +421,18 @@
     Hence, the start to cleaning the data was made at the basics of it. That means removing columns with mostly missing values, which would have been able to be of any use anymore and removing columns that are not of interest, for instance such that contain strings, since we needed to work with numbers and not text. Occurring duplicates needed to be removed, various date formats changed into one cohesive format and exemplarily also some types that are used in some columns changed into another type such as for example from a float to an integer. Also, some of the missing values were filled in.<br>
     All these cleaning steps needed to be done in several rounds because we had received only bits of the data at one time. Therefore, new data was added often and needed to be merged with the previous dataset and cleaned.<br>
     This process can be viewed in the notebooks ‘Cleaning_data_1st_round.ipynb’, ‘Cleaning_data_2nd_round.ipynb’, ‘Cleaning_data_3rd_round.ipynb’, ‘Cleaning_data_4th_round.ipynb’ and ‘Cleaning_data_5th_round.ipynb’.</p>
-    <a>
+    <ul>
+      <details>
+        <summary>Cleaning Rounds notebooks<summary>
+          <ul>
+            <li><a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
+            <li><a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
+            <li><a href="/Data Preparation/Cleaning/Cleaning_data_3rd_round.ipynb">Cleaning_data_3rd_round.ipynb</a></li>
+            <li><a href="/Data Preparation/Cleaning/Cleaning_data_4th_round.ipynb">Cleaning_data_4th_round.ipynb</a></li>
+            <li><a href="/Data Preparation/Cleaning/Cleaning_data_5th_round.ipynb">Cleaning_data_5th_round.ipynb</a></li>
+          </ul>
+      </details>
+    </ul>
     <p>After some time, Lisa and I created two cleaning pipelines – one including the T1-features and one dropping the T1-features-, so that it only had to be fed with a new dataset and cleaned it automatically. The pipelines are ‘Cleaning_pipeline_with_T1Features.ipynb’ and ‘Cleaning_pipeline_without_T1Features.ipynb’.<br>
     In the pipelines we included the basics cleaning, which identifies columns that contain only one value and drops them, as well as it identifies rows that contain duplicate data and drops one of the duplicates, after which a resulting file is saved and exported to a CSV-file.<br>
     Then names of certain columns are changed for better readability and comprehension. Next all columns that are comments and duplicate columns are deleted. Along with them another not useful column is deleted, and other columns inserted and renamed again. After which the file is exported again.<br>
@@ -430,7 +441,15 @@
     Further NaN values are dropped from some columns, after which outlier detection was conducted and functions for setting the syntax of calculating the MQ for boys and girls separately.<br>
     Finally, some more not useful columns were deleted, and the new dataset saved and exported.<br>
     All these steps can be seen in the notebooks ‘Cleaning_pipeline_with_T1Features.ipynb’ and ‘Cleaning_pipeline_without_T1Features.ipynb’.</p>
-    <a>
+    <ul>
+      <details>
+        <summary>Cleaning Pipelines notebooks<summary>
+          <ul>
+            <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
+            <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
+          </ul>
+      </details>
+    </ul>
     <details>
       <summary>Notebooks</summary>
       <ul>
