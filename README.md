@@ -9,7 +9,7 @@
 </div>
 <!-- **************************************************** -->
 <!-- **************************************************** -->
-<div><h3>DataCamp Courses</h3></div>
+<div><h2>DataCamp Courses</h2></div>
 <!-- DATACAMP COURSES-->
 <details>
   <summary>DataCamp Courses</summary> 
