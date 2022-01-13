@@ -5,7 +5,7 @@
 <br><b>Minor:</b> Applied Data Science
 <br><b>Lecturer:</b> Jeroen Vuurens, Tony Andrioli, Ruud Vermeij
 <br><b>Group:</b> Team Motoric
-<br><b>Project:</b> StartVaardig - Predicting the development of motoric skills in young children</p>
+<br><b>Project:</b> StartVaardig - Predicting the Development of Motor Skills in Young Children</p>
 <br>
 </div>
 <!-- **************************************************** -->
