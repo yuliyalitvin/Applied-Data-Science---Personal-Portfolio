@@ -269,23 +269,21 @@
     First, it was interesting to know more about the organization <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> to explore their specification in order to create a connection to why this particular problem statement arised and this project was started. <br>
     Therefore, within <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a>, this project was created in order to try to recognize difficulties in the motor skills development in a young child at a very young stage, so that possible following misdevelopments in the child's motor capabilities can - with a high chance - be prevented or at least better helped with, before it is too late and the child will need a great amount of help to correct and enhance their motor skills or cannot be really helped anymore to improve, but at least can be helped to slow down or stop the process of worsening. <br> 
     To gather more information on the topic of motor skills development in young children, more research has been conducted, resulting in the following findings, that are described and listed under the following point 'Background Research'.</p>
-      <!-- <ul> -->
-        <h4>Background Research</h4>
-        <p>During the background research about the topic of the motor skills development in young children, a basic idea the process of that development could be concluded, where the development of the gross motor skills was the main focus.<br>
-        Therefore, at the age of two, a child for example be able to pick up objects from a standing position and not lose his balance, kick a ball, walk and run. At the age of three, shortly balancing and hopping on one foot, pedalling a tricycle and walking upstairs with switching feet, should not be a problem. When the child is four years old, it is expected that he can throw a ball overhand while coordinating that movement and in general show an enhanced balance contorl. At the age of five, coordinating the entire body, therefore hopping, jumping and skipping without losing balance, and keeping the balance while standing on one foot with both eyes closed, should not be a difficulty (<a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a>). As similarly when the child becomes six years old, he should be able to walk on a balance beam, hopping a good distance, run on toes, skip with the use of a skipping rope, throw and catch in a mature way and jump with mature control and skills (<a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a>).</p>
-          <ul>
-            <details>
-                <summary><b>Literature</b></summary>
-                  <ul>
-                    <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
-                    <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
-                    <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
-                    <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
-                    <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
-                  </ul>
-            </details>
-          </ul>
-    <!-- </ul> -->
+    <h4>Background Research</h4>
+    <p>During the background research about the topic of the motor skills development in young children, a basic idea the process of that development could be concluded, where the development of the gross motor skills was the main focus.<br>
+    Therefore, at the age of two, a child for example be able to pick up objects from a standing position and not lose his balance, kick a ball, walk and run. At the age of three, shortly balancing and hopping on one foot, pedalling a tricycle and walking upstairs with switching feet, should not be a problem. When the child is four years old, it is expected that he can throw a ball overhand while coordinating that movement and in general show an enhanced balance contorl. At the age of five, coordinating the entire body, therefore hopping, jumping and skipping without losing balance, and keeping the balance while standing on one foot with both eyes closed, should not be a difficulty (<a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a>). As similarly when the child becomes six years old, he should be able to walk on a balance beam, hopping a good distance, run on toes, skip with the use of a skipping rope, throw and catch in a mature way and jump with mature control and skills (<a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a>).</p>
+      <ul>
+        <details>
+            <summary><b>Literature</b></summary>
+              <ul>
+                <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
+                <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
+                <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
+                <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
+                <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
+              </ul>
+        </details>
+      </ul>
     <br>
 </details> 
 <details>
