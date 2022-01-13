@@ -129,7 +129,7 @@
 <!-- PREDICTIVE ANALYTICS -->
 <div><h3>PREDICTIVE ANALYTICS</h3></div>
 <details>
-  <summary>Selecting a Model</summary> 
+  <summary><b>Selecting a Model</b></summary> 
     <p>The choice of selecting the predictive model for this study was made by researching what type of predictive models exist and then the understanding of which type of result this project has to deliver. Therefore, the wanted result was recognized as such, that the model, in general, is supposed to predict whether a child is has insufficient motor skills or whether he does not and is considered having motor skills in a considered healthy and normal state. Hence, the result is mainly differentiated between motor competent and motor incompetent. 
     Since the types of predictive analytics models that are considered as the best in data science are the Classification, Clustering, Forecast, Outliers and Time series model (<a href="https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml">Ali, 2021</a>), the decision fell was made between these five model types. Considering the wanted outcome that the model is supposed to predict, the Classification model appeared to be best-fitted for our study (Minaie, 2021).
     More precisely the Random Forest model was selected, which can be used in both regression and classification problems (<a href="https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/">Mbaabu, 2020</a>). However, the Random Forest model was used as a classification model because the problem statement of this study is a classification problem. 
@@ -138,7 +138,7 @@
     </p>
     <ul>
       <details>
-        <summary>List of Refrences</summary>
+        <summary><b>List of Refrences</b></summary>
           <ul>
             <li><a href="https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml">Ali, R. (2021, April 21). Predictive Modeling: Types, Benefits, and Algorithms. Oracle NetSuite. https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml</a></li>
             <li><a href="https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/">Mbaabu, O. (2020, December 11). Introduction to Random Forest in Machine Learning. (2020). Engineering Education (EngEd) Program | Section. https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/</a></li>
@@ -153,7 +153,7 @@
     </ul><br><br>
 </details> 
 <details>
-  <summary>Configuring a Model</summary> 
+  <summary><b>Configuring a Model</b></summary> 
     <p>The configurations that I chose for the Random Forest model were made in the parameters n_estimators, max_depth and min_samples_leaf.<br>
     The parameter n_estimators is an integer, stands for the number of trees in the forest and has a default value of 100 (<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">Sklearn.Ensemble.RandomForestClassifier, n.d.</a>).<br>
     The max_depth-parameter is also an integer and stands for the depth that the tree is supposed to take at the maximums. The default value is None, and when that is the case, the nodes expand either until all leaves become pure or until all leaves consist of less than the min_samples_split samples. Thereby, the min_samples_split is the number of samples that is required to split an internal node. (<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">Sklearn.Ensemble.RandomForestClassifier, n.d.</a>)<br>
@@ -163,17 +163,17 @@
     <p>The code can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p>
     <ul>
       <details>
-        <summary>Refrence</summary>
+        <summary><b>Refrence</b></summary>
         <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">sklearn.ensemble.RandomForestClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</a>
       </details>
       <details>
-        <summary>Notebook</summary>
+        <summary><b>Notebook</b></summary>
         <a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a>
       </details>
     </ul><br><br>
 </details> 
 <details>
-  <summary>Training a Model</summary>
+  <summary><b>Training a Model</b></summary>
     <p>When training a model, it is necessary to validate whether the model functions and learned correctly. Therefore, the model has to be checked for under- or overfitting and measures such as hyperparameter tuning have to be taken, which can enhance the accuracy of the model.<br>
     Hyperparameter tuning is used to optimize hyperparameters that are set for the model before the model starts the training. This is different form the parameters that the model learns while training. In most cases, determining the hyperparameters of the model is a trial-and-error process.<br>
     To determine hyperparameters many various combinations of hyperparameters have to be tried, so that the performance of the model can be evaluated. However, as soon as the model learns the training set too well, it usually results in overfitting. That means the model will perform well on the training set, but worse on the test set because it is not used to that new problem situation.<br>
@@ -185,17 +185,17 @@
     <p>The code can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p>
     <ul>
       <details>
-        <summary>Refrence</summary>
+        <summary><b>Refrence</b></summary>
         <a href="https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74">Koehrsen, W. (2019, December 10). Hyperparameter Tuning the Random Forest in Python - Towards Data Science. Medium. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74</a>
       </details>
       <details>
-        <summary>Notebook</summary>
+        <summary><b>Notebook</b></summary>
         <a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a>
       </details>
     </ul><br><br>
 </details>
 <details>
-  <summary>Evaluating a Model</summary> 
+  <summary><b>Evaluating a Model</b></summary> 
     <p>As was mentioned in the ‘Selecting a Model’ section, it has to be assured that the Random Forest model was the best model for this problem. Because of that, it was compared to the models the K-Nearest Neighbors’ (<a href="https://ieeexplore.ieee.org/document/7898482">Zhang et al., 2018</a>), Gradient Boosting (<a href="https://link.springer.com/article/10.1007%2Fs10994-018-5704-6">Hubáček et al., 2018</a>), Decision Tree (<a href="https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html">Burduk & Wozniak, 2012</a>) and the Bagging classifier (<a href="https://link.springer.com/article/10.1007%2Fs00357-021-09397-2">Plaia et al., 2021</a>), but also K-Means (<a href="https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml">Ali, 2021b</a>).<br>
     While the Random Forest model comes from combinations of decision trees, which are not related and it can be used either as a classification or regression model and work on a large amount of data, the K-Nearest Neighbors’ model believes similar things or rather data exists nearby in each other’s surroundings (<a href="https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761">Harrison, 2019</a>). In comparison to that, the Gradient Boosting model is more similar to the Random Forest model because it also uses combined decision trees, but with the difference that these decision trees are related with each other. Therefore, it creates one tree, and then another based on the first while correcting the first one’s flaws. The Decision Tree shows a similarity with the previous one, in the way that it also uses a tree, however the process starts at the root of the tree and moves up a branch to the next node based on the comparison to a given attribute (<a href="https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html">Chauhan, n.d.</a>). A Bagging classifier combines several classifiers together, while fitting each of those on random subsets of the original data and joins all the individual predictions from those classifiers together to one final prediction (<a href="https://www.geeksforgeeks.org/ml-bagging-classifier/">GeeksforGeeks, 2019</a>). Meanwhile, the K-Means model consists of a fast algorithm that creates groups of similar data, for which reason it is often made use of in clustering models.<br>
     From all these models next to the Random Forest model, I have worked on the K-Nearest Neighbor’s and K-Means model.<br>
@@ -214,7 +214,7 @@
     <p>Lisa and I have also worked on a file, <a href="/Predictive Models/Model_evaluation.py">'Model_evaluation.py'</a>, that includes a general model evaluation and cross validation method.</p>
     <ul>
       <details>
-        <summary>Refrences</summary>
+        <summary><b>Refrences</b></summary>
         <li><a href="https://ieeexplore.ieee.org/document/7898482">Zhang, S., Li, X., Zong, M., Zhu, X., Wang, R. (2018). Efficient kNN Classification With Different Numbers of Nearest Neighbors. (2018, May 1). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/7898482</a></li>
         <li><a href="https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501">Hubáček, O. (2018, May 3). Learning to predict soccer results from relational data with gradient boosted trees. SpringerLink. https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501</a></li>
         <li><a href="https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html">Burduk, R., & Wozniak, M. (2012, April 1). Different decision tree induction strategies for a medical decision problem. De Gruyter. https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html</a></li>
@@ -225,7 +225,7 @@
         <a href="https://www.scribbr.com/apa-citation-generator/">Ali, R. (2021b, April 21). Predictive Modeling: Types, Benefits, and Algorithms. Oracle NetSuite. https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml</a>
       </details>
       <details>
-        <summary>Notebooks</summary>
+        <summary><b>Notebooks</b></summary>
         <ul>
           <li><a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a></li>
           <li><a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a></li>
@@ -236,7 +236,7 @@
     </ul><br><br>
 </details>
 <details>
-  <summary>Visualizing the Outcome of a Model</summary> 
+  <summary><b>Visualizing the Outcome of a Model</b></summary> 
     <p>The Random Forest model provides the following outcomes:<br>
     The first outcome that is displayed in the output is the cross validation having successfully fitted three folds, or rather subsets, for each one of the folds, which totaled in three fits.<br>
     After that the performance of the model is described: The average error is 0.9463 degrees and the accuracy are 59.93%, or more precisely the number is 59.93112947658402.<br>
@@ -258,7 +258,7 @@
 <!-- DOMAIN KNOWLEDGE -->
 <div><h3>DOMAIN KNOWLEDGE</h3></div>
 <details>
-  <summary>Introduction of the Subject Field</summary> 
+  <summary><b>Introduction of the Subject Field<b></summary> 
     <p>The first information given about the project <i>Motoric</i> was the project description. Which stated as follows: <br> <br><i>Within the Start(V)aardig project several information is gathered among more than 1700 young children. Actual motor competence, perceived motor competence, enjoyment, BMI, age, gender and several factors related to the parenting style are gathered at two different moments (T0 and T1). The assignment is to detect which variables predict a (long term) low and concerning level of motor competence in young children. If we are able to detect a certain ‘risk profile’ at an early stage we (BSC, PE teachers) can provide them appropriate interventions.</i><br><br>
     From this description only basic knowledge about the project and it's subject could have been gathered. Therefore, research was done to gain a better understanding of the topic and the given problem that needed to be solved.<br>
     First, it was interesting to know more about the organization <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> to explore their specification in order to create a connection to why this particular problem statement arised and this project was started. <br>
@@ -266,11 +266,11 @@
     To gather more information on the topic of motor skills development in young children, more research has been conducted, resulting in the following findings, that are described and listed under the following point 'Background Research'.</p>
       <ul>
         <details>
-          <summary>Background Research</summary>
+          <summary><b>Background Research</b></summary>
           <p>During the background research about the topic of the motor skills development in young children, a basic idea the process of that development could be concluded, where the development of the gross motor skills was the main focus.<br>
           Therefore, at the age of two, a child for example be able to pick up objects from a standing position and not lose his balance, kick a ball, walk and run. At the age of three, shortly balancing and hopping on one foot, pedalling a tricycle and walking upstairs with switching feet, should not be a problem. When the child is four years old, it is expected that he can throw a ball overhand while coordinating that movement and in general show an enhanced balance contorl. At the age of five, coordinating the entire body, therefore hopping, jumping and skipping without losing balance, and keeping the balance while standing on one foot with both eyes closed, should not be a difficulty (<a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a>). As similarly when the child becomes six years old, he should be able to walk on a balance beam, hopping a good distance, run on toes, skip with the use of a skipping rope, throw and catch in a mature way and jump with mature control and skills (<a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a>).</p>
             <details>
-              <summary>Literature</summary>
+              <summary><b>Literature</b></summary>
                 <ul>
                   <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
                   <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
@@ -283,10 +283,10 @@
     </ul><br><br>
 </details> 
 <details>
-  <summary>Literature Research</summary> 
+  <summary><b>Literature Research</b></summary> 
     <ul>
       <details>
-        <summary>Existing, Similar Projects</summary>
+        <summary><b>Existing, Similar Projects</b></summary>
           <p>After gathering more background information on the subject of motor skills development in young children, related works, such as projects, were of interest to find. These, even if not dealing with the exact same problem statement can help getting a broder viewpoint on our own project and give us ideas of where and how to start.<br>
           Therefore, a search for such similar already existing projects was undertaken through which several findings have been made. These findings are listed under the point 'List of papers from existing projects'.<br><br>
           In most of the gathered studies, the children were between three and six years old, while some of the studies dealt with the gross and other with fine motor skills developed, and some with both of them.<br>
@@ -294,7 +294,7 @@
           Some studies took different and rather technical approaches to conduct their reseach on the motor capabilities of young children. Such studies exemplarily developed and used a smart play device (<a href="https://digitallifecentre.nl/redactie/resources/finalpaperfinal.pdf">Sander et al, unknown</a>), smart toys (<a href="https://pdfs.semanticscholar.org/b862/333190b6a202c1dd8c14ed8821ae3c3fb9a4.pdf">Martin-Ruiz et al., 2015</a>), sensor-augmented toys (<a href="https://www.jmir.org/2021/4/e24237">Brons et al., 2021</a>) and a web-based application (<a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Chairilsyah, 2019</a>).<br><br>
           In conclusion, all of these studies give knowledge and an interesting insight into the motor skills development topic, while at the same time also provide a basic understanding in that sphere. This is of great use and help for our rather new study, which tackles to find a solution to a problem that has never been dealt with in any study before. Therefore, it was our challenge to find an answer to how to predict the motor skills development in young children.</p>
             <details>
-              <summary>List of papers from existing projects:</summary>
+              <summary><b>List of papers from existing projects:</b></summary>
                 <ul>
                   <li><a href="https://link.springer.com/article/10.1007/s40279-020-01336-2">Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink.</a></li>
                   <li><a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2143-9#Sec3">Influence of motor skills training on children’s development evaluated in the Motor skills in PreSchool (MiPS) study-DK: study protocol for a randomized controlled trial, nested in a cohort study</a></li>
@@ -312,11 +312,11 @@
             </details><br><br>
         </details>
         <details>
-          <summary>Existing Datasets</summary>
+          <summary><b>Existing Datasets</b></summary>
           <p>Finding an exisiting dataset was not a necessity for this project because two datasets already existed, since the data had been gathered by <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> and was given us to work with.<br> However, we did not receive those datasets immediately, for which reason I researched for existing similar datasets on <a href="https://www.kaggle.com/"><i>Kaggle</i></a>. During that research, I found one dataset that seemed to examine a similar topic. That particular dataset looks at the growth development from child- to adulthood, while several growth related measurements were taken, as well as information was gathered from the individual child's parents. I found that two of the taken measurements were about motor skills. Therefore, one of the measurements were the gross and the other the fine motor skills. <br>
           However, I decided against indulding deeper into this dataset because we soon received the first part of the first dataset from our project owner.</p>
             <details>
-              <summary>Links to Sourcepage, Excel- and CSV-file of the Child Growth dataset:</summary>
+              <summary><b>Links to Sourcepage, Excel- and CSV-file of the Child Growth dataset:</b></summary>
                 <ul>
                   <li><div><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
                   <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
@@ -325,7 +325,7 @@
             </details><br><br>
         </details>
         <details>
-          <summary>Data Collection</summary>
+          <summary><b>Data Collection</b></summary>
             <p>Since the data was given to us by StartVaardig through our project owner Pim Koolwijk, we did not have to collect the data ourselves. However, we received the data in bits, time after time, which meant that we had to put together the different data files every time new data arrived.
             <br>
             Unfortunately, the data files cannot be shared because the information contained in those files was trusted to our group by our project owner.</p>
@@ -335,12 +335,12 @@
     </ul>
 </details> 
 <details>
-  <summary>Explanation of Terminology, Jargon and Definitions</summary>
+  <summary><b>Explanation of Terminology, Jargon and Definitions</b></summary>
   <ul>
     <div><h4>Gross Motor Skills<h4></div>
     <p>These are physical skills that involve the entire body to be able to do tasks such as sit upright, walk, run, jump, as well as catching and throwing, just as kicking a ball, but also swim and ride a bike and others. Therefore these skills require the large muscles of the body that stabilise the core to work correctly, but at the same time need correct coordination between eyes and hand.</p>
     <details>
-      <summary>Reference</summary>
+      <summary><b>Reference</b></summary>
       <a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a>
     </details>
     <br>
@@ -360,14 +360,14 @@
 <!-- DATA PREPROCESSING -->
 <div><h3>DATA PREPROCESSING</h3></div>
 <details>
-  <summary>Data Exploration</summary> 
+  <summary><b>Data Exploration</b></summary> 
     <p>The data we received for this project was mainly split into two parts: T0 and T1, which demonstrate two different moments in time that are about a year apart from each other. Both datasets mostly refer to the same children that took part in both, the tests conducted at the T0, and the ones at the T1 moment. Additionally, a questionnaire filled out by the children’s parents that was taken at the first, so T0-moment, was handed to us.<br>
     The first step to exploring the data was just looking through the data in Excel and getting a rough overview over its contents and size.<br>
     After that, the next step was to visualize the data in general or just visualize parts of it, to get an even better overview over the general composition of the data, which also had the advantage of spotting outliers and their rough amount. Therefore, Joost and I created visualizations together to illustrate parts of the T0-data. We mainly selected certain features that were included in the data and visualized them in pairs to spot correlations or recognize that some have no correlation at all. For the visualizations we used plot types such as Scatter, Histogram, Pairplot, Bar and Heatmap.<br>
     All these visualizations can be found in the notebook <a href="/Data Preparation/Exploration/Visualizations.ipynb">‘Visualizations.ipynb’</a>.</p>
     <ul>
       <details>
-        <summary>Visualizations from <a href="/Data Preparation/Exploration/Visualizations.ipynb">‘Visualizations.ipynb’</a> notebook</summary>
+        <summary><b>Visualizations from <a href="/Data Preparation/Exploration/Visualizations.ipynb">‘Visualizations.ipynb’</a> notebook</b></summary>
         <ul>
           <img src="/Data Preparation/Exploration/Visualizations/age_bmi_barplot.png">
           <img src="/Data Preparation/Exploration/Visualizations/age_bmi.png">
@@ -398,14 +398,14 @@
     All visualizations can be found in the notebooks <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'KNN_with_data_comparison.ipynb'</a> and <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'RandomForest_with_data_comparison.ipynb'</a></p>
     <ul>
       <details>
-        <summary>All visualizations from the notebook <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'KNN_with_data_comparison.ipynb'</a></summary>
+        <summary><b>All visualizations from the notebook <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'KNN_with_data_comparison.ipynb'</a></b></summary>
         <ul>
           <img src="/Data Preparation/Exploration/Visualizations/KNN_withoutValidationSet_output_6.PNG">
           <img src="/Data Preparation/Exploration/Visualizations/KNN_withoutValidationSet_output_7.2.PNG">
         </ul>
       </details>
       <details>
-        <summary>All visualizations from the notebook <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'RandomForest_with_data_comparison.ipynb'</a></summary>
+        <summary><b>All visualizations from the notebook <a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">'RandomForest_with_data_comparison.ipynb'</a></b></summary>
         <ul>
           <img src="/Data Preparation/Exploration/Visualizations/randomForest_visualization_1.png">
           <img src="/Data Preparation/Exploration/Visualizations/randomForest_visualization_2.png">
@@ -414,7 +414,7 @@
     </ul>
     <ul><br>
       <details>
-        <summary>Notebooks</summary>
+        <summary><b>Notebooks</b></summary>
             <ul>
               <li><a href="/Data Preparation/Exploration/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST</a></li>
@@ -430,14 +430,14 @@
     </ul><br><br>
 </details> 
 <details>
-  <summary>Data Cleansing</summary> 
+  <summary><b>Data Cleansing</b></summary> 
     <p>Cleaning the dataset is a very important step that spares difficulties at a later step of the project such as using predictive models on the data and receiving a large amount of errors in return.<br>
     Hence, the start to cleaning the data was made at the basics of it. That means removing columns with mostly missing values, which would have been able to be of any use anymore and removing columns that are not of interest, for instance such that contain strings, since we needed to work with numbers and not text. Occurring duplicates needed to be removed, various date formats changed into one cohesive format and exemplarily also some types that are used in some columns changed into another type such as for example from a float to an integer. Also, some of the missing values were filled in.<br>
     All these cleaning steps needed to be done in several rounds because we had received only bits of the data at one time. Therefore, new data was added often and needed to be merged with the previous dataset and cleaned.<br>
     This process can be viewed in the notebooks <a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">‘Cleaning_data_1st_round.ipynb’</a>, <a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">‘Cleaning_data_2nd_round.ipynb’</a>, <a href="/Data Preparation/Cleaning/Cleaning_data_3rd_round.ipynb">‘Cleaning_data_3rd_round.ipynb’</a>, <a href="/Data Preparation/Cleaning/Cleaning_data_4th_round.ipynb">‘Cleaning_data_4th_round.ipynb’</a> and <a href="/Data Preparation/Cleaning/Cleaning_data_5th_round.ipynb">‘Cleaning_data_5th_round.ipynb’</a>.</p>
     <ul>
       <details>
-        <summary>Cleaning Rounds notebooks</summary>
+        <summary><b>Cleaning Rounds notebooks</b></summary>
           <ul>
             <li><a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
             <li><a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
@@ -457,7 +457,7 @@
     All these steps can be seen in the notebooks <a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">‘Cleaning_pipeline_with_T1Features.ipynb’</a> and <a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">‘Cleaning_pipeline_without_T1Features.ipynb’</a>.</p>
     <ul>
       <details>
-        <summary>Cleaning Pipelines notebooks</summary>
+        <summary><b>Cleaning Pipelines notebooks</b></summary>
           <ul>
             <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
             <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
@@ -466,7 +466,7 @@
     </ul><br>
     <ul>
       <details>
-        <summary>Notebooks</summary>
+        <summary><b>Notebooks</b></summary>
         <ul>
           <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
           <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
@@ -480,12 +480,12 @@
     </ul><br><br>
 </details> 
 <details>
-  <summary>Data Preparation</summary>
+  <summary><b>Data Preparation</b></summary>
     <p>Since data preparation does include steps such as transforming data, removing outliers, filling in missing values and more, and in Lisa’s and my opinion some of these steps also in a way were part of the data cleaning, we already included the transformation of data and removing outliers and just some bits of filling in missing values already in our two cleaning pipelines that were mentioned in the previous section “Data Cleansing”. However, we did not include proper data imputation because another group member was working on that part.<br>
     Therefore, the steps of data preparation can be seen in the notebooks <a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">‘Cleaning_pipeline_with_T1Features.ipynb’</a> and <a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">‘Cleaning_pipeline_without_T1Features.ipynb’</a>.</p>
     <ul>
       <details>
-        <summary>Notebooks</summary>
+        <summary><b>Notebooks</b></summary>
         <ul>
           <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
           <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
@@ -494,7 +494,7 @@
     </ul><br><br>
 </details>
 <details>
-  <summary>Data Explanation</summary>
+  <summary><b>Data Explanation</b></summary>
     <p>As mentioned before, we had received the data in bits that needed to be merged together to one whole dataset. These bits of data were the files: the T0-dataset, the T1-dataset and the Parents Questionnaire. We also decided to include some CBS data, that we researched ourselves, to enlarge the data, since the given data after going through the process of cleaning and preparation lost a lot of data.<br>
     When all these files were merged together, cleaned and prepared, the resulting dataset consisted of 1709 rows and 193 columns, where the rows represent the participants of this study, who are children, and the columns stand for the features or rather the measurements that were taken, questions that were asked and other further factors.<br>
     Thereby, each participant is assigned a unique identification number and has all information that was filled in about him laid out in one row which is separated into 193 cells by the columns.<br>
@@ -504,7 +504,7 @@
     All in all, unfortunately the received data had a lot of missing or false values and outliers in the beginning, but we were able to handle those with data cleaning and preparation.</p>
 </details>
 <details>
-  <summary>Data Visualization</summary>
+  <summary><b>Data Visualization</b></summary>
     <p>During the process of cleaning and preparing the data, the decisions that were made on the alterations were all conducted in regards of the predictive model that we aspired to train on the data.<br>
     Therefore, it was important to clear out NaN values, not cohesive formats, outliers, unnecessary columns and more. Encoding columns that had the type ‘string’, but were still important to use for the prediction model, was an important step as well because the prediction model cannot work with ‘string’-values, but with numbers such as ‘integers’ and ‘floats’.<br>
     In addition, imputing missing values played a great role for future predictions made by the prediction model because the model has to predict on a rather small amount of data, it can reduce the accuracy of the model and result in useless predictions.<br>
@@ -513,12 +513,12 @@
 <!-- COMMUNICATION -->
 <div><h3>COMMUNICATION</h3></div>
 <details>
-  <summary>Presentations</summary> 
+  <summary><b>Presentations</b></summary> 
     <p>In the communication part of this project, I have held two internal and one external presentation, prepared and/or helped prepare the slides for the presentations, created the design and layout of the slides and Kahoot quiz for the learning lab. I also worked on the research paper and wrote parts of it, as well as proofread and gave feedback to the parts my teammates composed. Also, I was always physically present during all presentations to support my teammate(s), who was or were giving the presentation and to react towards questions or feedback from the audience, even if I was not the one giving the presentation.<br>
     Folliwing, my contributions to this part wil be described more precisely:</p>
     <ul>
       <details>
-        <summary>Internal Presentations</summary>
+        <summary><b>Internal Presentations</b></summary>
           <a href="/Presentations/Internal Presentations/InternalPresentation_1_TeamMotoric.pdf">Internal Presentation 1</a>
           <p>While my teammates and I created the slides together, I held the first internal presenation on my own.<br>
           When creating the slides, we sat together as a group and discussed the design, layout and content for each of the created slides.</p>
@@ -537,7 +537,7 @@
           <br>
       </details>
       <details>
-        <summary>External Presentations</summary>
+        <summary><b>External Presentations</b></summary>
           <a href="/Presentations/External Presentations/ExternalPresentation_2_TeamMotoric.pdf">External Presentation 2</a>
           <p>The sencond external presentation was prepared by my teammates, however Pascal and I presented it. I held the presentation from the beginning until the slide number six.</p>
           <br>
@@ -546,7 +546,7 @@
           <br>
       </details>
       <details>
-        <summary>Learning Lab</summary>
+        <summary><b>Learning Lab</b></summary>
           <a href="/Presentations/Learning Lab/LearningLab_DesignAndLayout_TeamMotoric.pdf">Learning Lab Design & Layout</a>
           <p>Although I did not present the learning lab, I contributed to it by preparing the slides for it, which means I created the complete design and layout, as well as gave some input on possible content ideas and placements.</p>
           <br>
@@ -564,7 +564,7 @@
     </ul>
 </details> 
 <details>
-    <summary>Writing Paper</summary> 
+    <summary><b>Writing Paper</b></summary> 
     <p>Together with my teammates, I participated in writing the <a href="/Paper/ADS_Paper_TeamMotoric.pdf">research paper</a>. I especially focused on writing the part of “Related work”, but also composed the introduction and “Materials” as a team effort together with Lisa and the "Abstract" with Pascal and Joost.
     <br>The main research question was formulated as a group, where every member of our group participated in that discussion and we established it together. The three subquestions were then discussed, composed and added by Lisa, Joep and me, whereas Pascal, Mustafa and Joost gave us feedback about them. 
     <br>I also added a lot of the sources that are listed in “References”.  
@@ -575,7 +575,7 @@
 <!-- Bibliography -->
 <div><h3>BIBLIOGRAPHY</h3></div>
 <details>
-    <summary>All References included in this portfolio</summary> 
+    <summary><b>All References included in this portfolio</b></summary> 
     <ul>
       <li><a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Scrum - Team Motoric</a></li>
       <li><a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a></li>
@@ -605,6 +605,6 @@
 <!-- ALL NOTEBOOKS vielleicht? -->
 <div><h3>NOTEBOOKS</h3></div>
 <details>
-  <summary>All Mentioned Notebooks</summary>
+  <summary><b>All Mentioned Notebooks</b></summary>
   <p>...<p>
 </details>
