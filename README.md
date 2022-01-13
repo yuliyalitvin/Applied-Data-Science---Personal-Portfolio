@@ -124,7 +124,6 @@
     </p>
     <ul><a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Link to Planner - Team Motoric</a></ul>
     <br>
-    <br>
     <!-- <a href="https://github.com/joostvanviegen/team-motoric">GitHub Repository - Team Motoric</a> -->
 </details>
 <!-- PREDICTIVE ANALYTICS -->
