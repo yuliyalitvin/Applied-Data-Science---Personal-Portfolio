@@ -608,29 +608,6 @@
 <!-- **************************************************** -->
 <!-- FIRST SECTION -->
 <!-- **************************************************** -->
-<div><h3>Gathering background knowledge on the data science subject</h3></div>
-<!-- DATACAMP COURSES-->
-<details>
-    <summary>DataCamp Courses</summary> 
-    <p>Throughout September until the middle of October, I have completed 16 DataCamp courses with success, while learning a lot through participating in those online courses. Especially the sessions, in which you could try coding something yourself after learning about a new topic were fun and helpful to understand the subject better.</p>
-    <p>Therefore, in the following, screenshots of all required and successfully completed DataCamp courses are displayed:</p>
-    <img src="/DataCamp Completed Courses Screenshots/1_DataCamp_IntroductionTo Python.png">
-    <img src="/DataCamp Completed Courses Screenshots/2_DataCamp_IntermediatePython.png">
-    <img src="/DataCamp Completed Courses Screenshots/3_DataCamp_PythonDataScienceToolbox(Part1).png">
-    <img src="/DataCamp Completed Courses Screenshots/4_DataCamp_PythonDataScienceToolbox(Part2).png">
-    <img src="/DataCamp Completed Courses Screenshots/5_DataCamp_StatisticalThinkingInPython(Part1).png">
-    <img src="/DataCamp Completed Courses Screenshots/6_DataCamp_SupervisedLearningWithScikit-learn.png">
-    <img src="/DataCamp Completed Courses Screenshots/7_DataCamp_IntroductionToDataVisualizationWithMatplotlib.png">
-    <img src="/DataCamp Completed Courses Screenshots/8_DataCamp_LinearClassifiersinPython.png">
-    <img src="/DataCamp Completed Courses Screenshots/9_DataCamp_ModelValidationInPython.png">
-    <img src="/DataCamp Completed Courses Screenshots/10_DataCamp_DataManipulationWithPandas.png">
-    <img src="/DataCamp Completed Courses Screenshots/11_DataCamp_CleaningDataInPython.png">
-    <img src="/DataCamp Completed Courses Screenshots/12_DataCamp_ExploratoryDataAnalysisInPython.png">
-    <img src="/DataCamp Completed Courses Screenshots/13_DataCamp_ManipulatingTimeSeriesDataInPython.png">
-    <img src="/DataCamp Completed Courses Screenshots/14_MachineLearningForTimeSeriesDataInPython.png">
-    <img src="/DataCamp Completed Courses Screenshots/15_TimeSeriesAnalysisInPython.png">
-    <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
-</details> 
 <div><h3>The Project</h3></div>
 <!-- DOMAIN KNOWLEDGE -->
 <details>
