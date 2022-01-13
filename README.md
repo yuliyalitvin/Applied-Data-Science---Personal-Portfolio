@@ -100,7 +100,6 @@
     <br><br>
     Finally, the <b>third subquestion</b> refers to characteristics that might be common in children that have problems in developing their motor skills. If these specific characteristics can be found, the detection of children in need of help might become faster and more efficient.</p>
     <br>
-    <br>
 </details>
 <details>
   <summary><b>Evaluation</b></summary> 
