@@ -322,6 +322,7 @@
           <summary><b>Existing Datasets</b></summary>
           <p>Finding an exisiting dataset was not a necessity for this project because two datasets already existed, since the data had been gathered by <a href="https://www.allesoversport.nl/startvaardig/"><i>Start(V)aardig</i></a> and was given us to work with.<br> However, we did not receive those datasets immediately, for which reason I researched for existing similar datasets on <a href="https://www.kaggle.com/"><i>Kaggle</i></a>. During that research, I found one dataset that seemed to examine a similar topic. That particular dataset looks at the growth development from child- to adulthood, while several growth related measurements were taken, as well as information was gathered from the individual child's parents. I found that two of the taken measurements were about motor skills. Therefore, one of the measurements were the gross and the other the fine motor skills. <br>
           However, I decided against indulding deeper into this dataset because we soon received the first part of the first dataset from our project owner.</p>
+          <ul>
             <details>
               <summary><b>Links to Sourcepage, Excel- and CSV-file of the Child Growth dataset:</b></summary>
                 <ul>
@@ -330,7 +331,8 @@
                   <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a></li>
                 </ul>
             </details>
-            <br>
+          </ul>
+          <br>
         </details>
         <details>
           <summary><b>Data Collection</b></summary>
@@ -364,6 +366,7 @@
     <br>
     <div><h4>AST</h4></div>
     <p>...</p>
+    <br>
   </ul>
 </details>
 <!-- DATA PREPROCESSING -->
