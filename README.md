@@ -31,9 +31,9 @@
     <img src="/DataCamp Completed Courses Screenshots/14_MachineLearningForTimeSeriesDataInPython.png">
     <img src="/DataCamp Completed Courses Screenshots/15_TimeSeriesAnalysisInPython.png">
     <img src="/DataCamp Completed Courses Screenshots/16_JoiningDataWithPandas.png">
-</details> 
-<br>
-<br>
+    <br>
+    <br>
+</details>
 <!-- REFLECTION AND EVALUATION -->
 <div><h3>Reflection and Evaluation</h3></div>
 <details>
