@@ -395,7 +395,7 @@
     </ul>
     <br>
     <h4>Motor Quotient (MQ) Category</h4>
-    <p>The MQ category indicates several set categories for the MQ score which in this study range from 1 - 5, where 1 is the lowest and 5 the highest score.</p>
+    <p>The MQ category indicates several set categories for the MQ score which in this study range from 1 - 5, where 1 is the lowest and 5 the highest score. These categories are useful to classify children to each of those five categories to gather an understanding of their motor competence level. The syntax for the calculation of the MQ categories was provided by the problem owner of this project.</p>
     <br>
   </ul>
 </details>
