@@ -355,7 +355,6 @@
       <summary><b>Reference</b></summary>
       <a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a>
     </details>
-    <br>
     <h4>Fine Motor Skills</h4>
     <p>...</p>
     <br>
