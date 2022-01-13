@@ -34,6 +34,7 @@
     <br>
     <br>
 </details>
+<br>
 <!-- REFLECTION AND EVALUATION -->
 <div><h2>Reflection and Evaluation</h2></div>
 <details>
@@ -260,7 +261,6 @@
     </ul>
     <p>The code and the outcome can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p><br>
 </details>
-<br>
 <!-- DOMAIN KNOWLEDGE -->
 <div><h3>DOMAIN KNOWLEDGE</h3></div>
 <details>
@@ -363,7 +363,6 @@
     <p>...</p>
   </ul>
 </details>
-<br>
 <!-- DATA PREPROCESSING -->
 <div><h3>DATA PREPROCESSING</h3></div>
 <details>
@@ -517,7 +516,6 @@
     In addition, imputing missing values played a great role for future predictions made by the prediction model because the model has to predict on a rather small amount of data, it can reduce the accuracy of the model and result in useless predictions.<br>
     Besides, some of the columns were renamed to make the dataset more readable and comprehensive when preparing it for a prediction model.</p>
 </details>
-<br>
 <!-- COMMUNICATION -->
 <div><h3>COMMUNICATION</h3></div>
 <details>
@@ -579,7 +577,6 @@
     </p>
     <ul><a href="/Paper/ADS_Paper_TeamMotoric.pdf">Link to ADS Paper - Team Motoric</a><ul>
 </details>
-<br>
 <br>
 <br>
 <!-- Bibliography -->
