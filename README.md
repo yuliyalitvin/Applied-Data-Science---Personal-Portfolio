@@ -101,6 +101,8 @@
     The <b>second subquestion</b> refers to the prediction models that are used in data science to predict on data. Thereby, the false negative rate refers to the number of children who are predicted as having a healthy and normal motor competence development, although these children are in fact having problems in that area. This prediction error needs to be very low or in the best-case scenario not present because it is always better to provide a child help even if he does not need it, other than not giving the actually needed help to the child who really is having problems with his development of his motor skills. Because of that, a prediction model has to be found that has the lowest false negative rate.
     <br><br>
     Finally, the <b>third subquestion</b> refers to characteristics that might be common in children that have problems in developing their motor skills. If these specific characteristics can be found, the detection of children in need of help might become faster and more efficient.</p>
+    <br>
+    <br>
 </details>
 <details>
   <summary>Evaluation</summary> 
