@@ -577,6 +577,7 @@
           <img src="/Presentations/Learning Lab/Kahoot Quiz/6_question.png">
           <img src="/Presentations/Learning Lab/Kahoot Quiz/7_question.png">
           <img src="/Presentations/Learning Lab/Kahoot Quiz/8_question.png">
+          <br>
       </details>
     </ul>
 </details> 
