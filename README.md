@@ -653,6 +653,21 @@
           <ul>
             <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">sklearn.ensemble.RandomForestClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</a></li>
           </ul>
+        <h4>Training a Model:</h4>
+          <ul>
+            <li><a href="https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74">Koehrsen, W. (2019, December 10). Hyperparameter Tuning the Random Forest in Python - Towards Data Science. Medium. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74</a></li>
+          </ul>
+        <h4>Evaluating a Model:</h4>
+          <ul>
+            <li><a href="https://ieeexplore.ieee.org/document/7898482">Zhang, S., Li, X., Zong, M., Zhu, X., Wang, R. (2018). Efficient kNN Classification With Different Numbers of Nearest Neighbors. (2018, May 1). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/7898482</a></li>
+            <li><a href="https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501">Hubáček, O. (2018, May 3). Learning to predict soccer results from relational data with gradient boosted trees. SpringerLink. https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501</a></li>
+            <li><a href="https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html">Burduk, R., & Wozniak, M. (2012, April 1). Different decision tree induction strategies for a medical decision problem. De Gruyter. https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html</a></li>
+            <li><a href="https://link.springer.com/article/10.1007/s00357-021-09397-2?error=cookies_not_supported&code=3e088a0e-9823-4130-a74b-db2f196b7167">Plaia, A. (2021, September 3). Comparing Boosting and Bagging for Decision Trees of Rankings. SpringerLink. https://link.springer.com/article/10.1007/s00357-021-09397-2?error=cookies_not_supported&code=3e088a0e-9823-4130-a74b-db2f196b7167</a></li>
+            <li><a href="https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761">Harrison, O. (2019, July 14). Machine Learning Basics with the K-Nearest Neighbors Algorithm. Medium. https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761</a></li>
+            <li><a href="https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html">Chauhan, N. S. (n.d.). Decision Tree Algorithm, Explained. KDnuggets. https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html</a></li>
+            <li><a href="https://www.geeksforgeeks.org/ml-bagging-classifier/">GeeksforGeeks. (2019, May 20). ML | Bagging classifier. https://www.geeksforgeeks.org/ml-bagging-classifier/</a></li>
+            <li><a href="https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml">Ali, R. (2021b, April 21). Predictive Modeling: Types, Benefits, and Algorithms. Oracle NetSuite. https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml</a></li>
+          </ul>
       </ul>
     </ul>
 </details> 
