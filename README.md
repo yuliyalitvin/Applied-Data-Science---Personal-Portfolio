@@ -256,7 +256,7 @@
     <p>The code and the outcome can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p><br>
 </details>
 <!-- DOMAIN KNOWLEDGE -->
-<div><h3>DOMAIN KNOWLEDGE</h3></div>
+<div><h3><b>DOMAIN KNOWLEDGE</b></h3></div>
 <details>
   <summary><b>Introduction of the Subject Field</b></summary> 
     <p>The first information given about the project <i>Motoric</i> was the project description. Which stated as follows: <br> <br><i>Within the Start(V)aardig project several information is gathered among more than 1700 young children. Actual motor competence, perceived motor competence, enjoyment, BMI, age, gender and several factors related to the parenting style are gathered at two different moments (T0 and T1). The assignment is to detect which variables predict a (long term) low and concerning level of motor competence in young children. If we are able to detect a certain ‘risk profile’ at an early stage we (BSC, PE teachers) can provide them appropriate interventions.</i><br><br>
