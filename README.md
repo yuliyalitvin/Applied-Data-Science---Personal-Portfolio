@@ -12,7 +12,7 @@
 <div><h2>DataCamp Courses</h2></div>
 <!-- DATACAMP COURSES-->
 <details>
-  <summary>DataCamp Courses</summary> 
+  <summary><b>DataCamp Courses</b></summary> 
     <p>Throughout September until the middle of October, I have completed 16 DataCamp courses with success, while learning a lot through participating in those online courses. Especially the sessions, in which you could try coding something yourself after learning about a new topic were fun and helpful to understand the subject better.</p>
     <p>Therefore, in the following, screenshots of all required and successfully completed DataCamp courses are displayed:</p>
     <img src="/DataCamp Completed Courses Screenshots/1_DataCamp_IntroductionTo Python.png">
@@ -36,7 +36,7 @@
 <!-- REFLECTION AND EVALUATION -->
 <div><h2>Reflection and Evaluation</h2></div>
 <details>
-  <summary>Reflection</summary>
+  <summary><b>Reflection</b></summary>
     <ul>
       <details>
         <summary><b>Reflection on own contribution to the project</b></summary>
@@ -63,7 +63,7 @@
     </ul>
 </details> 
 <details>
-  <summary>Evaluation on the group project as a whole</summary> 
+  <summary><b>Evaluation on the group project as a whole</b></summary> 
     <p>The group project as a whole had its ups and downs. As I perceived it, it started very enthusiastically, while research has been done and I, like my teammates, got familiar with the project. Unfortunately, I experienced quite a long wait for the first dataset, which meant that our group project could not move further, but the focus was instead shifted on getting familiar with the new programming language and the subject data science in general. After receiving the first part of the dataset, I could finally try some of my newly acquired knowledge on the data, while also get an understanding of the data and prepare it, so that it could have been used in the predictive models.
     However, the main problem in our group project was that we did not receive all the data at once, but rather were sent it in bits, which we had to merge together several times and go through the data preparation process again and again. This was slowing down the continuation of our group project.
     I tried to contribute at each of those reoccurring moments in the best way I could, so that we would acquire new intermediate results with which we could work further. 
@@ -79,7 +79,7 @@
 <!-- RESEARCH PROJECT -->
 <div><h3>RESEARCH PROJECT</h3></div>
 <details>
-  <summary>Task Definition</summary> 
+  <summary><b>Task Definition</b></summary> 
     <p>This project was started by the project Start(V)aardig as a reaction towards the general observation that young children at this day and age suffer more often from poor motor competence development due to the modern way of life in nowadays society. Children starting from a very young age are used to modern technologies which are incorporated in their play devices such as games and other, which leads to the consequences that children that grow up in these modern surroundings are less likely to go outside and play outdoors, as well as indulge into activities such as various sports, but rather stay at home most of the time and mostly sit while using a game device to spend their time. This leads to lack of movement, which increases the chance of that child to develop insufficient motor competence. As a consequence, the child might continue suffering from this underdevelopment up into his adulthood and may never recover, if he did not get proper help to work against the decreasing motor competence to improve his situation.
     Therefore, this project was motivated by the will to interfere in a child’s development process at the right moment, in order to be able to help children before the damage cannot be undone anymore. For that, it is important to detect negative changes in a child’s motor skills development at a very early stage, and in the best-case scenario, before the negative changes had the chance to appear, so that they can be prevented beforehand. However, children that already have decreased motor competence have to be detected just as well, so that they can, too, receive the appropriate treatment they need to try to enhance their motor skills again, or, in the wort-case scenario, if there is no chance of improvement, at least will be supported so that their motor skills won’t decrease further, but stay at the same level. 
     This leads to the problem definition of this project, which is predicting children’s motor competence level to understand which child might or will need help with developing or rather enhancing his motor skills. From that the following research question and the subquestions arose:
@@ -103,18 +103,18 @@
     <br>
 </details>
 <details>
-  <summary>Evaluation</summary> 
+  <summary><b>Evaluation</b></summary> 
     <p>Based on research that has been conducted regarding already existing projects with showing similarities towards this project and general research relating to the data science subject a pattern of proceedings of how such a project needs to be tackled has stood out. 
     Accordingly, the first step is gathering a large amount of data that can be used throughout the project. After gathering the data, it needs to be prepared before the actual use, so that it decreases the chance of falsifying the following predictions. Hence, the data must be explored first to gather an understanding of the given information. Then it needs to be cleaned, where exemplarily missing values have to be deleted, outliers removed and missing data, if needed, imputed and other. When all that is done, a prediction model has to be found that will apply to the subject the best and give most accurate predictions in the end. When the model is selected, it needs to be adjusted to the specific needs and therefore has to be configured and potentially receive hyperparameter tuning. Following the model needs to be trained and evaluated, in terms of its accuracy. This step has to be improved until the predictions are as accurate as possible.
     Correspondingly, these steps functioned as an outlook towards the question of in what direction our group needs to work to, in order to hopefully accomplishing the wanted results.
     </p>
 </details>
 <details>
-  <summary>Conclusions</summary> 
+  <summary><b>Conclusions</b></summary> 
     <p>...</p>
 </details>
 <details>
-  <summary>Planning</summary> 
+  <summary><b>Planning</b></summary> 
     <p>The project planning was done with Scrum while using the Planner app that is provided by the university. Inside the planner we created a new board for this project that includes the buckets ‘Backlog’, ‘Todo’, ‘Doing’, ‘Check’ and ‘Done’. 
     All tasks were at first defined in the ‘Backlog’, after which they were assigned to individual or several team members and moved to ‘Todo’. As soon as one of the tasks that were in the ‘Todo’ bucket was tackled, it was removed from ‘Todo’ and placed in ‘Doing’ until the task was done. If the task was finished, but the persons, who worked on it, wanted to go through it again to check if everything was completed according to the task’s requirements, the task was moved to the bucket ‘Check’. Finally, when the task is completely finished and can be marked as done, it is moved to the ‘Done’-bucket. 
     All tasks that I have worked on either on my own or together with some of my teammates are listed in the Planner. 
