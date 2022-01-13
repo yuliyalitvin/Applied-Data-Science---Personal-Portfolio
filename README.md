@@ -115,7 +115,7 @@
     Moreover, we decided on incorporating weekly sprints that started at the beginning of each week. This way we could start with the new sprint refreshed and focused after the weekend and could define new tasks, discuss issues that might have occurred and planned further proceedings in the project.
     Additionally, we have used GitHub to have automated version control and daily pushes to save everything, that has been worked on. 
     </p>
-    <a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Link to Planner - Team Motoric</a>
+    <ul><a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Link to Planner - Team Motoric</a></ul>
     <!-- <a href="https://github.com/joostvanviegen/team-motoric">GitHub Repository - Team Motoric</a> -->
 </details>
 <!-- PREDICTIVE ANALYTICS -->
