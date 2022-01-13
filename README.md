@@ -1,10 +1,10 @@
 # Applied Data Science - Personal Portfolio
 <div>
-<b>Yuliya Litvin 
-<br>Student number: 20161417
+<p><b>Yuliya Litvin</b> 
+<br>Student number: <b>20161417</b>
 <br>
-<p>Project: StartVaardig - Predicting the development of motoric skills in young children
-<br>Group: Team Motoric</b></p>
+Project: <b>StartVaardig - Predicting the development of motoric skills in young children</b>
+<br>Group: <b>Team Motoric</b></p>
 <br>
 </div>
 <!-- **************************************************** -->
