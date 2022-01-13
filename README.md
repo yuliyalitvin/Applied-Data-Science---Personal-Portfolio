@@ -48,7 +48,6 @@
           Resulting, I contributed in every part of the project. In some parts more and better than in others, but I always tried to put effort into all my contributions, and always be present and supportive for my group to help bringing the project forward and creating a nice atmosphere in the group.
           I have learned a lot of new things during this project and had to overcome challenges as the topics were new to me, where I handled some better than others, but all in all managed the difficulties.
           </p>
-          <br>
       </details>
       <details>
         <summary>Reflection on own learning objectives</summary>
