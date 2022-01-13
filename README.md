@@ -349,23 +349,26 @@
 <details>
   <summary><b>Terminology</b></summary>
   <ul>
-    <div><h4>Gross Motor Skills<h4></div>
+    <h4>Gross Motor Skills</h4>
     <p>These are physical skills that involve the entire body to be able to do tasks such as sit upright, walk, run, jump, as well as catching and throwing, just as kicking a ball, but also swim and ride a bike and others. Therefore these skills require the large muscles of the body that stabilise the core to work correctly, but at the same time need correct coordination between eyes and hand.</p>
     <details>
       <summary><b>Reference</b></summary>
       <a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a>
     </details>
     <br>
-    <div><h4>Perceived Motor Competence<h4></div>
-    <p>Perceived motor competence is as the term already mentioned, the motor competence one thinks one has from one's own observation of one's body.</p>
-    <br>
-    <div><h4>Actual Motor Competence</h4></div>
-    <p>Actual motor competence, in contrary to the perceived motor competence, is the motor competence that one actually has, which for example can be measure with the help of test that for instance are physical exercises.</p>
-    <br>
-    <div><h4>AST</h4></div>
+    <h4>Fine Motor Skills</h4>
     <p>...</p>
     <br>
-    <div><h4>MQ Score</h4></div>
+    <h4>Perceived Motor Competence</h4>
+    <p>Perceived motor competence is as the term already mentioned, the motor competence one thinks one has from one's own observation of one's body.</p>
+    <br>
+    <h4>Actual Motor Competence</h4>
+    <p>Actual motor competence, in contrary to the perceived motor competence, is the motor competence that one actually has, which for example can be measure with the help of test that for instance are physical exercises.</p>
+    <br>
+    <h4>AST</h4>
+    <p>...</p>
+    <br>
+    <h4>MQ Score</h4>
     <p>...</p>
     <br>
   </ul>
