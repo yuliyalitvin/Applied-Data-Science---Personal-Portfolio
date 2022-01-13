@@ -79,6 +79,7 @@
     <br>
     <br>
 </details> 
+<br>
 <!-- RESEARCH PROJECT -->
 <div><h3>Research Project</h3></div>
 <details>
