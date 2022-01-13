@@ -112,6 +112,7 @@
 <details>
   <summary><b>Conclusions</b></summary> 
     <p>...</p>
+    <br>
 </details>
 <details>
   <summary><b>Planning</b></summary> 
