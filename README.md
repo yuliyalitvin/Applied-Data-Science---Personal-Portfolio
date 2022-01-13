@@ -636,6 +636,20 @@
             <li><a href="https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/Home/PlanViews/9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf?Type=PlanLink&Channel=Link&CreatedTime=637773627148720000">Link to Planner - Team Motoric</a></li>
           </ul>
       </ul>
+      <h4>Predictive Analytics</h4>
+      <ul>
+        <h4>Selecting a Model:</h4>
+          <ul>
+            <li><a href="https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml">Ali, R. (2021, April 21). Predictive Modeling: Types, Benefits, and Algorithms. Oracle NetSuite. https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml</a></li>
+            <li><a href="https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/">Mbaabu, O. (2020, December 11). Introduction to Random Forest in Machine Learning. (2020). Engineering Education (EngEd) Program | Section. https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/</a></li>
+            <li><a href="https://content.iospress.com/articles/technology-and-health-care/thc191738">Byeon, H. (2019, January 1). Developing a random forest classifier for predicting the depression and managing the health of caregivers supporting patients with Alzheimer’s Disease - IOS Press. IOS Press Content Library. https://content.iospress.com/articles/technology-and-health-care/thc191738</a></li>
+            <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032720328500?via%3Dihub">Gokten, E. S., Uyulan, C. (2021). Prediction of the development of depression and post-traumatic stress disorder in sexually abused children using a random forest classifier. (2021, January 15). ScienceDirect. https://www.sciencedirect.com/science/article/abs/pii/S0165032720328500?via%3Dihub</a></li>
+            <li><a href="https://ieeexplore.ieee.org/document/7898482">Zhang, S., Li, X., Zong, M., Zhu, X., Wang, R. (2018). Efficient kNN Classification With Different Numbers of Nearest Neighbors. (2018, May 1). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/7898482</a></li>
+            <li><a href="https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501">Hubáček, O. (2018, May 3). Learning to predict soccer results from relational data with gradient boosted trees. SpringerLink. https://link.springer.com/article/10.1007/s10994-018-5704-6?error=cookies_not_supported&code=3cb4df41-82e4-4086-bdf5-370a1e4ea501</a></li>
+            <li><a href="https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html">Burduk, R., & Wozniak, M. (2012, April 1). Different decision tree induction strategies for a medical decision problem. De Gruyter. https://www.degruyter.com/document/doi/10.2478/s11536-011-0142-x/html</a></li>
+            <li><a href="https://link.springer.com/article/10.1007/s00357-021-09397-2?error=cookies_not_supported&code=3e088a0e-9823-4130-a74b-db2f196b7167">Plaia, A. (2021, September 3). Comparing Boosting and Bagging for Decision Trees of Rankings. SpringerLink. https://link.springer.com/article/10.1007/s00357-021-09397-2?error=cookies_not_supported&code=3e088a0e-9823-4130-a74b-db2f196b7167</a></li>
+          </ul>
+      </ul>
     </ul>
 </details> 
 <br>
