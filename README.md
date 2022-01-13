@@ -660,27 +660,33 @@
   <summary><b>All Mentioned Notebooks</b></summary>
   <ul>
     <h4>Data Cleaning and Preparation:</h4>
-    <li><a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
-    <li><a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
-    <li><a href="/Data Preparation/Cleaning/Cleaning_data_3rd_round.ipynb">Cleaning_data_3rd_round.ipynb</a></li>
-    <li><a href="/Data Preparation/Cleaning/Cleaning_data_4th_round.ipynb">Cleaning_data_4th_round.ipynb</a></li>
-    <li><a href="/Data Preparation/Cleaning/Cleaning_data_5th_round.ipynb">Cleaning_data_5th_round.ipynb</a></li>
-    <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
-    <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
+    <ul>
+      <li><a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
+      <li><a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
+      <li><a href="/Data Preparation/Cleaning/Cleaning_data_3rd_round.ipynb">Cleaning_data_3rd_round.ipynb</a></li>
+      <li><a href="/Data Preparation/Cleaning/Cleaning_data_4th_round.ipynb">Cleaning_data_4th_round.ipynb</a></li>
+      <li><a href="/Data Preparation/Cleaning/Cleaning_data_5th_round.ipynb">Cleaning_data_5th_round.ipynb</a></li>
+      <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
+      <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
+    </ul>
     <h4>Data Exploration:</h4>
-    <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_BMI.ipynb">Compare_T0_and_T1_BMI.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Height.ipynb">Compare_T0_and_T1_Height.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_MQ.ipynb">Compare_T0_and_T1_MQ.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Weight.ipynb">Compare_T0_and_T1_Weight.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">KNN_with_data_comparison.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/RandomForest_with_data_comparison.ipynb">RandomForest_with_data_comparison.ipynb</a></li>
-    <li><a href="/Data Preparation/Exploration/Visualizations.ipynb">Visualizations.ipynb</a></li>
+    <ul>
+      <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_BMI.ipynb">Compare_T0_and_T1_BMI.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Height.ipynb">Compare_T0_and_T1_Height.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_MQ.ipynb">Compare_T0_and_T1_MQ.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_Weight.ipynb">Compare_T0_and_T1_Weight.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">KNN_with_data_comparison.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/RandomForest_with_data_comparison.ipynb">RandomForest_with_data_comparison.ipynb</a></li>
+      <li><a href="/Data Preparation/Exploration/Visualizations.ipynb">Visualizations.ipynb</a></li>
+    </ul>
     <h4>Predictive Models:</h4>
-    <li><a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a></li>
-    <li><a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a></li>
-    <li><a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a></li>
-    <li><a href="/Predictive Models/Model_evaluation.py">Model_evaluation.py</a></li>
+    <ul>
+      <li><a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a></li>
+      <li><a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a></li>
+      <li><a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a></li>
+      <li><a href="/Predictive Models/Model_evaluation.py">Model_evaluation.py</a></li>
+    </ul>
   </ul>
 </details>
