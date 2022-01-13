@@ -283,10 +283,10 @@
             <summary><b>Literature</b></summary>
               <ul>
                 <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
-                <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
-                <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
-                <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
-                <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
+                <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Valentine-French, M. L. A. S. (n.d.). Motor Skill Development | Lifespan Development. Lifespan Development. https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/</a></li>
+                <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">Help Me Grow MN. (n.d.). Help Me Grow. https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html</a></li>
+                <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Poole, C. (n.d.). Ages & Stages: How Children Develop Motor Skills. Scholastic. https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/</a></li>
+                <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Admin, K. S. W. (2016, November 29). Gross Motor Development Chart. Kid Sense Child Development. https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/</a></li>
               </ul>
         </details>
       </ul>
@@ -674,10 +674,10 @@
           <h4>Introduction of the Subject Field:</h4>
             <ul>
               <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
-                <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Motor Skill Development</a></li>
-                <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">What Is Motor or Physical Development</a></li>
-                <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Ages & Stages: How Children Develop Motor Skills</a></li>
-                <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Gross Motor Development Chart</a></li>
+                <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Valentine-French, M. L. A. S. (n.d.). Motor Skill Development | Lifespan Development. Lifespan Development. https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/</a></li>
+                <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">Help Me Grow MN. (n.d.). Help Me Grow. https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html</a></li>
+                <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Poole, C. (n.d.). Ages & Stages: How Children Develop Motor Skills. Scholastic. https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/</a></li>
+                <li><a href="https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/">Admin, K. S. W. (2016, November 29). Gross Motor Development Chart. Kid Sense Child Development. https://childdevelopment.com.au/resources/child-development-charts/gross-motor-developmental-chart/</a></li>
             </ul>
           <h4>Literature Research:</h4>
             <ul>
