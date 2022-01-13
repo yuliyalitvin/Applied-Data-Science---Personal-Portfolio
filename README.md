@@ -257,7 +257,8 @@
       <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.4.PNG">
       <img src="/Predictive Models/RandomForest/Output Screenshots/randomForest_output_3.5.PNG">
     </ul>
-    <p>The code and the outcome can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p><br>
+    <p>The code and the outcome can be viewed in the file <a href="/Predictive Models/RandomForest/RandomForest.ipynb">‘RandomForest.ipynb'</a>.</p>
+    <br>
 </details>
 <!-- DOMAIN KNOWLEDGE -->
 <div><h3>DOMAIN KNOWLEDGE</h3></div>
