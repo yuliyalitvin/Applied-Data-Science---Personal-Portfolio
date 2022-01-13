@@ -578,7 +578,6 @@
     <ul><a href="/Paper/ADS_Paper_TeamMotoric.pdf">Link to ADS Paper - Team Motoric</a><ul>
 </details>
 <br>
-<br>
 <!-- Bibliography -->
 <div><h3>BIBLIOGRAPHY</h3></div>
 <details>
