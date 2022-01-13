@@ -263,7 +263,7 @@
 </details>
 <br>
 <!-- DOMAIN KNOWLEDGE -->
-<div><h3>Domain Knowledge</h3></div>
+<div><h3>DOMAIN KNOWLEDGE</h3></div>
 <details>
   <summary>Introduction of the Subject Field</summary> 
     <p>The first information given about the project <i>Motoric</i> was the project description. Which stated as follows: <br> <br><i>Within the Start(V)aardig project several information is gathered among more than 1700 young children. Actual motor competence, perceived motor competence, enjoyment, BMI, age, gender and several factors related to the parenting style are gathered at two different moments (T0 and T1). The assignment is to detect which variables predict a (long term) low and concerning level of motor competence in young children. If we are able to detect a certain ‘risk profile’ at an early stage we (BSC, PE teachers) can provide them appropriate interventions.</i><br><br>
@@ -366,7 +366,7 @@
 </details>
 <br>
 <!-- DATA PREPROCESSING -->
-<div><h3>Data Preprocessing</h3></div>
+<div><h3>DATA PREPROCESSING</h3></div>
 <details>
   <summary>Data Exploration</summary> 
     <p>The data we received for this project was mainly split into two parts: T0 and T1, which demonstrate two different moments in time that are about a year apart from each other. Both datasets mostly refer to the same children that took part in both, the tests conducted at the T0, and the ones at the T1 moment. Additionally, a questionnaire filled out by the children’s parents that was taken at the first, so T0-moment, was handed to us.<br>
@@ -520,7 +520,7 @@
 </details>
 <br>
 <!-- COMMUNICATION -->
-<div><h3>Communication</h3></div>
+<div><h3>COMMUNICATION</h3></div>
 <details>
   <summary>Presentations</summary> 
     <p>In the communication part of this project, I have held two internal and one external presentation, prepared and/or helped prepare the slides for the presentations, created the design and layout of the slides and Kahoot quiz for the learning lab. I also worked on the research paper and wrote parts of it, as well as proofread and gave feedback to the parts my teammates composed. Also, I was always physically present during all presentations to support my teammate(s), who was or were giving the presentation and to react towards questions or feedback from the audience, even if I was not the one giving the presentation.<br>
@@ -584,7 +584,7 @@
 <br>
 <br>
 <!-- Bibliography -->
-<div><h3>Bibliography</h3></div>
+<div><h3>BIBLIOGRAPHY</h3></div>
 <details>
     <summary>All References included in this portfolio</summary> 
     <ul>
@@ -614,7 +614,7 @@
 </details> 
 <br>
 <!-- ALL NOTEBOOKS vielleicht? -->
-<div><h3>All Notebooks</h3></div>
+<div><h3>NOTEBOOKS</h3></div>
 <details>
   <summary>All Mentioned Notebooks</summary>
   <p>...<p>
