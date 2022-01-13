@@ -36,7 +36,7 @@
 </details>
 <br>
 <!-- REFLECTION AND EVALUATION -->
-<div><h3>Reflection and Evaluation</h3></div>
+<div><h2>Reflection and Evaluation</h2></div>
 <details>
   <summary>Reflection</summary>
     <ul>
