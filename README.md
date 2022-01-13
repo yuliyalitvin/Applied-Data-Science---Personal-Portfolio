@@ -439,7 +439,8 @@
               <li><a href="/Data Preparation/Exploration/KNN_with_data_comparison.ipynb">RandomForest_with_data_comparison.ipynb</a></li>
             </ul>
       </details>
-    </ul><br><br>
+    </ul>
+    <br>
 </details> 
 <details>
   <summary><b>Data Cleansing</b></summary> 
@@ -489,7 +490,8 @@
           <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
         </ul>
       </details>
-    </ul><br><br>
+    </ul>
+    <br>
 </details> 
 <details>
   <summary><b>Data Preparation</b></summary>
@@ -503,7 +505,8 @@
           <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
         </ul>
       </details>
-    </ul><br><br>
+    </ul>
+    <br>
 </details>
 <details>
   <summary><b>Data Explanation</b></summary>
@@ -514,6 +517,7 @@
     Questions that were asked in the questionnaire part of the dataset were about the upbringing of the child, his surroundings and other.<br>
     The included CBS data contained information about the income, migration background, age and gender, as well as core numbers.<br>
     All in all, unfortunately the received data had a lot of missing or false values and outliers in the beginning, but we were able to handle those with data cleaning and preparation.</p>
+    <br>
 </details>
 <details>
   <summary><b>Data Visualization</b></summary>
@@ -521,6 +525,7 @@
     Therefore, it was important to clear out NaN values, not cohesive formats, outliers, unnecessary columns and more. Encoding columns that had the type ‘string’, but were still important to use for the prediction model, was an important step as well because the prediction model cannot work with ‘string’-values, but with numbers such as ‘integers’ and ‘floats’.<br>
     In addition, imputing missing values played a great role for future predictions made by the prediction model because the model has to predict on a rather small amount of data, it can reduce the accuracy of the model and result in useless predictions.<br>
     Besides, some of the columns were renamed to make the dataset more readable and comprehensive when preparing it for a prediction model.</p>
+    <br>
 </details>
 <!-- COMMUNICATION -->
 <div><h3>COMMUNICATION</h3></div>
