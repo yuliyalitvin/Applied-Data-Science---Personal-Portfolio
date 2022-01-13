@@ -700,7 +700,7 @@
             </ul>
           <h4>Terminology:</h4>
             <ul>
-              <a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a>
+              <li><a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a></li>
               <a href="https://childdevelopment.com.au/areas-of-concern/fine-motor-skills/">Admin, K. S. W. (2019a, September 26). Fine Motor Skills | Fine Motor Skills Activities. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/fine-motor-skills/</a>
               <a href="https://pubmed.ncbi.nlm.nih.gov/29428503/">Hoeboer, J., J. A. A. M., Ongena, G., Krijger-Hombergen, M., Stolk, E., Savelsbergh, G., J., P., de Vries, S. I. (2018, September 21). The Athletic Skills Track: Age- and gender-related normative values of a motor skills test for 4- to 12-year-old children. J Sci Med Sport. https://pubmed.ncbi.nlm.nih.gov/29428503/</a>
               <li><a href="https://jamanetwork.com/journals/jamapediatrics/article-abstract/512376">Capute, A. J., MD. (1985, September 1). The Motor Quotient: A Method for the Early Detection of Motor Delay. JAMA Pediatrics | JAMA Network. https://jamanetwork.com/journals/jamapediatrics/article-abstract/512376</a></li>
