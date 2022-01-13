@@ -347,7 +347,7 @@
     </ul>
 </details> 
 <details>
-  <summary><b>Explanation of Terminology, Jargon and Definitions</b></summary>
+  <summary><b>Terminology</b></summary>
   <ul>
     <div><h4>Gross Motor Skills<h4></div>
     <p>These are physical skills that involve the entire body to be able to do tasks such as sit upright, walk, run, jump, as well as catching and throwing, just as kicking a ball, but also swim and ride a bike and others. Therefore these skills require the large muscles of the body that stabilise the core to work correctly, but at the same time need correct coordination between eyes and hand.</p>
