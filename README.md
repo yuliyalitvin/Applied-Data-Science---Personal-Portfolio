@@ -362,7 +362,7 @@
     <p>Fine motor skills refer to the smaller muscles in the body such as hands. Therefore, these skills include the ability to fullfil activities as examplarily drawing, cutting, playing and constructing with games like lego and puzzles as well as dressing dolls or use a mouse to do activities on a computer. Additionally, fine motor skills are needed for eating, where hands have to be used to open lunch boxes or other, dressing, that involves for example tying shoelaces, but also most importantly hygiene which demands the use of hands to brush hair or teeth and more.</p>
     <ul>
       <details>
-        <summary><b>Reference</b></summary>
+        <summary><i>Reference</i></summary>
         <a href="https://childdevelopment.com.au/areas-of-concern/fine-motor-skills/">Admin, K. S. W. (2019a, September 26). Fine Motor Skills | Fine Motor Skills Activities. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/fine-motor-skills/</a>
       </details>
     </ul>
