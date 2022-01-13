@@ -144,7 +144,7 @@
     </p>
     <ul>
       <details>
-        <summary><b>List of Refrences</b></summary>
+        <summary><b>Refrences</b></summary>
           <ul>
             <li><a href="https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml">Ali, R. (2021, April 21). Predictive Modeling: Types, Benefits, and Algorithms. Oracle NetSuite. https://www.netsuite.com/portal/resource/articles/financial-management/predictive-modeling.shtml</a></li>
             <li><a href="https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/">Mbaabu, O. (2020, December 11). Introduction to Random Forest in Machine Learning. (2020). Engineering Education (EngEd) Program | Section. https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/</a></li>
@@ -239,7 +239,7 @@
           <li><a href="/Predictive Models/RandomForest/RandomForest.ipynb">RandomForest.ipynb</a></li>
           <li><a href="/Predictive Models/KNN/KNN_withValidationSet.ipynb">KNN_withValidationSet.ipynb</a></li>
           <li><a href="/Predictive Models/KMeans/KMeans.ipynb">KMeans.ipynb</a></li>
-          <li><a href="/Predictive Models/model_evaluation.py">Model_evaluation.py</a></li>
+          <li><a href="/Predictive Models/Model_evaluation.py">Model_evaluation.py</a></li>
         </ul>
       </details>
     </ul>
@@ -463,7 +463,7 @@
       <details>
         <summary><b>Notebooks</b></summary>
             <ul>
-              <li><a href="/Data Preparation/Exploration/Compare_T0_and_T1_Weight.ipynb">Visualizations.ipynb</a></li>
+              <li><a href="/Data Preparation/Exploration/Visualizations.ipynb">Visualizations.ipynb</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST.ipynb">Compare_T0_and_T1_AST</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_AST2.ipynb">Compare_T0_and_T1_AST2</a></li>
               <li><a href="/Data Preparation/Exploration/Comparing Datasets/Compare_T0_and_T1_BMI.ipynb">Compare_T0_and_T1_BMI</a></li>
@@ -516,11 +516,11 @@
       <details>
         <summary><b>Notebooks</b></summary>
         <ul>
-          <li><a href="/Data Preparation/Cleaning/cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
-          <li><a href="/Data Preparation/Cleaning/cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
-          <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_BMI.ipynb">Cleaning_data_3rd_round.ipynb</a></li>
-          <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_Height.ipynb">Cleaning_data_4th_round.ipynb</a></li>
-          <li><a href="/Data Preparation/Cleaning/Compare_T0_and_T1_MQ.ipynb">Cleaning_data_5th_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_data_1st_round.ipynb">Cleaning_data_1st_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_data_2nd_round.ipynb">Cleaning_data_2nd_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_data_3rd_round.ipynb">Cleaning_data_3rd_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_data_4th_round.ipynb">Cleaning_data_4th_round.ipynb</a></li>
+          <li><a href="/Data Preparation/Cleaning/Cleaning_data_5th_round.ipynb">Cleaning_data_5th_round.ipynb</a></li>
           <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_with_T1Features.ipynb">Cleaning_pipeline_with_T1Features.ipynb</a></li>
           <li><a href="/Data Preparation/Cleaning/Cleaning_pipeline_without_T1Features.ipynb">Cleaning_pipeline_without_T1Features.ipynb</a></li>
         </ul>
