@@ -334,7 +334,7 @@
                 <ul>
                   <li><div><a href="/Existing Datasets/Child Growth.xlsx">Child Growth Excel</a></li>
                   <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
-                  <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a></li>
+                  <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Growth skills. (2021, November 17). Kaggle. https://www.kaggle.com/salmanahmad1980/child-growth-measurements</a></li>
                 </ul>
             </details>
           </ul>
@@ -696,7 +696,7 @@
             </ul>
           <h4>Existing Datasets:</h4>
             <ul>
-              <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a></li>
+              <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Growth skills. (2021, November 17). Kaggle. https://www.kaggle.com/salmanahmad1980/child-growth-measurements</a></li>
             </ul>
           <h4>Terminology:</h4>
             <ul>
