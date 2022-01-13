@@ -34,7 +34,6 @@
     <br>
     <br>
 </details>
-<br>
 <!-- REFLECTION AND EVALUATION -->
 <div><h2>Reflection and Evaluation</h2></div>
 <details>
