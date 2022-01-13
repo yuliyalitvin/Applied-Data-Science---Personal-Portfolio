@@ -132,7 +132,6 @@
     <br>
     <!-- <a href="https://github.com/joostvanviegen/team-motoric">GitHub Repository - Team Motoric</a> -->
 </details>
-<br>
 <!-- PREDICTIVE ANALYTICS -->
 <div><h3>PREDICTIVE ANALYTICS</h3></div>
 <details>
