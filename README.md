@@ -83,7 +83,7 @@
 <br>
 <h2>The Project</h2>
 <!-- RESEARCH PROJECT -->
-<div><h3>Research Project</h3></div>
+<div><h3>RESEARCH PROJECT</h3></div>
 <details>
   <summary>Task Definition</summary> 
     <p>This project was started by the project Start(V)aardig as a reaction towards the general observation that young children at this day and age suffer more often from poor motor competence development due to the modern way of life in nowadays society. Children starting from a very young age are used to modern technologies which are incorporated in their play devices such as games and other, which leads to the consequences that children that grow up in these modern surroundings are less likely to go outside and play outdoors, as well as indulge into activities such as various sports, but rather stay at home most of the time and mostly sit while using a game device to spend their time. This leads to lack of movement, which increases the chance of that child to develop insufficient motor competence. As a consequence, the child might continue suffering from this underdevelopment up into his adulthood and may never recover, if he did not get proper help to work against the decreasing motor competence to improve his situation.
