@@ -540,12 +540,12 @@
 </details>
 <details>
   <summary><b>Data Explanation</b></summary>
-    <p>As mentioned before, we had received the data in bits that needed to be merged together to one whole dataset. These bits of data were the files: the T0-dataset, the T1-dataset and the Parents Questionnaire. We also decided to include some CBS data, that we researched ourselves, to enlarge the data, since the given data after going through the process of cleaning and preparation lost a lot of data.<br>
-    When all these files were merged together, cleaned and prepared, the resulting dataset consisted of 1709 rows and 193 columns, where the rows represent the participants of this study, who are children, and the columns stand for the features or rather the measurements that were taken, questions that were asked and other further factors.<br>
-    Thereby, each participant is assigned a unique identification number and has all information that was filled in about him laid out in one row which is separated into 193 cells by the columns.<br>
+    <p>As mentioned before, we had received the data in bits that needed to be merged together to one whole dataset. These bits of data were the files: the T0-dataset, the T1-dataset and the Parents Questionnaire. We also, at first, decided to include some CBS data, that we researched ourselves, to enlarge the data, since the given data after going through the process of cleaning and preparation lost a lot of data. However, after a more thorough inspection of the CBS data and some discussions, we came to the conclusion that the CBS data would have not given us the advantages we expected and would be rather ineffective, for which reason we did not include the CBS data to our received data after all. <br>
+    When all these files were merged together the resulting dataset consisted of structured data with 1709 rows and 36 columns, where the rows represent the participants of this study, who are children, and the columns stand for the features or rather the measurements that were taken, questions that were asked and other further factors.<br>
+    Thereby, each participant is assigned a unique identification number and has all information that was filled in about him laid out in one row which is separated into 36 cells by the columns.<br>
     The main measurements that were taken, and therefore contained in the columns, are about the BMI, competence, motivation and perception of the children. Thus, the competence stands for the actual motor competence of the children and the perception for their perceived motor competence.<br>
     Questions that were asked in the questionnaire part of the dataset were about the upbringing of the child, his surroundings and other.<br>
-    The included CBS data contained information about the income, migration background, age and gender, as well as core numbers.<br>
+    Besides, the CBS data, that might have been included at first, contained information about the income, migration background, age and gender, as well as core numbers.<br>
     All in all, unfortunately the received data had a lot of missing or false values and outliers in the beginning, but we were able to handle those with data cleaning and preparation.</p>
     <br>
 </details>
