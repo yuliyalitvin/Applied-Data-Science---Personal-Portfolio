@@ -650,7 +650,9 @@
             <li><a href="https://link.springer.com/article/10.1007/s00357-021-09397-2?error=cookies_not_supported&code=3e088a0e-9823-4130-a74b-db2f196b7167">Plaia, A. (2021, September 3). Comparing Boosting and Bagging for Decision Trees of Rankings. SpringerLink. https://link.springer.com/article/10.1007/s00357-021-09397-2?error=cookies_not_supported&code=3e088a0e-9823-4130-a74b-db2f196b7167</a></li>
           </ul>
         <h4>Configuring a Model:</h4>
-          <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">sklearn.ensemble.RandomForestClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</a></li>
+          <ul>
+            <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html">sklearn.ensemble.RandomForestClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</a></li>
+          </ul>
       </ul>
     </ul>
 </details> 
