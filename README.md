@@ -551,7 +551,7 @@
 </details> 
 <details>
     <summary>Writing Paper</summary> 
-    <p>Together with my teammates, I participated in writing the <a href="/Paper/ADS_Paper_TeamMotoric.pdf">research paper</a>. I especially focused on writing the part of “Related work”, but also composed the introduction and “Materials” as a team effort together with Lisa.
+    <p>Together with my teammates, I participated in writing the <a href="/Paper/ADS_Paper_TeamMotoric.pdf">research paper</a>. I especially focused on writing the part of “Related work”, but also composed the introduction and “Materials” as a team effort together with Lisa and the "Abstract" with Pascal and Joost.
     <br>The main research question was formulated as a group, where every member of our group participated in that discussion and we established it together. The three subquestions were then discussed, composed and added by Lisa, Joep and me, whereas Pascal, Mustafa and Joost gave us feedback about them. 
     <br>I also added a lot of the sources that are listed in “References”.  
     </p>
