@@ -49,6 +49,7 @@
           Resulting, I contributed in every part of the project. In some parts more and better than in others, but I always tried to put effort into all my contributions, and always be present and supportive for my group to help bringing the project forward and creating a nice atmosphere in the group.
           I have learned a lot of new things during this project and had to overcome challenges as the topics were new to me, where I handled some better than others, but all in all managed the difficulties.
           </p>
+          <br>
       </details>
       <details>
         <summary>Reflection on own learning objectives</summary>
@@ -59,6 +60,8 @@
           Moreover, I once again experienced working in a larger group of people, with whom steady coordination is needed to keep in check who is working on which task and how we can organize ourselves to work together efficiently. From that, working with Scrum was another new experience for me because I had never worked with Scrum before, but learned how it functions during this project. 
           All in all, I did gain many new and different experiences and knowledge throughout this project in different areas, while in some of them I resulted to be better at than others. But I broadened my horizon in terms of programming, data handling, making predictions with models, as well as in the communicational parts of this project. 
           </p>
+          <br>
+          <br>
       </details>
     </ul>
 </details> 
