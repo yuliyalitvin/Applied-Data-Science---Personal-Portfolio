@@ -50,7 +50,7 @@
           </p>
       </details>
       <details>
-        <summary><b>Reflection on own learning objectives</b></summary>
+        <summary><span><b>Reflection on own learning objectives</b></span></summary>
           <p>I learned a lot during this semester and while working on this project. First, I learned a new programming language Python, that I had never worked with before that. At the same time, this was my first encounter with data science, for what reason I had never dealt with this subject previously and had never worked on any similar project before. Only parts such as creating visualizations and graphs were familiar to me through previous courses I had taken. Therefore, I had never prepared datasets, nor worked with predictive models until this project. Thus, I gained a lot of new experiences and knowledge from this project. 
           While working with the datasets, I even gained some more knowledge on Microsoft Excel. But far more importantly, I understood how to work with data and different datasets, how to explore, clean and prepare them properly. Working with predictive models, was a new field for me as well, in which I learned how to configure, train and evaluate some of the predictive models that I have tried. Although I have not understood entirely how the each of the individual models or rather the algorithm they use, works, I understood the differences between the different models and which might be more useful in which situation. 
           Additionally, I practiced presenting in front of a larger group of people in person as well as digitally and practiced preparing the presentation and the slides for the presentation according to time limitations that were given for the presentations. 
