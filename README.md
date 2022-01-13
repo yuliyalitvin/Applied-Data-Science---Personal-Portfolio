@@ -2,9 +2,10 @@
 <div>
 <p><b><i>Yuliya Litvin</i></b> 
 <br><b>Student number:</b> 20161417
-<br>
-<b>Project:</b> StartVaardig - Predicting the development of motoric skills in young children
+<br><b>Minor:</b> Applied Data Science
+<br><b>Lecturer:</b> Jeroen Vuurens, Tony Andrioli, Ruud Vermeij
 <br><b>Group:</b> Team Motoric</p>
+<br><b>Project:</b> StartVaardig - Predicting the development of motoric skills in young children
 <br>
 </div>
 <!-- **************************************************** -->
