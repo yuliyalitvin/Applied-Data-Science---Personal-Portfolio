@@ -591,6 +591,6 @@
 <!-- ALL NOTEBOOKS vielleicht? -->
 <div><h3>All Notebooks</h3></div>
 <details>
-  <summary>All My Notebooks</summary>
+  <summary>All Mentioned Notebooks</summary>
   <p>...<p>
 </details>
