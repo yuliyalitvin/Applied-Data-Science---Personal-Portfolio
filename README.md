@@ -75,6 +75,8 @@
     All in all, although the group project sometimes did not run smoothly, we most of the times, managed to figure out solutions for are problems and move on further with our group project. Some things did not work out exactly as we planned in the beginning as well. For example, that we had the idea to implement a user interface for our prediction model tool, but unfortunately had to cross it out of our planning, since the given time frame did not allow the fulfillment of that task. 
     Nevertheless, we worked as a team at all times and had a great working atmosphere, which made it fun to work together on the group project.
     </p>
+    <br>
+    <br>
 </details> 
 <!-- RESEARCH PROJECT -->
 <div><h3>Research Project</h3></div>
