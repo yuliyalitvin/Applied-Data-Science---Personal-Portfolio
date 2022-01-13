@@ -383,7 +383,7 @@
     </ul>
     <br>
     <h4>Motor Quotient (MQ) Score</h4>
-    <p>...</p>
+    <p>The Motor Quotient (MQ) score is a value that describes the level of motor skills in a child. A high score means that the motor competence is sufficient. A low score indicates insufficiency in the development of the motor competence of that child.</p>
     <br>
     <h4>Motor Quotient (MQ) Category</h4>
     <p>...</p>
