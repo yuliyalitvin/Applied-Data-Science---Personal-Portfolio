@@ -108,6 +108,7 @@
     Accordingly, the first step is gathering a large amount of data that can be used throughout the project. After gathering the data, it needs to be prepared before the actual use, so that it decreases the chance of falsifying the following predictions. Hence, the data must be explored first to gather an understanding of the given information. Then it needs to be cleaned, where exemplarily missing values have to be deleted, outliers removed and missing data, if needed, imputed and other. When all that is done, a prediction model has to be found that will apply to the subject the best and give most accurate predictions in the end. When the model is selected, it needs to be adjusted to the specific needs and therefore has to be configured and potentially receive hyperparameter tuning. Following the model needs to be trained and evaluated, in terms of its accuracy. This step has to be improved until the predictions are as accurate as possible.
     Correspondingly, these steps functioned as an outlook towards the question of in what direction our group needs to work to, in order to hopefully accomplishing the wanted results.
     </p>
+    <br>
 </details>
 <details>
   <summary><b>Conclusions</b></summary> 
