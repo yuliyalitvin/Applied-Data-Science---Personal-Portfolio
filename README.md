@@ -694,6 +694,19 @@
               <li><a href="https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood">Motor Skills: Development in Infancy and Early Childhood</a></li>
               <li><a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Chairilsyah, D. (2019). Web-Based Application to Measure Motoric Development of Early Childhood. JPUD - Jurnal Pendidikan Usia Dini, 13(1), 1–14.</a></li>
             </ul>
+          <h4>Existing Datasets:</h4>
+            <ul>
+              <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a></li>
+            </ul>
+          <h4>Terminology:</h4>
+            <ul>
+              <a href="https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/">Admin, K. S. W. (2019, September 27). Gross Motor Skills | Gross Motor Skills Development | Kid Sense. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/gross-motor-skills/</a>
+              <a href="https://childdevelopment.com.au/areas-of-concern/fine-motor-skills/">Admin, K. S. W. (2019a, September 26). Fine Motor Skills | Fine Motor Skills Activities. Kid Sense Child Development. https://childdevelopment.com.au/areas-of-concern/fine-motor-skills/</a>
+              <a href="https://pubmed.ncbi.nlm.nih.gov/29428503/">Hoeboer, J., J. A. A. M., Ongena, G., Krijger-Hombergen, M., Stolk, E., Savelsbergh, G., J., P., de Vries, S. I. (2018, September 21). The Athletic Skills Track: Age- and gender-related normative values of a motor skills test for 4- to 12-year-old children. J Sci Med Sport. https://pubmed.ncbi.nlm.nih.gov/29428503/</a>
+              <li><a href="https://jamanetwork.com/journals/jamapediatrics/article-abstract/512376">Capute, A. J., MD. (1985, September 1). The Motor Quotient: A Method for the Early Detection of Motor Delay. JAMA Pediatrics | JAMA Network. https://jamanetwork.com/journals/jamapediatrics/article-abstract/512376</a></li>
+              <li><a href="https://pubmed.ncbi.nlm.nih.gov/29428503/">Hoeboer, J., J. A. A. M., Ongena, G., Krijger-Hombergen, M., Stolk, E., Savelsbergh, G., J., P., de Vries, S. I. (2018, September 21). The Athletic Skills Track: Age- and gender-related normative values of a motor skills test for 4- to 12-year-old children. J Sci Med Sport. https://pubmed.ncbi.nlm.nih.gov/29428503/</a></li>
+              <a href="https://kahoot.com/">Kahoot</a>
+            </ul>
         </ul>
     </ul>
 </details> 
