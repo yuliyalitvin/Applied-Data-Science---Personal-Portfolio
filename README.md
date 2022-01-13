@@ -710,7 +710,7 @@
     </ul>
 </details> 
 <br>
-<!-- ALL NOTEBOOKS vielleicht? -->
+<!-- ALL NOTEBOOKS -->
 <div><h3>NOTEBOOKS</h3></div>
 <details>
   <summary><b>All Mentioned Notebooks</b></summary>
