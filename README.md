@@ -134,7 +134,7 @@
 </details>
 <br>
 <!-- PREDICTIVE ANALYTICS -->
-<div><h3>Predictive Analytics</h3></div>
+<div><h3>PREDICTIVE ANALYTICS</h3></div>
 <details>
   <summary>Selecting a Model</summary> 
     <p>The choice of selecting the predictive model for this study was made by researching what type of predictive models exist and then the understanding of which type of result this project has to deliver. Therefore, the wanted result was recognized as such, that the model, in general, is supposed to predict whether a child is has insufficient motor skills or whether he does not and is considered having motor skills in a considered healthy and normal state. Hence, the result is mainly differentiated between motor competent and motor incompetent. 
