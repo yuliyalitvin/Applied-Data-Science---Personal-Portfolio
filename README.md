@@ -81,6 +81,7 @@
 </details> 
 <br>
 <br>
+<h2>The Project</h2>
 <!-- RESEARCH PROJECT -->
 <div><h3>Research Project</h3></div>
 <details>
