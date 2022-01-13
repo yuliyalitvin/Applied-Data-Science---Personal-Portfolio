@@ -282,7 +282,7 @@
         <details>
             <summary><b>Literature</b></summary>
               <ul>
-                <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
+                <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource. NHS Lincolnshire Community Health Services. https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf</a></li>
                 <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Valentine-French, M. L. A. S. (n.d.). Motor Skill Development | Lifespan Development. Lifespan Development. https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/</a></li>
                 <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">Help Me Grow MN. (n.d.). Help Me Grow. https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html</a></li>
                 <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Poole, C. (n.d.). Ages & Stages: How Children Develop Motor Skills. Scholastic. https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/</a></li>
@@ -673,7 +673,7 @@
         <ul>
           <h4>Introduction of the Subject Field:</h4>
             <ul>
-              <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource</a></li>
+              <li><a href="https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf">1st Move A gross and fine motor skills resource. NHS Lincolnshire Community Health Services. https://www.lincolnshirecommunityhealthservices.nhs.uk/application/files/2915/2285/5110/1st_Move.pdf</a></li>
                 <li><a href="https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/">Valentine-French, M. L. A. S. (n.d.). Motor Skill Development | Lifespan Development. Lifespan Development. https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/motor-skill-development/</a></li>
                 <li><a href="https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html">Help Me Grow MN. (n.d.). Help Me Grow. https://helpmegrowmn.org/HMG/HelpfulRes/Articles/WhatMotorPhysicalDev/index.html</a></li>
                 <li><a href="https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/">Poole, C. (n.d.). Ages & Stages: How Children Develop Motor Skills. Scholastic. https://www.scholastic.com/teachers/articles/teaching-content/ages-stages-how-children-develop-motor-skills/</a></li>
