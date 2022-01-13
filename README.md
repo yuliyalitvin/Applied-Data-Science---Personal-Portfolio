@@ -362,10 +362,10 @@
     <div><h4>Actual Motor Competence</h4></div>
     <p>Actual motor competence, in contrary to the perceived motor competence, is the motor competence that one actually has, which for example can be measure with the help of test that for instance are physical exercises.</p>
     <br>
-    <div><h4>MQ Score</h4></div>
+    <div><h4>AST</h4></div>
     <p>...</p>
     <br>
-    <div><h4>AST</h4></div>
+    <div><h4>MQ Score</h4></div>
     <p>...</p>
     <br>
   </ul>
