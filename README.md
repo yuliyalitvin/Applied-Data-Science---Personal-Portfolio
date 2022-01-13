@@ -313,7 +313,8 @@
                   <li><a href="https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood">Motor Skills: Development in Infancy and Early Childhood</a></li>
                   <li><a href="http://journal.unj.ac.id/unj/index.php/jpud/article/view/10371">Chairilsyah, D. (2019). Web-Based Application to Measure Motoric Development of Early Childhood. JPUD - Jurnal Pendidikan Usia Dini, 13(1), 1–14.</a></li>
                 </ul>
-            </details><br><br>
+            </details>
+            <br>
         </details>
         <details>
           <summary><b>Existing Datasets</b></summary>
@@ -326,7 +327,8 @@
                   <li><a href="/Existing Datasets/child_growth_dataset.csv">Child Growth CSV</a></li>
                   <li><a href="https://www.kaggle.com/salmanahmad1980/child-growth-measurements">Weblink to the source of the dataset</a></li>
                 </ul>
-            </details><br><br>
+            </details>
+            <br>
         </details>
         <details>
           <summary><b>Data Collection</b></summary>
@@ -335,6 +337,7 @@
             Unfortunately, the data files cannot be shared because the information contained in those files was trusted to our group by our project owner.</p>
             <p>Because the data that was given to us, had a rather small amount of participants that were in our targeted age group of four to six years old and contained complete information about them, we decided to search for fitting CBS data that might help us to gain a larger amount of data to be able to create rather accurate predictions later on. The CBS data we gathered contained information on core numbers, gender and age, income and the migration background. 
             <br>In the end however, we decided that the data would not be as useful to us in order to make good predictions, and since it did cause great problems while merging the datasets together, we decided to not use the CBS data afterall.</p> 
+            <br>
         </details>
     </ul>
 </details> 
